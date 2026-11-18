@@ -1,0 +1,2657 @@
+slot_slug,rtp,variant,condition,is_default
+10-cash-bisons-b28,96.29,default,,True
+10-cash-bisons-b28,96.29,player_config,Push-Up 2.5x (5x4 reel set),False
+10-cash-bisons-b28,96.29,player_config,Push-Up 5x (5x5 reel set),False
+10-cash-bisons-b28,96.43,bonus_buy,Bonus Buy - Random Free Spins,False
+10-flaming-bisons-b28,96.26,default,,True
+10-flaming-bisons-b28,96.28,bonus_buy,Free Spins Feature bonus buy (75x Base Bet),False
+10-flaming-bisons-b28,96.31,player_config,Push-Up 5x Base Bet: grid grows to 5x5 (40 lines),False
+10-flaming-bisons-b28,96.46,player_config,Push-Up 2.5x Base Bet: grid grows to 5x4 (30 lines),False
+10-pharaohs-b28,96.26,default,,True
+10-pharaohs-b28,96.28,bonus_buy,"Random Free Spins bonus buy, 75x Base Bet",False
+10-pharaohs-b28,96.31,player_config,Push-Up 5x Base Bet (5x5 reel configuration),False
+10-pharaohs-b28,96.46,player_config,Push-Up 2.5x Base Bet (5x4 reel configuration),False
+10-santa-s-reindeers-b28,96.26,default,,True
+10-santa-s-reindeers-b28,96.28,bonus_buy,"Random Free Spins purchase, 75x Base Bet",False
+10-santa-s-reindeers-b28,96.31,player_config,"Push-Up 5x Base Bet, 5x5 grid, 40 lines",False
+10-santa-s-reindeers-b28,96.46,player_config,"Push-Up 2.5x Base Bet, 5x4 grid, 30 lines",False
+10-swords-b28,96.41,default,,True
+10-swords-b28,96.45,ante_bet,Push Bet toggle active (+20% stake),False
+10-swords-b28,96.75,bonus_buy,Random Free Spins bonus buy (50x base bet),False
+1tap-mines-b27,96.0,default,,True
+3-buzzing-wilds-b7,96.02,bonus_buy,"Buy Free Spins RTP range 95.99%-96.02%, headline 96.02%",False
+3-buzzing-wilds-b7,96.03,default,"RTP range 96.02%-96.03% (min-max), headline 96.03%",True
+3-dancing-monkeys-b7,96.0,default,,True
+3-dancing-monkeys-b7,96.0,bonus_buy,Buy Free Spins,False
+3-genie-wishes-b7,96.53,default,,True
+3-kingdoms-battle-of-red-cliffstm-b7,96.5,default,,True
+3-kings-scratch-b10,90.0,default,Single overall figure; game states no per-card-type breakdown,True
+3-magic-eggs-b7,96.49,bonus_buy,Buy Respins 3 (100x bet): 2 features hit randomly,False
+3-magic-eggs-b7,96.51,default,,True
+3-magic-eggs-b7,96.51,bonus_buy,"Buy Respins 2 (70x bet): 1, 2 or 3 features hit randomly",False
+3-magic-eggs-b7,96.52,bonus_buy,Buy Respins 1 (60x bet): 1 feature hits randomly,False
+3-magic-eggs-b7,96.53,bonus_buy,Buy Respins 4 (200x bet): all 3 features guaranteed,False
+3-magic-eggs-b7,96.56,ante_bet,Ante Bet / Double Chance to Win Feature (40x bet multiplier),False
+3-magic-pots-b28,94.25,operator_config,Operator-configurable RTP from the provider showcase; not present in the demo build.,False
+3-magic-pots-b28,96.23,default,,True
+5-frozen-charms-megawaystm-b7,96.5,default,,True
+5-lions-b7,96.5,default,,True
+5-lions-dance-b7,96.5,default,,True
+5-lions-gold-b7,96.5,default,Operator-configurable RTP; range 95.94-96.5% (max shown),True
+5-lions-megaways-2-b7,96.5,default,,True
+5-lions-megaways-2-b7,96.5,ante_bet,Ante Bet ON (50x multiplier),False
+5-lions-megaways-2-b7,96.5,bonus_buy,Buy Free Spins (100x total bet),False
+5-lions-megaways-2-b7,96.5,bonus_buy,Buy Super (150x total bet),False
+5-lions-megaways-2-b7,96.5,bonus_buy,Buy Mystery (500x total bet),False
+5-lions-megaways-b7,96.5,default,,True
+5-lions-megaways-b7,96.5,ante_bet,RTP with ANTE BET (25x multiplier) enabled,False
+5-lions-megaways-b7,96.5,bonus_buy,RTP with BUY FREE SPINS,False
+5-lions-reborn-b7,96.5,default,,True
+5-lions-reborn-b7,96.5,bonus_buy,Buy Free Spins,False
+5-lions-reborn-b7,96.5,bonus_buy,Buy Super Free Spins,False
+6-jokers-b7,96.55,default,,True
+7-clovers-of-fortune-b7,96.47,default,,True
+7-clovers-of-fortune-b7,96.52,bonus_buy,Buy Free Spins,False
+7-piggies-b7,95.99,default,,True
+7-piggies-scratchcard-b7,85.4,default,Theoretical RTP range 85.4%-94.89%,True
+777-rush-b7,96.5,default,,True
+777-wheel-blitz-b7,96.5,default,,True
+777-wheel-blitz-b7,96.5,bonus_buy,"RTP when using BUY FEATURE (Opal Wheel Bonus), printed separately on rules_p1",False
+8-dragons-b7,96.37,default,Range 96.37%-96.39% stated; no default specified; min used as default per TL guidance.,True
+8-golden-dragon-challenge-b7,96.01,default,,True
+8-golden-dragon-challenge-b7,96.01,bonus_buy,Buy Bonus (100x),False
+8-golden-dragon-challenge-b7,96.02,ante_bet,Ante Bet (15x multiplier),False
+888-dragons-b7,96.84,default,,True
+888-gold-b7,97.52,default,,True
+aces-and-eights-b29,99.09,default,with optimal strategy,True
+adventures-b10,97.1,default,Printed in game rules; same value for all three bonus features,True
+aero-b27,88.07,player_config,"RTP can drop to as low as this at the $0.1 minimum bet, due to the same rounding-down effect (bet chosen by the player)",False
+aero-b27,95.99,default,"Minimum RTP floor for a $1.0 bet, printed in Rules -> RTP; winnings are rounded down",True
+aeromasters-b27,96.0,default,,True
+aeromasters-b27,96.22,bonus_buy,Hire Ace mode (purchased round),False
+african-elephant-b7,96.04,default,,True
+african-elephant-b7,96.07,bonus_buy,Buy Free Spins,False
+aladdin-and-the-sorcerer-b7,96.23,default,,True
+aladdin-s-treasure-b7,96.58,default,,True
+alchemist-bonanza-b10,96.0,default,,True
+alchemy-gold-b30,96.78,default,From the provider's own page and official game PDF; the build itself prints no RTP.,True
+alibaba-s-cave-of-fortune-b30,96.77,default,,True
+alien-fruits-2-b10,97.17,default,,True
+alien-fruits-2-b10,97.17,ante_bet,Chance x2 ante-bet feature active (+25% bet),False
+alien-fruits-2-b10,97.17,bonus_buy,"Buy Bonus (Free Spins purchase, x100 bet)",False
+alien-fruits-b10,95.97,default,,True
+alien-fruits-b10,96.03,bonus_buy,Buy Bonus (100x total bet),False
+alien-invaders-b7,96.49,bonus_buy,Buy Free Spins (65x total bet),False
+alien-invaders-b7,96.5,default,,True
+alien-invaders-b7,96.51,ante_bet,,False
+alien-invaders-b7,96.51,bonus_buy,Buy Super Free Spins (400x total bet),False
+all-for-one-b29,96.0,default,,True
+all-lucky-clover-b10,96.64,player_config,"5-lines mode (5x3 grid, bet 0.10-10.00)",False
+all-lucky-clover-b10,96.64,player_config,"20-lines mode (5x3 grid, bet 0.20-10.00)",False
+all-lucky-clover-b10,97.0,default,Overall headline RTP printed by the provider,True
+all-lucky-clover-b10,97.57,player_config,"100-lines mode (5x4 grid, bet 0.50-25.00)",False
+all-lucky-clover-b10,97.6,player_config,"40-lines mode (5x4 grid, bet 0.40-16.00)",False
+almighty-money-quake-b31,92.0,operator_config,Build BP_AlmightyMoneyQuake92 (operator build listed on provider page),False
+almighty-money-quake-b31,94.0,default,Build BP_AlmightyMoneyQuake94 (demo build),True
+almighty-mustang-express-b31,92.0,operator_config,Operator build BP_AlmightyMustangExpress92 listed on the provider page,False
+almighty-mustang-express-b31,93.0,operator_config,Operator build BP_AlmightyMustangExpress93 listed on the provider page,False
+almighty-mustang-express-b31,95.0,default,,True
+almighty-mustang-express-b31,95.0,ante_bet,Express Bet,False
+aloha-king-elvis-x-mas-b10,94.98,default,,True
+aloha-king-elvis-x-mas-b10,95.06,ante_bet,Chance x2.5: Free Spins + Coin Respin together,False
+aloha-king-elvis-x-mas-b10,95.14,ante_bet,Chance x2.5 toggle on: Coin Respin,False
+aloha-king-elvis-x-mas-b10,95.32,ante_bet,Chance x2.5 toggle on: Free Spins,False
+aloha-king-elvis-x-mas-b10,96.87,bonus_buy,Buy Bonus: Coin Respin,False
+aloha-king-elvis-x-mas-b10,97.13,bonus_buy,Buy Bonus: Free Spins with high symbols,False
+aloha-king-elvis-x-mas-b10,98.69,bonus_buy,Buy Bonus: Free Spins with the giant symbol,False
+always-up-b10,96.07,default,,True
+american-blackjack-b7,99.6,default,,True
+american-roulette-b10,94.74,default,,True
+anaconda-gold-b7,96.47,bonus_buy,Buy Free Spins,False
+anaconda-gold-b7,96.54,default,,True
+ancient-egypt-b7,96.13,default,,True
+ancient-egypt-classic-b7,96.51,default,,True
+ancient-island-megawaystm-b7,96.55,default,,True
+ancient-island-megawaystm-b7,96.55,bonus_buy,Buy Free Spins,False
+angel-vs-sinner-b7,96.56,default,,True
+angel-vs-sinner-b7,96.56,bonus_buy,RTP when using BUY FREE SPINS,False
+anubis-wrath-b30,96.75,default,,True
+argonauts-b7,96.46,bonus_buy,RTP when using BUY RESPINS,False
+argonauts-b7,96.47,default,,True
+arrow-b10,97.33,default,overall theoretical RTP printed in the Help section,True
+arrow-b10,97.33,ante_bet,game states the Chance x2 side bet keeps the same RTP,False
+arrow-b10,97.33,bonus_buy,game states the Buy Bonus feature keeps the same RTP,False
+asgard-b7,96.48,default,,True
+avalon-the-lost-kingdom-b10,95.56,default,,True
+avia-fly-2-b22,96.5,default,provider game card inout.games/game/aviafly-two; build constant is a shared template default,True
+avia-fly-b22,95.0,default,Not printed in the build; from the provider game card inout.games/game/aviafly,True
+aviamasters-2-b10,97.0,default,"printed in game: rules, overall theoretical RTP is 97%",True
+aviamasters-b10,97.0,default,,True
+aztec-blaze-b7,96.5,default,,True
+aztec-bonanza-b7,96.53,default,,True
+aztec-gems-b7,96.52,default,,True
+aztec-gems-deluxe-b7,96.5,default,,True
+aztec-gems-megaways-b7,96.58,default,,True
+aztec-magic-bonanza-b10,96.11,default,,True
+aztec-magic-bonanza-b10,96.19,bonus_buy,Chance x2 feature RTP,False
+aztec-magic-bonanza-b10,96.52,bonus_buy,Buy Bonus (Free Spins) feature RTP,False
+aztec-magic-deluxe-b10,96.96,default,,True
+aztec-maiden-b23,94.86,default,printed in-game summary table (rules_p5.png) as 94.856%,True
+aztec-powernudge-b7,96.46,default,,True
+aztec-powernudge-b7,96.49,bonus_buy,Buy Free Spins,False
+aztec-s-claw-wild-dice-b10,95.97,bonus_buy,Buy Bonus at 80x base bet,False
+aztec-s-claw-wild-dice-b10,96.0,ante_bet,"Bonus Bet active, costs 2x base bet",False
+aztec-s-claw-wild-dice-b10,96.01,ante_bet,"Wild Bet active, costs 5x base bet",False
+aztec-s-claw-wild-dice-b10,96.1,default,,True
+aztec-smash-b7,96.51,bonus_buy,Buy Free Spins,False
+aztec-smash-b7,96.52,default,,True
+aztec-totem-b23,95.96,default,,True
+aztec-treasure-hunt-b7,96.03,default,,True
+aztec-treasure-hunt-b7,96.04,bonus_buy,Buy Free Spins,False
+baba-yaga-b29,96.53,ante_bet,Super Bet enabled,False
+baba-yaga-b29,96.64,bonus_buy,Buy Feature enabled,False
+baba-yaga-b29,96.69,default,,True
+baccarat-b7,98.76,default,,True
+backyard-grill-b10,97.17,default,,True
+backyard-grill-b10,97.17,ante_bet,"Chance x2 (+25% bet, 2x scatter odds) - rules print RTP identical to base",False
+backyard-grill-b10,97.17,bonus_buy,Buy Bonus (100x cost) - rules print RTP identical to base,False
+badge-blitz-b7,96.5,default,,True
+badge-blitz-b7,96.52,bonus_buy,Buy Respins,False
+bait-n-bank-b28,96.37,default,,True
+bali-vacation-b30,96.71,default,From the provider's game page and official PDF; the build itself prints no RTP.,True
+ball-ball-b27,97.0,default,,True
+ballonix-b22,96.0,default,Not printed in the game; value taken from the provider's game card,True
+balloon-doggo-b27,96.0,default,,True
+bamboo-ways-b28,96.2,bonus_buy,Mystery Symbols bonus buy,False
+bamboo-ways-b28,96.3,default,,True
+bamboo-ways-b28,96.3,bonus_buy,Random Scatters bonus buy,False
+bamboo-ways-b28,96.33,bonus_buy,Grand Golden Bamboo bonus buy,False
+bamboo-ways-b28,96.34,bonus_buy,3 Scatters bonus buy,False
+bamboo-ways-b28,96.36,ante_bet,Push Bet 1.5x (Scatter Symbols),False
+bamboo-ways-b28,96.37,ante_bet,Push Bet 3x (Scatter Symbols x2),False
+bandit-megaways-b7,96.54,bonus_buy,Buy Free Spins,False
+bandit-megaways-b7,96.54,bonus_buy,Buy Super Free Spins,False
+bandit-megaways-b7,96.55,default,,True
+barn-festival-b7,96.45,default,,True
+barn-festival-b7,96.45,bonus_buy,Buy Respins,False
+barnstormer-bucks-b29,96.03,default,,True
+barnyard-megahays-megaways-b7,96.5,default,,True
+barnyard-megahays-megaways-b7,96.5,bonus_buy,Buy Free Spins feature purchased,False
+battleground-royale-b30,96.75,default,Provider game page and VegasSlotsOnline agree; the build prints no RTP.,True
+bear-crazy-b7,96.52,default,,True
+bear-crazy-b7,96.52,bonus_buy,All 6 Buy Feature variants (Mega/Multiplied/Expanding Bears + Super variants),False
+beast-band-b10,96.88,default,,True
+beast-band-b10,96.88,ante_bet,Chance x2.5 side bet,False
+beast-band-b10,96.88,bonus_buy,Buy Bonus - Free Spins,False
+beast-band-b10,96.88,bonus_buy,Buy Bonus - Disk Respin Feature,False
+bee-keeper-b7,96.53,default,,True
+bee-keeper-b7,96.53,ante_bet,RTP when using ANTE BET (10x bet multiplier),False
+bee-keeper-b7,96.53,bonus_buy,RTP when using BUY FREE SPINS,False
+beer-bonanza-b10,95.97,default,,True
+beer-bonanza-b10,96.0,ante_bet,Chance x2 mode (+25% bet),False
+beer-bonanza-b10,96.03,bonus_buy,Buy Bonus feature,False
+better-barn-house-bonanza-b7,96.5,default,,True
+better-barn-house-bonanza-b7,96.5,bonus_buy,Buy Wheel Bonus (50x),False
+beware-the-deep-megaways-b7,96.51,bonus_buy,Buy Free Spins (6–7 BONUS symbols / SUPER BUY): range 96.51%–96.54%; using lower bound,False
+beware-the-deep-megaways-b7,96.52,default,Default RTP range 96.52%–96.54% (source: paytable_p6.png GAME RULES); using lower bound as headline value,True
+beware-the-deep-megaways-b7,96.53,bonus_buy,Buy Free Spins (4–5 BONUS symbols): range 96.53%–96.55%; using lower bound,False
+big-bam-book-b28,96.26,ante_bet,Push Bet: Scatters,False
+big-bam-book-b28,96.3,bonus_buy,Buy 5 Bonus Symbols,False
+big-bam-book-b28,96.31,default,,True
+big-bam-book-b28,96.32,bonus_buy,Buy 3 Bonus Symbols,False
+big-bam-book-b28,96.36,bonus_buy,Buy Random Bonus Symbols,False
+big-bam-book-b28,96.37,bonus_buy,Buy 4 Bonus Symbols,False
+big-bam-book-b28,96.39,ante_bet,Push Bet: Mysteries and Scatters,False
+big-bamboo-2-b28,96.07,feature,No Push Bet; player always uses the Gamble Feature (double-up),False
+big-bamboo-2-b28,96.12,player_config,Push Bet active and player always gambles,False
+big-bamboo-2-b28,96.33,ante_bet,Push Bet active (1.5x Base Bet); player never gambles,False
+big-bamboo-2-b28,96.36,default,"Base bet, no Push Bet, player never uses the Gamble Feature",True
+big-bamboo-b28,96.13,default,Strategy: never using the Gamble Feature,True
+big-bamboo-b28,96.52,feature,Strategy: always using the Gamble Feature,False
+big-bamboo-b28,96.71,bonus_buy,"8-10 FS, all 4 low symbols converted, 608x base bet; one RTP printed",False
+big-bamboo-b28,96.74,bonus_buy,"Mystery Free Spins, 300x base bet, Gamble used",False
+big-bamboo-b28,96.76,bonus_buy,"7-9 FS, 2 low symbols converted, 179x base bet, Gamble used",False
+big-bamboo-b28,96.94,bonus_buy,"7-9 FS, no low symbols converted, 99x base bet, Gamble used",False
+big-bass-amazon-xtreme-b7,96.06,ante_bet,Ante Bet 15x,False
+big-bass-amazon-xtreme-b7,96.07,default,,True
+big-bass-amazon-xtreme-b7,96.07,bonus_buy,Buy Free Spins,False
+big-bass-blast-b7,96.5,default,,True
+big-bass-blast-b7,96.5,bonus_buy,Buy Free Spins,False
+big-bass-blast-b7,96.51,ante_bet,Higher Chance to Win Feature (Ante Bet),False
+big-bass-bonanza-1000-b7,96.51,default,,True
+big-bass-bonanza-1000-b7,96.51,bonus_buy,BUY FREE SPINS (100x),False
+big-bass-bonanza-1000-b7,96.51,bonus_buy,BUY SUPER FREE SPINS (450x),False
+big-bass-bonanza-1000-b7,96.51,default,"With Ante Bet (1.5x, HIGHER CHANCE TO WIN FEATURE)",False
+big-bass-bonanza-3-reeler-b7,96.5,default,,True
+big-bass-bonanza-3-reeler-b7,96.5,bonus_buy,Buy Free Spins,False
+big-bass-bonanza-b7,96.71,default,,True
+big-bass-bonanza-megaways-b7,96.72,default,,True
+big-bass-bonanza-reel-action-b7,96.5,default,,True
+big-bass-bonanza-reel-action-b7,96.5,bonus_buy,Buy Free Spins 100x,False
+big-bass-boxing-bonus-round-b7,96.5,default,,True
+big-bass-boxing-bonus-round-b7,96.5,ante_bet,"Ante Bet (15x multiplier, more Scatters, Buy FS disabled)",False
+big-bass-boxing-bonus-round-b7,96.5,bonus_buy,Buy Free Spins (100x) or Buy Super Free Spins (300x),False
+big-bass-christmas-bash-b7,96.71,default,,True
+big-bass-christmas-bash-b7,96.71,ante_bet,"Ante Bet (1.5x total bet, higher scatter frequency)",False
+big-bass-christmas-bash-b7,96.71,bonus_buy,Buy Free Spins (100x bet),False
+big-bass-christmas-frozen-lake-b7,96.07,default,"Same 96.07% for base game, ANTE BET, BUY FREE SPINS and BUY FROZEN LAKE FREE SPINS (rules p.5/8)",True
+big-bass-day-at-the-races-b7,96.06,default,Ante Bet active (1.5x total bet),False
+big-bass-day-at-the-races-b7,96.07,default,,True
+big-bass-day-at-the-races-b7,96.07,bonus_buy,Buy Free Spins (100x total bet),False
+big-bass-floats-my-boat-b7,96.06,default,Ante Bet active,False
+big-bass-floats-my-boat-b7,96.07,default,,True
+big-bass-floats-my-boat-b7,96.08,bonus_buy,Buy Standard Free Spins,False
+big-bass-floats-my-boat-b7,96.09,bonus_buy,Buy Super Free Spins,False
+big-bass-football-bonanza-b7,96.5,default,,True
+big-bass-football-bonanza-b7,96.5,bonus_buy,Buy Free Spins (100x),False
+big-bass-football-bonanza-b7,96.5,bonus_buy,Buy Free Spins + Repeat Chance (180x),False
+big-bass-football-bonanza-b7,96.5,bonus_buy,Buy Mega Free Spins (400x),False
+big-bass-halloween-2-b7,96.71,default,,True
+big-bass-halloween-2-b7,96.71,bonus_buy,Buy Free Spins,False
+big-bass-halloween-3-b7,96.5,default,,True
+big-bass-halloween-3-b7,96.5,bonus_buy,Buy Free Spins,False
+big-bass-halloween-3-b7,96.5,bonus_buy,Buy Super Free Spins,False
+big-bass-halloween-3-b7,96.5,default,Ante Bet active,False
+big-bass-halloween-b7,96.06,default,"Identical RTP stated for base game, Ante Bet, and Buy Free Spins (96.06% each)",True
+big-bass-halloween-splash-1000-b7,96.5,default,"Same 96.50 printed for normal play, ANTE BET, BUY FREE SPINS and BUY SUPER FREE SPINS",True
+big-bass-hold-spinner-b7,96.07,default,,True
+big-bass-hold-spinner-b7,96.07,bonus_buy,Buy Free Spins,False
+big-bass-hold-spinner-b7,96.07,bonus_buy,Buy Hold & Spinner,False
+big-bass-hold-spinner-b7,96.09,ante_bet,Ante Bet (Extra Chance of Scatters),False
+big-bass-hold-spinner-megaways-b7,96.7,default,,True
+big-bass-hold-spinner-megaways-b7,96.7,bonus_buy,Buy Free Spins,False
+big-bass-hold-spinner-megaways-b7,96.7,bonus_buy,Buy Hold & Spinner,False
+big-bass-keeping-it-reel-b7,96.07,default,,True
+big-bass-keeping-it-reel-b7,96.07,bonus_buy,Buy Free Spins,False
+big-bass-keeping-it-reel-b7,96.07,default,Ante Bet (1.5x),False
+big-bass-mission-fishin-b7,96.5,default,,True
+big-bass-mission-fishin-b7,96.5,ante_bet,"Ante Bet, bet multiplier 15x vs 10x normal",False
+big-bass-mission-fishin-b7,96.5,bonus_buy,Buy Feature 100x total bet,False
+big-bass-raceday-repeat-b7,96.51,default,,True
+big-bass-reel-repeat-b7,96.51,default,,True
+big-bass-reel-repeat-b7,96.51,bonus_buy,Buy Free Spins (all 3 purchase options: 100x/160x/1250x total bet),False
+big-bass-return-to-the-races-b7,96.07,default,,True
+big-bass-return-to-the-races-b7,96.07,ante_bet,Ante Bet (10x/15x modes),False
+big-bass-return-to-the-races-b7,96.07,bonus_buy,Buy Free Spins / Buy Golden Cup Free Spins,False
+big-bass-secrets-of-the-golden-lake-b7,96.07,default,,True
+big-bass-splash-1000-b7,96.51,bonus_buy,Buy Super Free Spins,False
+big-bass-splash-1000-b7,96.52,default,,True
+big-bass-splash-1000-b7,96.53,ante_bet,Ante Bet (10x/20x modes),False
+big-bass-splash-1000-b7,96.53,bonus_buy,Buy Free Spins,False
+big-bass-splash-b7,96.71,default,,True
+big-bass-splash-b7,96.71,bonus_buy,Buy Free Spins,False
+big-bass-trophy-catch-b7,96.5,default,,True
+big-bass-trophy-catch-b7,96.5,bonus_buy,Buy Free Spins (100x),False
+big-bass-trophy-catch-b7,96.5,bonus_buy,Buy Super Free Spins (300x),False
+big-bass-trophy-catch-b7,96.5,default,Ante Bet 1.5x active,False
+big-bass-vegas-1000-b7,96.52,ante_bet,Ante Bet ON (bet multiplier 15x vs 10x),False
+big-bass-vegas-1000-b7,96.53,default,,True
+big-bass-vegas-1000-b7,96.53,bonus_buy,Buy Free Spins (100x),False
+big-bass-vegas-1000-b7,96.53,bonus_buy,Buy Super Free Spins (450x),False
+big-bass-vegas-double-down-deluxe-b7,96.5,default,,True
+big-bass-vegas-double-down-deluxe-b7,96.5,ante_bet,Using ANTE BET (15x bet multiplier),False
+big-bass-vegas-double-down-deluxe-b7,96.5,bonus_buy,Using BUY FREE SPINS (100x bet),False
+big-bass-vegas-double-down-deluxe-b7,96.5,bonus_buy,Using BUY SUPER FREE SPINS (300x bet),False
+big-bass-xmas-extreme-b7,96.07,default,,True
+big-bass-xmas-extreme-b7,96.07,bonus_buy,Buy Free Spins (100x cost),False
+big-bite-b28,96.38,default,,True
+big-bite-b28,96.45,ante_bet,"Push Bet active (+20% Base Bet, increases Free Spins trigger chance by 59%)",False
+big-bite-b28,96.74,bonus_buy,Bonus Buy: Initial Multiplier x1 (43x Base Bet),False
+big-bite-b28,96.77,bonus_buy,Bonus Buy: Random Bonus Symbols (75x Base Bet),False
+big-bite-b28,96.79,bonus_buy,Bonus Buy: Initial Multiplier x10 (212x Base Bet),False
+big-bite-b28,96.84,bonus_buy,Bonus Buy: Initial Multiplier x3 (93x Base Bet),False
+big-bite-push-ways-b28,96.27,default,,True
+big-bite-push-ways-b28,96.36,bonus_buy,"Random Bonus Symbol Feature bonus buy, 120x Base Bet",False
+big-bite-push-ways-b28,96.37,ante_bet,"Push Bet: 1.5x Base Bet, increases Free Spins trigger chance",False
+big-boat-big-catch-b10,97.2,default,,True
+big-boat-big-catch-b10,97.2,ante_bet,"Chance x2 ante-style bet modifier, +50% total bet",False
+big-boat-big-catch-b10,97.2,bonus_buy,"Buy Bonus feature purchase, 100x total bet",False
+big-bucks-saloon-b10,96.0,default,,True
+big-burger-load-it-up-with-xtra-cheese-b7,96.03,bonus_buy,Buy Free Spins,False
+big-burger-load-it-up-with-xtra-cheese-b7,96.04,default,,True
+big-burger-load-it-up-with-xtra-cheese-b7,96.05,ante_bet,"Ante Bet (15x, Higher Chance to Win) active",False
+big-catch-bass-fishing-b31,93.0,operator_config,operator build BP_BigCatchBassFishing93,False
+big-catch-bass-fishing-b31,95.0,default,,True
+big-catch-bass-fishing-b31,95.0,bonus_buy,Bonus Buy,False
+bigger-barn-house-bonanza-b7,96.5,default,,True
+bigger-barn-house-bonanza-b7,96.5,bonus_buy,Buy Free Spins (100x),False
+bigger-barn-house-bonanza-b7,96.5,bonus_buy,Buy Wheel Bonus (200x),False
+bigger-barn-house-bonanza-b7,96.5,bonus_buy,Buy Bigger Bonus (300x),False
+bigger-bass-blizzard-christmas-catchtm-b7,96.07,bonus_buy,RTP when using the BUY FREE SPINS purchase,False
+bigger-bass-blizzard-christmas-catchtm-b7,96.08,default,,True
+bigger-bass-blizzard-christmas-catchtm-b7,96.08,ante_bet,RTP when the Ante Bet (18x bet multiplier) mode is active,False
+bigger-bass-bonanza-b7,96.71,default,,True
+bigger-bass-splash-b7,96.5,default,,True
+bigger-bass-splash-b7,96.5,ante_bet,Ante Bet (15x or 10x multiplier),False
+bigger-bass-splash-b7,96.5,bonus_buy,Buy Free Spins (100x bet),False
+bikini-island-b29,96.15,default,,True
+bikini-paradise-b30,96.95,default,,True
+bingo-mania-b7,96.47,bonus_buy,BUY BINGO BONUS,False
+bingo-mania-b7,96.49,default,ANTE BET (Double Chance),False
+bingo-mania-b7,96.51,default,base game,True
+bingo-mania-b7,96.52,bonus_buy,BUY FREE SPINS,False
+bird-of-thunder-b29,96.17,default,,True
+bird-up-b23,96.0,default,,True
+bison-battle-b28,96.4,default,,True
+bison-battle-b28,96.58,bonus_buy,Green Valley Feature purchase,False
+bison-battle-b28,96.69,bonus_buy,Ice Park Feature purchase,False
+black-bull-b7,96.51,default,,True
+black-bull-b7,96.69,bonus_buy,Buy Free Spins,False
+blade-fangs-b7,96.05,default,,True
+blade-fangs-b7,96.09,bonus_buy,Buy Free Spins,False
+blazing-fire-pots-hold-spin-b10,96.03,default,,True
+blazing-wilds-megaways-b7,95.93,bonus_buy,Buy Free Spins,False
+blazing-wilds-megaways-b7,96.06,default,,True
+blitz-super-wheel-b7,96.52,default,,True
+bloody-dawn-b7,96.5,default,,True
+bloody-dawn-b7,96.5,ante_bet,"Ante Bet (60x, Triple Chance to Win Feature)",False
+bloody-dawn-b7,96.5,bonus_buy,BUY FREE SPINS (3 scatter),False
+bloody-dawn-b7,96.5,bonus_buy,BUY SUPER FREE SPINS 1 (4 scatter),False
+bloody-dawn-b7,96.5,bonus_buy,BUY SUPER FREE SPINS 2 (5 scatter),False
+bloody-dawn-b7,96.5,bonus_buy,BUY RANDOM FREE SPINS,False
+blue-invaders-b23,94.29,default,,True
+blueberry-island-b23,96.99,player_config,"Playing for the Pink bakery (in-game team choice, switchable anytime)",False
+blueberry-island-b23,97.11,player_config,"Playing for the Blue bakery (in-game team choice, switchable anytime)",True
+bonanza-billion-x-mas-b10,97.98,bonus_buy,Buy Bonus RTP printed in this demo build; provider card lists ~96% overall.,False
+bonanza-billion-x-mas-b10,98.08,ante_bet,Chance x2 RTP printed in this demo build; provider card lists ~96% overall.,False
+bonanza-billion-x-mas-b10,98.21,default,Printed in this demo build; provider card lists ~96% RTP for this title.,True
+bonanza-billion-xtreme-b10,95.97,default,,True
+bonanza-billion-xtreme-b10,96.0,ante_bet,Chance x2 active (+25% total bet),False
+bonanza-billion-xtreme-b10,96.03,bonus_buy,"Buy Free Spins (100x bet, 2x-1000x multiplier)",False
+bonanza-billion-xtreme-b10,96.03,bonus_buy,"Buy Super Free Spins (500x bet, 20x-1000x multiplier)",False
+book-of-cats-b10,96.83,bonus_buy,when the free spins round is bought,False
+book-of-cats-b10,96.99,default,,True
+book-of-cats-megaways-b10,97.07,default,,True
+book-of-cats-megaways-b10,97.07,ante_bet,"with the Chance x2 toggle on, which raises the round cost to 1.5x the bet",False
+book-of-cats-megaways-b10,97.07,bonus_buy,when the regular Free Spins round is bought for 100x the total bet,False
+book-of-cats-megaways-b10,97.07,bonus_buy,when Free Spins with a guaranteed high expanding symbol are bought for 150x,False
+book-of-crown-b23,96.05,default,,True
+book-of-golden-sands-b7,96.38,bonus_buy,Buy Free Spins,False
+book-of-golden-sands-b7,96.46,default,,True
+book-of-hidden-tombs-b10,97.0,default,,True
+book-of-hidden-tombs-b10,97.0,ante_bet,"Chance x2 active (+50% bet, doubles FS chance)",False
+book-of-hidden-tombs-b10,97.0,bonus_buy,Buy Bonus - Free Spins (100x bet),False
+book-of-hidden-tombs-b10,97.0,bonus_buy,Buy Bonus - Super Free Spins (200x bet),False
+book-of-kemet-b10,94.94,default,,True
+book-of-kingdoms-b7,96.69,default,,True
+book-of-mines-b27,95.0,default,,True
+book-of-monsters-b7,96.5,default,,True
+book-of-monsters-b7,96.5,ante_bet,Ante Bet 40x multiplier,False
+book-of-monsters-b7,96.5,bonus_buy,Buy Free Spins (100x bet),False
+book-of-the-fallen-b7,96.48,bonus_buy,Using Buy Free Spins,False
+book-of-the-fallen-b7,96.49,ante_bet,Using Super Spin Ante Bet (10x total bet per spin),False
+book-of-the-fallen-b7,96.5,default,,True
+book-of-tut-megaways-b7,96.0,default,,True
+book-of-tut-megaways-b7,96.01,ante_bet,Ante Bet,False
+book-of-tut-megaways-b7,96.06,bonus_buy,Buy Free Spins,False
+book-of-vikings-b7,96.5,default,,True
+boss-bear-b28,96.26,feature,Always use Gamble Feature (Push Bet makes no difference),False
+boss-bear-b28,96.4,bonus_buy,"Random Free Spins buy, 100x base bet, always use Gamble",False
+boss-bear-b28,96.47,default,No Push Bet; never use Gamble Feature,True
+boss-bear-b28,96.48,bonus_buy,"Golden Reveal Feature buy, 300x base bet, always use Gamble",False
+boss-bear-b28,96.53,ante_bet,With Push Bet; never use Gamble Feature,False
+boss-bear-b28,96.81,bonus_buy,"5 Bonus Symbol Free Spins buy, 600x base bet; one RTP printed",False
+bounty-gold-b7,96.5,default,,True
+bounty-hunter-b7,96.5,bonus_buy,Buy Free Spins (80x bet),False
+bounty-hunter-b7,96.51,default,,True
+bounty-hunter-b7,96.51,bonus_buy,Buy Super Free Spins (500x bet),False
+bounty-hunter-b7,96.54,ante_bet,Ante Bet 240x (Collector guaranteed every spin),False
+bow-of-artemis-b7,96.02,bonus_buy,BUY THE HUNT,False
+bow-of-artemis-b7,96.05,default,,True
+brick-house-bonanza-b7,96.5,default,,True
+brick-house-bonanza-b7,96.5,bonus_buy,Buy Free Spins,False
+brick-house-bonanza-b7,96.5,bonus_buy,Buy Wheel Bonus,False
+bubble-up-b7,96.51,ante_bet,Ante Bet active (cost 1.5x total bet),False
+bubble-up-b7,96.51,ante_bet,"Super Spin 1 active (cost 20x total bet, one guaranteed frame every spin)",False
+bubble-up-b7,96.51,ante_bet,"Super Spin 2 active (cost 100x total bet, two guaranteed frames every spin)",False
+bubble-up-b7,96.51,bonus_buy,"Buy Free Spins, cost 100x total bet",False
+bubble-up-b7,96.52,default,Base/normal play,True
+bubbles-b22,96.5,default,Derived: printed Target x Chance is constant 96.5; RTP not printed,True
+bubbles-b27,97.0,default,,True
+buffalo-duels-b23,95.0,default,,True
+buffalo-king-b7,96.06,default,,True
+buffalo-king-megaways-b7,96.49,ante_bet,Ante Bet / Double Chance (25x multiplier),False
+buffalo-king-megaways-b7,96.5,bonus_buy,Buy Free Spins,False
+buffalo-king-megaways-b7,96.52,default,,True
+buffalo-king-untamed-megaways-b7,96.02,default,,True
+buffalo-win-b30,96.71,default,,True
+buggy-bonus-b29,96.1,default,,True
+bull-fight-b23,96.71,default,,True
+bunny-clyde-b23,96.2,default,,True
+burial-warfare-b23,95.23,default,,True
+burning-chilli-243-b10,97.0,default,,True
+burning-chilli-243-b10,97.0,ante_bet,Chance x2 (+20% to total bet),False
+burning-chilli-243-b10,97.0,bonus_buy,Buy Free Spins (60x total bet),False
+bust-a-nut-b23,94.4,default,Printed in-game RTP is 94.397%,True
+butterfly-blossom-b30,96.74,default,,True
+caishen-s-cash-b7,96.5,default,,True
+caishen-s-cash-pots-b7,96.47,bonus_buy,Buy Super Free Spins (400x bet),False
+caishen-s-cash-pots-b7,96.49,default,,True
+caishen-s-cash-pots-b7,96.49,bonus_buy,Buy Free Spins (100x bet),False
+caishen-s-gold-b7,97.08,default,,True
+calle-pi-ata-b23,94.51,default,printed in-game summary table as 94.506%,True
+candy-blast-b28,94.3,operator_config,Operator-configurable RTP from the provider showcase; not present in the demo build.,False
+candy-blast-b28,96.29,ante_bet,"Push Bet active: doubles Total Bet, raises Free Spins trigger chance (win eval stays on Base Bet)",False
+candy-blast-b28,96.34,default,,True
+candy-blast-b28,96.34,bonus_buy,Bonus Buy: Initial Multiplier x8 with 12 Free Spins (750x Base Bet),False
+candy-blast-b28,96.35,bonus_buy,Bonus Buy: Initial Multiplier x2 with 8 Free Spins (150x Base Bet),False
+candy-blitz-b7,96.02,bonus_buy,RTP when using BUY FREE SPINS,False
+candy-blitz-b7,96.08,default,,True
+candy-blitz-bombs-b7,96.49,default,,True
+candy-blitz-bombs-b7,96.49,bonus_buy,Buy Free Spins,False
+candy-corner-b7,96.49,bonus_buy,Buy Free Spins,False
+candy-corner-b7,96.5,default,,True
+candy-corner-b7,96.5,bonus_buy,Buy Golden Spins,False
+candy-jar-clusters-b7,96.04,bonus_buy,Buy Free Spins,False
+candy-jar-clusters-b7,96.08,default,,True
+candy-monsta-b10,94.03,default,,True
+candy-monsta-halloween-b10,94.03,default,Printed in the in-game rules panel,True
+candy-monsta-st-valentines-b10,94.03,default,,True
+candy-rush-b7,96.53,player_config,SUPER SPIN 1 active (10x normal bet),False
+candy-rush-b7,96.55,player_config,SUPER SPIN 2 active (100x normal bet),False
+candy-rush-b7,96.56,bonus_buy,Buy Free Spins (100x total bet),False
+candy-rush-b7,96.56,bonus_buy,Buy Super Free Spins 1 (300x total bet),False
+candy-rush-b7,96.56,bonus_buy,Buy Super Free Spins 2 (750x total bet),False
+candy-rush-b7,96.58,default,,True
+candy-rush-b7,96.58,ante_bet,ANTE BET active (4x normal bet),False
+candy-stars-b7,96.26,bonus_buy,Buy Free Spins,False
+candy-stars-b7,96.47,default,,True
+candy-tower-b29,96.55,default,,True
+captain-kraken-megaways-b7,96.55,default,,True
+captain-kraken-megaways-b7,96.55,bonus_buy,Buy Respins,False
+captain-s-bounty-b30,96.15,default,Provider page payload and official PG Soft PDF agree; not printed in the build itself,True
+capymania-yellow-b10,97.0,default,,True
+carnival-bonanza-b10,96.0,default,,True
+carnival-bonanza-b10,96.0,ante_bet,RTP in the Chance x2 feature (rules p.12-13),False
+carnival-bonanza-b10,96.0,bonus_buy,RTP in the Buy Bonus feature (rules p.12-13),False
+carnival-cash-b29,95.97,default,,True
+cash-bonanza-b7,96.52,default,,True
+cash-box-b7,96.02,default,,True
+cash-box-b7,96.07,bonus_buy,Buy Free Spins,False
+cash-chips-b7,96.03,default,,True
+cash-chips-b7,96.03,bonus_buy,Buy Free Spins,False
+cash-elevator-b7,96.64,default,,True
+cash-mania-b30,96.75,default,,True
+cash-patrol-b7,96.5,default,,True
+cash-strike-b31,94.0,operator_config,operator build BP_CashStrike94,False
+cash-strike-b31,96.0,default,,True
+cash-strike-hotstepper-2-b31,92.0,operator_config,operator build BP_CashStrikeHotStepper292,False
+cash-strike-hotstepper-2-b31,93.0,operator_config,operator build BP_CashStrikeHotStepper293,False
+cash-strike-hotstepper-2-b31,95.0,default,Standard Play,True
+cash-strike-hotstepper-2-b31,95.0,ante_bet,Power Play (stake x5 of base),False
+cash-strike-hotstepper-b31,92.0,operator_config,Operator build BP_CashStrikeHotStepper92,False
+cash-strike-hotstepper-b31,93.0,operator_config,Operator build BP_CashStrikeHotStepper93,False
+cash-strike-hotstepper-b31,95.0,operator_config,Operator build BP_CashStrikeHotStepper95,False
+cash-strike-hotstepper-b31,96.0,default,,True
+cash-strike-hotstepper-b31,96.0,ante_bet,Power Play (EXTRA BET RTP),False
+cash-strike-x-cash-b31,92.01,operator_config,"Build BP_CashStrikeXCash92, Standard Play",False
+cash-strike-x-cash-b31,92.05,operator_config,"Build BP_CashStrikeXCash92, Power Play",False
+cash-strike-x-cash-b31,93.02,operator_config,"Build BP_CashStrikeXCash93, Standard Play",False
+cash-strike-x-cash-b31,93.04,operator_config,"Build BP_CashStrikeXCash93, Power Play",False
+cash-strike-x-cash-b31,95.02,default,,True
+cash-strike-x-cash-b31,95.02,ante_bet,Power Play,False
+cashosaurus-b29,95.96,default,,True
+castle-of-fire-b7,96.01,default,,True
+castle-of-fire-b7,96.06,bonus_buy,Buy Free Spins,False
+cat-s-soup-b10,98.06,default,,True
+cat-s-soup-b10,98.06,bonus_buy,"RTP for the Buy Bonus feature (rules p13, verbatim)",False
+catanza-b27,95.19,default,,True
+catdiana-b10,95.3,default,,True
+cats-of-olympuss-b28,96.24,bonus_buy,3 Bonus Symbols Free Spins (60.3x Base Bet),False
+cats-of-olympuss-b28,96.26,ante_bet,"Push Bet on (+20% Base Bet, per rules_p9/rules_p10)",False
+cats-of-olympuss-b28,96.31,default,,True
+cats-of-olympuss-b28,96.38,bonus_buy,4 Bonus Symbols Free Spins (110x Base Bet),False
+cats-of-olympuss-b28,96.39,bonus_buy,Random Bonus Symbols Free Spins (109x Base Bet),False
+chase-for-glory-b7,96.0,default,,True
+chase-for-glory-b7,96.0,bonus_buy,RTP when using BUY FREE SPINS,False
+cheetah-wild-b7,96.5,default,,True
+cheetah-wild-b7,96.5,bonus_buy,Buy Super Free Spins (500x),False
+cheetah-wild-b7,96.51,ante_bet,Ante bet (Higher chance to win feature),False
+cheetah-wild-b7,96.57,bonus_buy,Buy Free Spins (100x),False
+chests-of-cai-shen-2-b7,96.5,default,,True
+chests-of-cai-shen-2-b7,96.5,bonus_buy,Buy Fulfillment,False
+chests-of-cai-shen-2-b7,96.5,bonus_buy,Buy X100 Fulfillment,False
+chests-of-cai-shen-b7,96.46,bonus_buy,Buy Chest Feature 50x,False
+chests-of-cai-shen-b7,96.47,default,,True
+chests-of-cai-shen-b7,96.48,bonus_buy,Buy Triple Chest Feature 100x,False
+chests-of-cai-shen-infinity-b7,96.5,default,,True
+chicken-b7,97.5,default,Round played to completion without using the cashout option,True
+chicken-banana-b22,96.0,default,Not printed in-game; from the provider's official game page,True
+chicken-chase-b7,96.48,default,Theoretical RTP when following the game's suggested reel holds (Spin and Hold feature),True
+chicken-coin-b22,96.5,default,,True
+chicken-curry-b23,95.0,default,,True
+chicken-drop-b7,96.5,default,,True
+chicken-drop-b7,96.53,bonus_buy,RTP when using BUY FREE SPINS,False
+chicken-goal-b27,96.0,default,Same 96% printed for all four difficulties (Easy/Medium/Hard/Mad).,True
+chicken-pirate-route-b27,96.0,default,Same 96% RTP printed for all three difficulty levels (Easy/Medium/Hard).,True
+chicken-road-2-0-b22,95.5,default,Not printed in-game; taken from the provider's official game page,True
+chicken-road-2-bonus-b22,96.5,default,,True
+chicken-road-b22,98.0,default,Not printed in the build; from the provider card inout.games/game/chicken-road,True
+chicken-road-bonus-b22,97.0,default,Not printed in the build; from the provider card inout.games/game/chicken-road-bonus,True
+chicken-road-gold-b22,95.5,default,From the provider game card; RTP is not printed anywhere inside the build.,True
+chicken-road-ice-b22,95.5,default,,True
+chicken-road-race-b22,95.5,default,"Not printed in the build; provider card and SlotCatalog, which agree",True
+chicken-road-vegas-b22,95.5,default,From the provider game card; RTP is not printed anywhere inside the build.,True
+chicken-route-b27,96.0,default,"Flat 96% RTP, identical across all four difficulty levels (Easy/Medium/Hard/Mad)",True
+chicken-route-rococo-b27,96.0,default,,True
+chicken-royal-b22,96.5,default,From the provider game card; RTP is not printed in the build.,True
+chicken-run-b23,95.0,default,,True
+chicken-rush-2-b10,97.0,default,RTP assumes optimal strategy: play at least until a Multiplier Booster activates.,True
+chicken-rush-b10,97.0,default,,True
+chicken-shoot-b22,94.0,default,"Not printed in game; confirmed by per-target win chances, matches provider card",True
+chicken-shot-b10,97.0,default,,True
+chicken-vs-zombies-b22,95.5,default,,True
+chilli-heat-b7,96.5,default,,True
+chilli-heat-megaways-b7,96.5,default,Base game theoretical RTP,True
+chilli-heat-megaways-b7,96.5,ante_bet,RTP when using ANTE BET (25x bet multiplier),False
+chilli-heat-megaways-b7,96.5,bonus_buy,Game labels this 'BUY FREE SPINS' RTP but the build has no free spins - it buys the Respin feature,False
+chilli-heat-spicy-spins-b7,96.58,default,,True
+chilli-heat-spicy-spins-b7,96.58,bonus_buy,Buy Respins,False
+christmas-big-bass-bonanza-b7,96.71,default,,True
+christmas-big-bass-bonanza-b7,96.71,bonus_buy,Buy Free Spins,False
+christmas-carol-megaways-b7,96.58,default,,True
+christmas-coin-b23,96.47,default,Printed in-game RTP is 96.467%,True
+christmas-control-b23,94.37,default,,True
+christmas-gift-rush-b29,96.27,bonus_buy,Feature Buy enabled,False
+christmas-gift-rush-b29,96.68,default,,True
+chronos-sands-of-eternity-b7,96.5,default,,True
+chronos-sands-of-eternity-b7,96.5,ante_bet,"Ante Bet 2 (x2.5 total bet, 5x chance of feature)",False
+chronos-sands-of-eternity-b7,96.51,ante_bet,"Ante Bet 1 (x1.5 total bet, 2x chance of feature)",False
+chronos-sands-of-eternity-b7,96.52,bonus_buy,Buy Free Spins,False
+chronos-sands-of-eternity-b7,96.53,bonus_buy,Buy Super Free Spins,False
+clash-of-gods-anubis-vs-hades-b10,96.5,default,,True
+cleocatra-b7,96.2,default,,True
+cleocatra-b7,96.2,bonus_buy,Buy Free Spins,False
+cloud-piggies-b27,96.0,default,"Every tier: multiplier x win chance = 0.96, so RTP is flat across tiers.",True
+clover-bonanza-b10,95.97,default,,True
+clover-bonanza-b10,96.0,ante_bet,Chance x2 active,False
+clover-bonanza-b10,96.03,bonus_buy,Buy Bonus (Buy Free Spins),False
+clover-gold-b7,96.54,default,,True
+club-tropicana-b7,96.07,bonus_buy,Buy Free Spins,False
+club-tropicana-b7,96.08,default,Ante Bet RTP is also 96.08%,True
+club-tropicana-happy-hour-b7,96.5,default,,True
+club-tropicana-happy-hour-b7,96.5,ante_bet,"Ante Bet: 15x bet multiplier (vs standard 10x, more scatters, buy disabled)",False
+club-tropicana-happy-hour-b7,96.5,bonus_buy,Buy Free Spins (100x total bet),False
+club-tropicana-happy-hour-b7,96.5,bonus_buy,"Buy Super Free Spins (350x total bet, all modifiers unlocked)",False
+code-of-cairo-b7,96.51,default,,True
+coinflip-b22,97.0,default,,True
+colossal-cash-zone-b7,96.5,default,,True
+congo-cash-b7,96.51,default,,True
+congo-cash-xl-b7,96.41,default,,True
+congo-cash-xl-b7,96.51,bonus_buy,RTP when using BUY FREE SPINS,False
+cop-the-lot-megaways-power-play-b31,92.0,operator_config,operator build BP_CopTheLotMegawaysPP92,False
+cop-the-lot-megaways-power-play-b31,93.0,operator_config,operator build BP_CopTheLotMegawaysPP93,False
+cop-the-lot-megaways-power-play-b31,95.0,default,,True
+cop-the-lot-megaways-power-play-b31,95.0,ante_bet,Power Play (5x base stake),False
+cosmic-cash-b7,96.56,default,,True
+cosmic-cash-b7,96.58,bonus_buy,Buy Cosmic Respins feature purchased,False
+cosmic-clusters-b7,96.44,bonus_buy,Buy Super Free Spins,False
+cosmic-clusters-b7,96.45,default,,True
+cosmic-clusters-b7,96.47,ante_bet,"Ante Bet 2, 50x",False
+cosmic-clusters-b7,96.48,bonus_buy,Buy Free Spins,False
+cosmic-clusters-b7,96.53,bonus_buy,Buy Epic Free Spins,False
+cosmic-clusters-b7,96.54,ante_bet,"Ante Bet 1, 30x",False
+country-farming-b7,96.06,bonus_buy,Buy Free Spins,False
+country-farming-b7,96.07,default,,True
+cowboy-coins-b7,95.99,bonus_buy,Buy Original Free Respins (100x),False
+cowboy-coins-b7,95.99,bonus_buy,Buy Super Multi Collector Free Respins (500x),False
+cowboy-coins-b7,96.08,default,,True
+cowboy-coins-b7,96.15,bonus_buy,Buy Super Double Booster Free Respins (500x),False
+cowboy-coins-b7,96.26,bonus_buy,Buy Super Collector Free Respins (500x),False
+cowboy-coins-b7,96.27,bonus_buy,Buy Super Payer Free Respins (500x),False
+cowboys-gold-b7,96.5,default,,True
+crank-it-up-b7,95.95,default,,True
+crank-it-up-b7,96.03,bonus_buy,RTP when using Buy Free Spins,False
+crash-b22,90.0,default,Not printed in the build or its bundle; from the provider game card,True
+crash-x-b27,88.07,player_config,drops to 88.07% when betting 0.1: wins are rounded down,False
+crash-x-b27,95.99,default,"RTP for a bet of 1.0, printed in the in-game Rules (Game Details -> RTP)",True
+crash-x-football-edition-b27,96.0,default,Flat single figure; booklet states no bet-size dependency,True
+creepy-dippy-b23,96.75,default,,True
+cricket-boom-b27,88.07,player_config,Drops to 88.07% at bet 0.1 (minimum bet): wins rounded down to 2 decimals,False
+cricket-boom-b27,95.99,default,"RTP for a bet of 1.0, printed in Rules -> RTP; falls with rounding-down at lower bets",True
+cricket-road-b22,95.5,default,,True
+crown-of-fire-b7,96.36,default,,True
+cryptos-b22,95.0,default,Not printed in game; 95% on provider card. Our count from the 8 coin types gives 94.6%.,True
+crystal-catcher-b28,94.3,operator_config,Provider storefront's second RTP figure; alternate operator config not present in this demo build,False
+crystal-catcher-b28,96.3,default,"Standard base bet, Push Bet inactive",True
+crystal-catcher-b28,96.4,ante_bet,"Push Bet active: raises Base Bet 20%, increases Free Spins trigger chance",False
+crystal-catcher-b28,96.5,bonus_buy,"Normal Bonus Buy: Wild Beetle Symbol, 75x Base Bet",False
+crystal-catcher-b28,96.56,bonus_buy,"Super Bonus Buy: increased odds, extra high-paying symbols, 275x Base Bet",False
+crystal-caverns-megawaystm-b7,96.46,default,,True
+crystal-caverns-megawaystm-b7,96.47,bonus_buy,Buy Free Spins,False
+crystal-clusters-b10,96.5,default,,True
+crystal-clusters-b10,96.5,bonus_buy,"RTP in the Buy Bonus feature, per rules booklet",False
+crystal-poker-b27,96.0,default,,True
+cult-b7,96.49,bonus_buy,"Buy Super Free Spins (500x, $1000 at $2 base bet)",False
+cult-b7,96.5,feature,"Super Spin special bet (250x, guaranteed multiplier wild, FS disabled)",False
+cult-b7,96.51,default,,True
+cult-b7,96.51,ante_bet,"Ante Bet (125x bet multiplier, 13x higher FS chance)",False
+cult-b7,96.51,bonus_buy,"Buy Free Spins (100x, $200 at $2 base bet)",False
+curse-of-the-werewolf-megaways-b7,96.5,default,,True
+cyber-3x3-b23,96.83,default,,True
+cyberheist-city-b7,96.47,bonus_buy,Buy Free Spins,False
+cyberheist-city-b7,96.48,bonus_buy,Ante Bet (Special Bet),False
+cyberheist-city-b7,96.5,default,,True
+cyberheist-city-b7,96.59,bonus_buy,Buy Super Free Spins,False
+cyclops-smash-b7,96.05,default,,True
+cyclops-smash-b7,96.06,bonus_buy,RTP when using BUY FREE SPINS,False
+dance-party-b7,96.5,default,,True
+day-of-dead-b7,96.49,default,,True
+day-of-dead-b7,96.5,bonus_buy,Buy Free Respins,False
+dead-man-s-riches-b30,96.75,default,,True
+deadly-5-b28,96.39,default,,True
+deadly-5-b28,96.51,bonus_buy,Mystery Sheriff's Bonus Feature bonus buy,False
+deadly-diamond-b23,88.53,default,,True
+death-dominion-b7,96.5,bonus_buy,Buy Dominion Immortal Free Spins (750x total bet),False
+death-dominion-b7,96.51,ante_bet,Super Spin 2 special bet active (5000x bet multiplier),False
+death-dominion-b7,96.51,bonus_buy,Buy Standard Free Spins (100x total bet),False
+death-dominion-b7,96.52,ante_bet,Super Spin 1 special bet active (300x bet multiplier),False
+death-dominion-b7,96.53,ante_bet,Ante Bet 1 special bet active (40x bet multiplier),False
+death-dominion-b7,96.54,default,Base game theoretical RTP,True
+death-dominion-b7,96.54,ante_bet,Ante Bet 2 special bet active (200x bet multiplier),False
+death-dominion-b7,96.55,bonus_buy,Buy Dominion Free Spins (200x total bet),False
+death-dominion-b7,96.56,bonus_buy,Buy Immortal Free Spins (300x total bet),False
+deep-sea-frenzy-b7,96.52,default,,True
+deep-sea-frenzy-b7,96.52,ante_bet,ANTE BET on (40x bet multiplier),False
+deep-sea-frenzy-b7,96.52,bonus_buy,BUY FREE SPINS (170x base bet),False
+demon-pots-b7,96.01,default,,True
+demon-pots-b7,96.01,bonus_buy,Buy Free Spins,False
+demon-pots-b7,96.02,ante_bet,Ante Bet (60x bet multiplier),False
+derby-rush-b10,97.2,default,,True
+derby-rush-b10,97.2,ante_bet,"Chance x2 ante, a 50 percent surcharge on the total bet",False
+derby-rush-b10,97.2,bonus_buy,"Same RTP for all three Buy Bonus tiers: Super, Mega, Ultra",False
+destiny-of-sun-moon-b30,96.8,default,From the provider's own page and official game PDF; the build itself prints no RTP.,True
+devilicious-b7,96.43,ante_bet,Ante Bet 30x,False
+devilicious-b7,96.46,default,,True
+devilicious-b7,96.52,bonus_buy,Buy Free Spins,False
+diamond-cascade-b7,96.02,ante_bet,Ante Bet ON (25x bet multiplier),False
+diamond-cascade-b7,96.06,default,,True
+diamond-cascade-b7,96.14,bonus_buy,Buy Free Spins feature purchased,False
+diamond-of-jungle-b10,97.0,bonus_buy,"Buy Free Spins, Low volatility",False
+diamond-of-jungle-b10,97.01,bonus_buy,"Buy Free Spins, Medium volatility",False
+diamond-of-jungle-b10,97.01,operator_config,"Base game, Low volatility (player-selectable alternate mode)",False
+diamond-of-jungle-b10,97.02,bonus_buy,"Buy Super Free Spins, Low volatility",False
+diamond-of-jungle-b10,97.03,bonus_buy,"Buy Super Free Spins, Medium volatility",False
+diamond-of-jungle-b10,97.04,default,"Base game, Medium volatility (in-game default choice)",True
+diamond-strike-b7,96.48,default,,True
+diamond-strike-scratchcard-b7,76.55,default,Theoretical RTP range 76.55%-85.06% (varies by remaining tickets),True
+diamond-supernova-100-b28,96.33,default,,True
+diamond-supernova-20-b28,96.33,default,,True
+diamond-supernova-40-b28,96.32,default,,True
+diamond-supernova-5-b28,96.34,default,,True
+diamonds-4-the-win-b28,96.38,default,,True
+diamonds-are-forever-3-lines-b7,96.96,default,,True
+diamonds-of-egypt-b7,96.49,default,,True
+dice-million-b10,97.34,default,,True
+dice-twice-b27,89.1,player_config,Can drop to this at bet size 0.1: wins are rounded down to two decimals,False
+dice-twice-b27,97.06,default,"Bet size 1.0: rounding-down floor, RTP varies with bet size per rules booklet",True
+diner-delights-b30,96.75,default,From the provider's own game page; the build itself prints no RTP (both panels read in full).,True
+diner-frenzy-spins-b30,96.8,default,,True
+ding-dong-christmas-bells-b7,96.05,default,"Identical across base game, ANTE BET and BUY MYSTERY BELL per rules_p3.png (three separate statements, all 96.05%)",True
+dino-drop-b7,96.47,default,,True
+dino-p-d-b28,94.43,operator_config,Second RTP configuration on the provider game page (94.50% with Ante Bet); demo serves the 96.38% build,False
+dino-p-d-b28,96.38,default,,True
+dino-p-d-b28,96.5,ante_bet,Push Bet active without the Gamble Feature; the provider game page states the same as '+ Ante Bet = 96.50%',False
+dinopolis-b28,93.95,operator_config,Alternate config on provider's page; not reachable in this demo build.,False
+dinopolis-b28,96.4,default,,True
+dinopolis-b28,96.5,bonus_buy,RTP when the Dino Bonus feature is purchased for 95x Base Bet.,False
+disco-beats-b29,96.62,default,,True
+disco-funk-b29,96.09,default,,True
+disco-party-b10,97.0,bonus_buy,"Buy Bonus, low volatility mode",False
+disco-party-b10,97.01,bonus_buy,"Buy Bonus, medium volatility mode",False
+disco-party-b10,97.01,default,Low volatility mode,False
+disco-party-b10,97.02,bonus_buy,"Buy Super Bonus, low volatility mode",False
+disco-party-b10,97.03,bonus_buy,"Buy Super Bonus, medium volatility mode",False
+disco-party-b10,97.04,default,Medium volatility mode,True
+diver-b22,95.0,default,Not printed in the game; value taken from the provider's game card,True
+divine-queen-heart-of-ice-b10,97.0,default,,True
+divine-queen-heart-of-ice-b10,97.0,ante_bet,Chance x2,False
+divine-queen-heart-of-ice-b10,97.0,bonus_buy,Buy Free Spins,False
+dj-cat-b28,94.03,operator_config,Alternative build offered by the provider; not reachable in the demo,False
+dj-cat-b28,96.25,feature,Push-Up: 4 rows active (7.5x Base Bet),False
+dj-cat-b28,96.27,feature,Push-Up: 3 rows active (5x Base Bet),False
+dj-cat-b28,96.32,default,,True
+dj-cat-b28,96.37,feature,"Push-Up: 5 rows active, full board (10x Base Bet)",False
+dj-cat-b28,96.39,feature,Push-Up: 2 rows active (2.5x Base Bet),False
+dj-fox-b28,96.21,ante_bet,Push-Up 3 rows active (5x Base Bet),False
+dj-fox-b28,96.28,default,,True
+dj-fox-b28,96.31,ante_bet,"Push-Up 5 rows active, full board (10x Base Bet)",False
+dj-fox-b28,96.36,ante_bet,Push-Up 4 rows active (7.5x Base Bet),False
+dj-fox-b28,96.42,ante_bet,Push-Up 2 rows active (2.5x Base Bet),False
+dj-neko-b7,96.5,default,,True
+doddy-and-haddzy-bonanza-b10,96.11,default,,True
+doddy-and-haddzy-bonanza-b10,96.19,ante_bet,Chance x2 feature RTP,False
+doddy-and-haddzy-bonanza-b10,96.52,bonus_buy,Buy Bonus feature RTP,False
+domnitor-s-treasure-b10,94.95,feature,Free Spins feature,False
+domnitor-s-treasure-b10,95.24,default,,True
+domnitor-s-treasure-b10,95.58,feature,Hold and Win feature,False
+donny-king-b27,96.0,default,Single fixed figure printed in the Rules booklet RTP section (rules_p3.png),True
+doomsday-saloon-b10,97.0,default,,True
+doomsday-saloon-b10,97.0,ante_bet,"Wild Spin: paid per-spin toggle, 20x bet, guarantees >=1 wild (not ante/bonus buy)",False
+doomsday-saloon-b10,97.0,bonus_buy,"Buy Bonus: Regular (no guaranteed wilds), 100x bet",False
+doomsday-saloon-b10,97.0,bonus_buy,"Buy Bonus: 1 Guaranteed Wild, 200x bet",False
+doomsday-saloon-b10,97.0,bonus_buy,"Buy Bonus: 2 Guaranteed Wilds, 400x bet",False
+doomsday-saloon-b10,97.0,bonus_buy,"Buy Bonus: All Scatters Turn Wilds (3 guaranteed wilds), 800x bet",False
+double-fortune-b30,96.22,default,From the provider's own game page and official PDF; the build prints no RTP.,True
+double-online-b22,95.0,default,Not printed in-game; from the provider's official game page,True
+double-roll-b27,93.5,default,,True
+down-the-rails-b7,96.51,default,,True
+dr-feelgood-b29,96.02,default,,True
+drago-jewels-of-fortune-b7,96.5,default,,True
+drago-jewels-of-fortune-b7,96.5,bonus_buy,Buy Free Spins,False
+dragon-age-hold-win-b10,95.91,bonus_buy,Buy Respins / direct Gold Respin trigger,False
+dragon-age-hold-win-b10,96.01,bonus_buy,Buy Free Spins (straight to Free Spins feature),False
+dragon-age-hold-win-b10,96.14,default,,True
+dragon-gold-88-b7,96.71,default,,True
+dragon-hatch-2-b30,96.76,default,,True
+dragon-hatch-b30,96.83,default,Single provider source (site payload); no game-information PDF exists for this game; the build prints no RTP.,True
+dragon-hero-b7,96.0,default,,True
+dragon-hero-b7,96.13,bonus_buy,Buy Free Spins,False
+dragon-hopper-b28,96.24,bonus_buy,Bonus Buy: Mystic Flare Feature (20x base bet),False
+dragon-hopper-b28,96.28,ante_bet,"Push Bet: Wild Dragon Symbol toggle (+100% stake, guaranteed Dragon Wild)",False
+dragon-hopper-b28,96.33,default,,True
+dragon-hopper-b28,96.35,ante_bet,Push Bet: Wild Dragon and Scatter Symbol toggle (+150% stake),False
+dragon-hopper-b28,96.37,bonus_buy,Bonus Buy: Random Bonus Symbol with Fire Cloud (350x base bet),False
+dragon-hopper-b28,96.38,bonus_buy,Bonus Buy: Mystic Flare Feature with Instant Prize (75x base bet),False
+dragon-hopper-b28,96.38,bonus_buy,Bonus Buy: Random Bonus Symbol (100x base bet),False
+dragon-hopper-b28,96.4,ante_bet,"Push Bet: Scatter Symbol toggle (+40% stake, higher Scatter chance)",False
+dragon-hot-hold-and-spin-b7,96.7,default,,True
+dragon-king-hot-pots-b7,96.54,default,,True
+dragon-king-hot-pots-b7,96.54,bonus_buy,Buy Bonus (100x total bet),False
+dragon-kingdom-b7,96.47,default,,True
+dragon-kingdom-eyes-of-fire-b7,96.49,default,,True
+dragon-pots-b22,96.0,default,RTP not printed in the game; value taken from the provider's game card,True
+dragon-pots-megawaystm-b7,96.58,default,,True
+dragon-pots-megawaystm-b7,96.58,ante_bet,"Ante Bet (2x base bet, 3x higher Free Spins trigger chance)",False
+dragon-pots-megawaystm-b7,96.58,bonus_buy,Buy Free Spins 100x,False
+dragon-pots-megawaystm-b7,96.58,bonus_buy,Buy Super Free Spins 650x,False
+dragon-pots-megawaystm-b7,96.58,feature,"Super Spin (10x base bet, 1-3 modifiers activated every base-game spin, cannot trigger Free Spins)",False
+dragon-queen-megawaystm-b10,96.75,default,,True
+dragon-queen-megawaystm-b10,96.75,ante_bet,Chance x2 active,False
+dragon-queen-megawaystm-b10,96.75,bonus_buy,Buy Bonus (Buy Free Spins),False
+dragon-s-crash-b10,97.0,default,lower bound of the printed range; the game states 97 to 98.9 percent,True
+dragon-s-crash-b10,98.9,player_config,"upper bound, reached depending on the cash-out strategy the player chooses",False
+dragon-s-gate-bonus-choice-b7,96.5,default,,True
+dragon-s-gate-bonus-choice-b7,96.5,bonus_buy,"Buy Bonus Feature, guaranteed Prosperity modifier",False
+dragon-s-realm-b29,96.0,default,,True
+dragon-s-treasure-quest-b30,96.76,default,From the provider's own game page; the build itself prints no RTP (both panels read in full).,True
+dragon-tiger-b29,67.23,player_config,Tie bet,False
+dragon-tiger-b29,92.31,player_config,Big / Small or suit side bets,False
+dragon-tiger-b29,96.27,default,Bet on Dragon or Tiger (main bet),True
+dragon-tiger-b7,96.27,default,,True
+dragon-tiger-fortunes-b7,96.46,bonus_buy,Buy Free Spins,False
+dragon-tiger-fortunes-b7,96.46,bonus_buy,Buy Wheel Bonus,False
+dragon-tiger-fortunes-b7,96.54,default,,True
+dragon-tiger-luck-b30,96.94,default,Provider page and official PDF agree; the build itself prints no RTP.,True
+drill-that-gold-b7,96.45,default,ANTE BET,False
+drill-that-gold-b7,96.49,default,,True
+drop-the-billionaire-b22,96.0,default,Not printed in-game; from the provider's official game page,True
+duel-of-night-day-b7,96.47,default,,True
+duel-of-night-day-b7,96.52,bonus_buy,Buy Free Spins,False
+dumb-and-dumber-route-to-riches-b31,92.0,operator_config,"BP_DumbAndDumber92 build, provider page",False
+dumb-and-dumber-route-to-riches-b31,93.0,operator_config,"BP_DumbAndDumber93 build, provider page",False
+dumb-and-dumber-route-to-riches-b31,95.0,default,,True
+dusty-duel-b10,97.0,default,,True
+dusty-duel-b10,97.0,ante_bet,Chance Increase (Chance 300% dial),False
+dusty-duel-b10,97.0,bonus_buy,Buy Bonus: First Blood,False
+dusty-duel-b10,97.0,bonus_buy,Buy Bonus: Dead or Alive,False
+dusty-duel-b10,97.0,bonus_buy,Buy Bonus: No Mercy,False
+dwarf-dragon-b7,96.55,bonus_buy,Buy Free Spins,False
+dwarf-dragon-b7,96.59,default,,True
+dwarven-gold-b7,96.64,default,,True
+dwarven-gold-deluxe-b7,96.47,default,,True
+dynamite-diggin-doug-b7,96.1,ante_bet,Ante Bet 1.5x multiplier (Extra Chance of Bonus),False
+dynamite-diggin-doug-b7,96.13,ante_bet,Ante Bet 2x multiplier (Extra Chance of Bonus),False
+dynamite-diggin-doug-b7,96.51,default,,True
+dynamite-diggin-doug-b7,96.53,bonus_buy,Buy Feature (100x total bet),False
+easter-heist-b10,95.91,bonus_buy,Buy Gold Eggs Respin (40x bet),False
+easter-heist-b10,96.01,bonus_buy,Buy Free Spins (50x bet),False
+easter-heist-b10,96.14,default,,True
+easter-plinko-b10,98.91,player_config,lowest of the range printed in game; the player picks risk and rows,True
+easter-plinko-b10,99.16,player_config,"highest of the range printed in game, same player choice",False
+eastern-fury-b7,96.46,bonus_buy,"Buy Super Free Spins, 500x total bet",False
+eastern-fury-b7,96.49,bonus_buy,"Buy Free Spins, 100x total bet",False
+eastern-fury-b7,96.5,ante_bet,"SUPER SPIN 1, real cost 20x base bet (guaranteed expanding wild on reel 5, scatter cannot hit)",False
+eastern-fury-b7,96.51,ante_bet,"ANTE BET, real cost 5x base bet (11x higher natural chance of Free Spins)",False
+eastern-fury-b7,96.53,default,,True
+eastern-fury-b7,96.54,ante_bet,"SUPER SPIN 2, real cost 300x base bet (guaranteed expanding wild with minimum 10x multiplier, scatter cannot hit)",False
+egyptian-dreams-b29,96.08,default,,True
+elemental-gems-megaways-b7,96.51,default,,True
+elements-of-power-b10,97.0,default,,True
+elite-coin-2-b23,96.67,default,,True
+elite-coin-b23,96.25,default,,True
+elvis-frog-in-playamo-b10,95.3,default,,True
+elvis-frog-in-vegas-b10,95.3,default,,True
+emerald-king-b7,96.51,default,,True
+emerald-king-rainbow-road-b7,96.71,default,,True
+emerald-king-wheel-of-wealth-b7,96.51,ante_bet,Ante Bet (10x bet multiplier) active,False
+emerald-king-wheel-of-wealth-b7,96.53,default,Base game (theoretical RTP),True
+emerald-king-wheel-of-wealth-b7,96.53,bonus_buy,Buy Free Spins (100x total bet),False
+emoji-riches-b30,96.78,default,,True
+emotiwins-b7,96.5,default,,True
+empty-the-bank-b7,96.44,bonus_buy,RTP for buying Empty the Bank Respin (80x bet); PP prints this line as 'Buy Free Spins' though there are no free spins,False
+empty-the-bank-b7,96.48,default,,True
+empty-the-bank-b7,96.48,ante_bet,RTP with Ante Bet (25x bet-multiplier mode) engaged instead of normal 20x,False
+escape-the-pyramid-fire-ice-b7,96.5,default,,True
+escape-the-pyramid-fire-ice-b7,96.51,ante_bet,Ante Bet (Double Chance) active,False
+escape-the-pyramid-fire-ice-b7,96.55,bonus_buy,Buy Ice & Fire feature,False
+eternal-empress-freeze-time-b7,96.5,default,,True
+eternal-empress-freeze-time-b7,96.52,bonus_buy,Buy Free Spins,False
+excalibur-unleashed-b7,96.02,bonus_buy,Buy Free Spins,False
+excalibur-unleashed-b7,96.05,default,,True
+extra-juicy-b7,96.52,default,,True
+extra-juicy-megaways-b7,96.42,default,,True
+extra-juicy-megaways-b7,96.43,ante_bet,25x ante bet multiplier mode,False
+extra-juicy-megaways-b7,96.48,bonus_buy,Buy Free Spins purchase,False
+eye-of-cleopatra-b7,96.5,default,,True
+eye-of-horus-b31,90.25,operator_config,operator build BP_EyeofHorus90,False
+eye-of-horus-b31,92.04,operator_config,operator build BP_EyeOfHorus92,False
+eye-of-horus-b31,93.0,operator_config,operator build BP_EyeofHorus93,False
+eye-of-horus-b31,94.0,operator_config,operator build BP_EyeofHorus94,False
+eye-of-horus-b31,96.31,default,,True
+eye-of-horus-megaways-b31,90.0,operator_config,Operator build BP_EyeOfHorusMegaways90,False
+eye-of-horus-megaways-b31,92.0,operator_config,Operator build BP_EyeOfHorusMegaways92,False
+eye-of-horus-megaways-b31,93.0,operator_config,Operator build BP_EyeOfHorusMegaways93,False
+eye-of-horus-megaways-b31,95.49,default,,True
+eye-of-spartacus-b7,96.42,default,,True
+eye-of-spartacus-b7,96.42,bonus_buy,Identical RTP explicitly stated for both Buy Free Spins (100x) and Buy Super Free Spins (500x),False
+eye-of-the-storm-b7,96.71,default,,True
+fa-cai-shen-deluxe-b29,96.75,default,,True
+face-control-b23,94.37,default,,True
+face-off-b10,95.97,default,,True
+face-off-b10,96.0,ante_bet,RTP in the Chance x2 feature is 96%,False
+face-off-b10,96.03,bonus_buy,RTP in the Buy Bonus feature is 96.03%,False
+fairytale-fortune-b7,96.52,default,,True
+fang-city-b28,94.37,operator_config,Alternative operator-configured build variant; not selectable/available in this demo,False
+fang-city-b28,96.29,bonus_buy,"Bonus Buy: Random Free Spins, 150x Base Bet (random 3-6 Bonus Symbols)",False
+fang-city-b28,96.32,bonus_buy,"Bonus Buy: X1 multiplier in Free Spins, 50x Base Bet (3 Bonus Symbols)",False
+fang-city-b28,96.33,default,,True
+fang-city-b28,96.43,bonus_buy,"Bonus Buy: X10 multiplier in Free Spins, 500x Base Bet (6 Bonus Symbols)",False
+fang-city-b28,96.45,ante_bet,Push Bet active (1.2x Base Bet); raises Free Spins trigger chance,False
+fangtastic-freespins-b7,96.51,default,,True
+fangtastic-freespins-b7,96.51,ante_bet,"Ante Bet ON (""Higher Chance to Win Feature"", 15x bet multiplier); Buy Free Spins disabled in this mode",False
+fangtastic-freespins-b7,96.52,bonus_buy,Buy Free Spins (100x total bet),False
+farmstead-fortune-b30,96.76,default,,True
+fast-fielder-b27,97.5,default,,True
+fat-banker-b28,94.45,operator_config,Operator-configurable RTP from the provider showcase; not present in the demo build.,False
+fat-banker-b28,96.43,default,,True
+fat-banker-b28,96.63,bonus_buy,Bonus Buy: Fortune Link Feature (30x Base Bet),False
+fat-banker-b28,96.64,bonus_buy,Bonus Buy: Fat Banker Free Spins Feature - Five Wilds (600x Base Bet),False
+fat-banker-b28,96.65,bonus_buy,Bonus Buy: Fat Banker Free Spins Feature - Random Scatters (150x Base Bet),False
+fat-drac-b28,94.05,operator_config,Provider storefront lists a lower-RTP operator build; not selectable or reachable in this demo.,False
+fat-drac-b28,96.57,default,,True
+fat-panda-b7,96.07,default,,True
+fat-panda-b7,96.07,bonus_buy,Applies to both bonus-buy paths: Standard Free Spins (70x) and Super Free Spins (300x),False
+fat-rabbit-b28,96.45,default,,True
+fat-rabbit-b28,96.59,bonus_buy,Buy Free Games Feature for 80x base bet,False
+fat-santa-b28,96.45,default,,True
+fat-santa-b28,96.59,bonus_buy,Bonus Buy (Free Games Feature),False
+finger-lick-n-free-spins-b7,96.55,default,,True
+finger-lick-n-free-spins-b7,96.55,ante_bet,"Ante Bet (BET $4.00, higher chance to win feature)",False
+finger-lick-n-free-spins-b7,96.55,bonus_buy,Buy Free Spins,False
+fire-88-b7,96.45,default,,True
+fire-archer-b7,96.07,default,,True
+fire-archer-b7,96.1,bonus_buy,Buy Free Spins,False
+fire-hopper-b28,96.3,default,,True
+fire-hopper-b28,96.38,bonus_buy,"Bonus Buy (Free Games Feature), 124x base bet",False
+fire-hot-100-b7,96.43,default,,True
+fire-hot-20-b7,96.29,default,,True
+fire-hot-40-b7,96.43,default,,True
+fire-hot-5-b7,96.27,default,,True
+fire-lightning-b10,93.75,default,,True
+fire-pig-push-ways-b28,96.27,default,,True
+fire-pig-push-ways-b28,96.36,bonus_buy,"Bonus Buy: Random Bonus Symbols, 120x Base Bet",False
+fire-pig-push-ways-b28,96.37,ante_bet,"Push Bet: 1.5x Base Bet, increases feature chance",False
+fire-portals-b7,96.0,ante_bet,With ANTE BET (25x bet multiplier / extra scatter chance) active,False
+fire-portals-b7,96.01,bonus_buy,With BUY FREE SPINS purchased,False
+fire-portals-b7,96.06,default,,True
+fire-sloth-b23,96.71,default,,True
+fire-stampede-2-b7,96.51,default,,True
+fire-stampede-2-b7,96.52,bonus_buy,Buy Free Spins,False
+fire-stampede-b7,96.0,default,,True
+fire-stampede-b7,96.1,bonus_buy,Buy Free Spins,False
+fire-stampede-ultimate-b7,96.45,default,,True
+fire-stampede-ultimate-b7,96.47,bonus_buy,Buy Free Spins,False
+fire-strike-2-b7,96.53,default,,True
+fire-strike-b7,96.5,default,,True
+firebird-spirit-b7,96.0,default,,True
+firebird-spirit-b7,96.0,bonus_buy,Buy Free Spins,False
+fish-boom-b22,96.3,default,Not printed in-game; from the provider's official game page,True
+fish-eye-b7,96.07,default,,True
+fish-eye-b7,96.07,ante_bet,RTP when the ANTE BET (15x multiplier) toggle is on,False
+fish-eye-b7,96.07,bonus_buy,RTP when using BUY FREE SPINS (100x total bet),False
+fish-n-nudge-b28,94.38,operator_config,Alternative operator-configured build RTP printed on storefront; not reachable in this demo,False
+fish-n-nudge-b28,96.4,default,,True
+fish-n-nudge-b28,96.41,ante_bet,"Push Bet active (stake +20%, Free Spins trigger chance +42%)",False
+fish-n-nudge-big-catch-b28,96.28,bonus_buy,Bonus Buy: Random Free Spins,False
+fish-n-nudge-big-catch-b28,96.31,bonus_buy,Bonus Buy: Initial Reel Multipliers x1,False
+fish-n-nudge-big-catch-b28,96.35,bonus_buy,Bonus Buy: Initial Reel Multipliers x5,False
+fish-n-nudge-big-catch-b28,96.4,ante_bet,"Push Bet ON (1.2x Base Bet, ante-style toggle)",False
+fish-n-nudge-big-catch-b28,96.4,bonus_buy,Bonus Buy: Initial Reel Multipliers x10,False
+fish-n-nudge-big-catch-b28,96.44,default,,True
+fish-road-b22,96.0,default,,True
+fishin-frenzy-b31,90.0,operator_config,operator build BP_FishingFrenzy90,False
+fishin-frenzy-b31,92.0,operator_config,operator build BP_FishingFrenzy92,False
+fishin-frenzy-b31,93.0,operator_config,operator build BP_FishingFrenzy93,False
+fishin-frenzy-b31,94.0,operator_config,operator build BP_FishingFrenzy94,False
+fishin-frenzy-b31,96.12,default,,True
+fishin-frenzy-lure-em-in-b31,90.0,operator_config,operator build BP_FishinFrenzyLureEmIn90,False
+fishin-frenzy-lure-em-in-b31,92.0,operator_config,operator build BP_FishinFrenzyLureEmIn92,False
+fishin-frenzy-lure-em-in-b31,93.0,operator_config,operator build BP_FishinFrenzyLureEmIn93,False
+fishin-frenzy-lure-em-in-b31,94.0,default,,True
+fishin-frenzy-lure-em-in-b31,94.0,ante_bet,"Express Bet (increased bonus chance, costs 1.5x stake)",False
+fishin-frenzy-megaways-b31,92.0,operator_config,Operator build BP_FishingFrenzyMegaways92 (provider page),False
+fishin-frenzy-megaways-b31,95.02,operator_config,"Operator build, base game (provider page, listed as Low profile)",False
+fishin-frenzy-megaways-b31,95.5,operator_config,"Operator build, Bonus Buy (provider page, same row as 95.02)",False
+fishin-frenzy-megaways-b31,96.1,default,Build printed in the demo rules (Game Rules page): RTP=96.10%,True
+fishin-frenzy-megaways-b31,96.6,bonus_buy,Bonus Bet (Fishin' Frenzy Bonus Megaways Guaranteed) in the same build: BONUS BET=96.60%,False
+fishin-frenzy-the-big-catch-b31,92.0,operator_config,Operator build BP_FishingFrenzyBigCatch92 listed on the provider page,False
+fishin-frenzy-the-big-catch-b31,95.32,default,,True
+fishin-reels-b7,96.5,default,,True
+fishing-club-2-b10,97.15,bonus_buy,Buy Bonus: TNT,False
+fishing-club-2-b10,97.15,default,Risk levels 4-5,False
+fishing-club-2-b10,97.16,default,Risk levels 1-3,True
+fishing-club-2-b10,97.16,bonus_buy,Buy Bonus: Fishing Net,False
+fishing-club-b10,97.15,default,Risk levels 4-5,False
+fishing-club-b10,97.16,default,Risk levels 1-3,True
+fishing-time-b10,96.0,default,,True
+floating-dragon-dragon-boat-festival-b7,96.07,default,,True
+floating-dragon-dragon-boat-festival-b7,96.07,bonus_buy,Buy Free Spins,False
+floating-dragon-dragon-boat-festival-b7,96.07,bonus_buy,Buy Hold & Spinner,False
+floating-dragon-dragon-boat-festival-b7,96.09,ante_bet,"Ante Bet / Extra Chance of Scatters (15x total-bet multiplier, vs 10x normal)",False
+floating-dragon-hold-and-spin-b7,96.71,default,,True
+floating-dragon-megaways-b7,96.7,default,,True
+floating-dragon-megaways-b7,96.7,bonus_buy,Buy Free Spins (100x) / Buy Hold & Spin (120x),False
+floating-dragon-new-year-festival-ultra-megawaystm-hold-spin-b7,96.7,default,,True
+floating-dragon-new-year-festival-ultra-megawaystm-hold-spin-b7,96.7,ante_bet,Ante Bet 30x,False
+floating-dragon-new-year-festival-ultra-megawaystm-hold-spin-b7,96.7,bonus_buy,Buy Free Spins,False
+floating-dragon-new-year-festival-ultra-megawaystm-hold-spin-b7,96.7,bonus_buy,Buy Hold & Spin,False
+floating-dragon-wild-horses-b7,96.5,default,,True
+floating-dragon-wild-horses-b7,96.5,bonus_buy,Buy Free Spins,False
+floating-dragon-wild-horses-b7,96.5,bonus_buy,Buy Super Free Spins,False
+floating-dragon-year-of-the-snake-b7,96.71,default,,True
+floating-dragon-year-of-the-snake-b7,96.71,ante_bet,"Ante Bet 15x (higher scatter frequency, more free-spins chance)",False
+floating-dragon-year-of-the-snake-b7,96.71,bonus_buy,Buy Free Spins (100x total bet),False
+fly-b29,96.88,default,,True
+fonzo-s-feline-fortunes-b7,96.5,default,,True
+fonzo-s-feline-fortunes-b7,96.5,bonus_buy,BUY FREE SPINS (100x),False
+fonzo-s-feline-fortunes-b7,96.5,bonus_buy,BUY SUPER FREE SPINS (270x),False
+fonzo-s-feline-fortunes-b7,96.5,default,ANTE BET (Double Chance 1.5x),False
+football-mines-b23,98.0,default,,True
+football-plinko-b10,98.6,default,Lower bound of the range printed in the rules panel,True
+football-plinko-b10,99.0,player_config,Upper bound: RTP is 98.6%-99% depending on the risk level and lines the player picks,False
+forest-arrow-b22,95.0,default,Provider card states a 95-97% range; the low end is recorded. Not stated in the build,True
+forever-split-megawaystm-b7,96.48,ante_bet,Ante Bet 1,False
+forever-split-megawaystm-b7,96.49,ante_bet,Ante Bet 2,False
+forever-split-megawaystm-b7,96.49,bonus_buy,Buy Super Free Spins,False
+forever-split-megawaystm-b7,96.54,bonus_buy,Buy Standard Free Spins,False
+forever-split-megawaystm-b7,96.58,default,,True
+forge-of-olympus-b7,96.23,ante_bet,Ante Bet (25x),False
+forge-of-olympus-b7,96.25,default,,True
+forge-of-olympus-b7,96.32,bonus_buy,Buy Free Spins 400x,False
+forge-of-olympus-b7,96.32,bonus_buy,Buy Free Spins 500x,False
+forge-of-olympus-b7,96.42,bonus_buy,Buy Free Spins 100x,False
+forge-of-olympus-b7,96.7,bonus_buy,Buy Free Spins 200x,False
+forge-of-wealth-b30,96.74,default,,True
+forging-wilds-b7,96.45,bonus_buy,Buy Feature with 5 scatters guaranteed,False
+forging-wilds-b7,96.51,bonus_buy,Buy Feature with 3-5 scatters at random,False
+forging-wilds-b7,96.52,default,,True
+forgotten-b10,96.86,bonus_buy,Buy Bonus: 4 Expanding symbols purchased,False
+forgotten-b10,96.88,bonus_buy,Buy Bonus: 2 Expanding symbols purchased,False
+forgotten-b10,96.89,default,,True
+forgotten-b10,96.9,bonus_buy,Buy Bonus: 1 Expanding symbol purchased,False
+forgotten-b10,97.03,ante_bet,Double Chance (Chance x2) feature active,False
+forgotten-b10,97.03,bonus_buy,Buy Bonus: 8 Expanding symbols purchased,False
+fortuna-trueways-b10,97.07,default,,True
+fortune-bells-b10,97.09,default,,True
+fortune-dogs-b29,96.69,default,,True
+fortune-dragon-b30,96.74,default,Not printed in the build (P-S09). 96.74% confirmed by provider page payload and official PG Soft PDF.,True
+fortune-horse-b30,96.76,default,From the provider's own game page; the build itself prints no RTP (both panels read in full).,True
+fortune-mouse-b30,96.96,default,,True
+fortune-of-aztec-b7,96.5,default,,True
+fortune-of-aztec-b7,96.5,ante_bet,"RTP with ANTE BET active (25x total bet multiplier, printed identically to base)",False
+fortune-of-giza-b7,96.51,default,,True
+fortune-of-olympus-b7,96.55,default,,True
+fortune-ox-b30,96.75,default,From the provider's own game page; the build prints no RTP and the provider publishes no PDF for this game.,True
+fortune-rabbit-b30,96.75,default,,True
+fortune-red-packets-b10,98.4,default,,True
+fortune-rico-b23,96.67,default,,True
+fortune-tiger-b30,96.81,default,From the provider's own game page; the build itself prints no RTP (both panels read in full).,True
+fortune-trio-minions-of-fu-b10,95.05,default,,True
+fortune-trio-minions-of-fu-b10,95.15,bonus_buy,Chance x2.5 toggle active: Free Spins odds only,False
+fortune-trio-minions-of-fu-b10,95.15,bonus_buy,Chance x2.5 toggle active: Hold & Win odds only,False
+fortune-trio-minions-of-fu-b10,95.15,bonus_buy,Chance x2.5 toggles active: Free Spins + Hold & Win,False
+fortune-trio-minions-of-fu-b10,95.25,bonus_buy,Buy Bonus: Free Spins + Giant Symbol,False
+fortune-trio-minions-of-fu-b10,95.25,bonus_buy,Buy Bonus: Free Spins + High Symbols,False
+fortune-trio-minions-of-fu-b10,95.25,bonus_buy,Buy Bonus: Hold & Win,False
+fortunes-of-aztec-b7,96.42,default,,True
+fortunes-of-aztec-b7,96.52,bonus_buy,Buy Free Spins,False
+four-lucky-clover-b10,89.41,feature,Low end of range 89.41-94.00%: risk choices in Lucky Spins; game does not map ends to strategies.,False
+four-lucky-clover-b10,94.0,default,High end of printed RTP range 89.41-94.00%; game does not state which end is which strategy.,True
+four-lucky-diamonds-b10,92.84,default,Lower bound of 92.84-94.03% range; depends on Lucky Spins collect/continue strategy,False
+four-lucky-diamonds-b10,94.03,default,Upper bound of 92.84-94.03% range; depends on Lucky Spins collect/continue strategy,True
+french-roulette-b10,97.3,default,,True
+frightening-frankie-b7,96.53,default,,True
+frog-jump-b22,95.5,default,Not printed in-game; from the provider's official game page,True
+frog-road-b22,95.5,default,,True
+frozen-fruit-b10,96.0,default,,True
+frozen-fruit-b10,96.0,bonus_buy,Rules state Buy Bonus RTP equals base RTP (96%),False
+fruit-love-fever-b22,95.0,default,,True
+fruit-million-b10,97.34,default,,True
+fruit-million-halloween-b10,97.34,default,,True
+fruit-million-oktoberfest-b10,97.34,default,"printed in game, rules: overall theoretical RTP is 97.34%",True
+fruit-million-st-patrick-s-b10,97.34,default,"printed in game, rules: overall theoretical RTP is 97.34%",True
+fruit-million-st-valentines-b10,97.34,default,,True
+fruit-million-x-mas-b10,97.34,default,"printed in game, rules: overall theoretical RTP is 97.34%",True
+fruit-party-2-b7,96.45,bonus_buy,Buy Free Spins,False
+fruit-party-2-b7,96.53,default,,True
+fruit-party-b7,96.47,default,,True
+fruit-rainbow-b7,96.53,default,,True
+fruit-towers-b27,94.22,player_config,"Bet 0.10; RTP floor, cent-rounding at low bet size",False
+fruit-towers-b27,96.64,default,"Bet 1.00; minimum RTP, booklet cites rounding-down",True
+fruity-candy-b30,96.75,default,From the provider's own game page; the build itself prints no RTP (both panels read in full).,True
+fruity-halloween-b29,96.61,default,,True
+fruity-halloween-b29,96.67,ante_bet,Super Bet enabled,False
+fruity-halloween-b29,96.93,bonus_buy,Feature Buy enabled,False
+fruity-treats-b7,96.05,default,,True
+fruity-treats-b7,96.06,bonus_buy,"Buy Super Free Spins purchase (200x total bet), all multiplier spots pre-activated at 20x",False
+fruity-treats-b7,96.08,bonus_buy,Buy Free Spins purchase (100x total bet) instantly triggers Free Spins,False
+funky-fortunez-b30,96.74,default,From the provider's own game page and official game-information PDF; the build itself prints no RTP.,True
+fury-of-anubis-b7,96.52,default,,True
+fury-of-anubis-b7,96.53,default,Ante Bet / Super Spin 1 / Super Spin 2,False
+fury-of-anubis-b7,96.56,bonus_buy,Buy Free Spins 1/2/3/4 and Buy Random Free Spins,False
+fury-of-odin-megaways-b7,95.97,default,,True
+fury-of-odin-megaways-b7,95.99,bonus_buy,Buy Free Spins,False
+fury-of-odin-megaways-b7,96.02,default,Ante Bet (+25% stake),False
+fury-stairs-b27,97.0,default,,True
+futebol-fever-b30,96.75,default,Provider page payload and official PG Soft PDF agree; not printed in the build itself,True
+fuzzy-wuzzy-b23,94.59,default,,True
+galactic-gems-b30,96.74,default,,True
+game-of-thrones-b31,90.0,operator_config,operator build BP_GameOfThrones90,False
+game-of-thrones-b31,92.0,operator_config,operator build BP_GameOfThrones92,False
+game-of-thrones-b31,93.0,operator_config,operator build BP_GameOfThrones93,False
+game-of-thrones-b31,94.0,default,,True
+ganesha-gold-b30,96.08,default,From the provider's own game page and official game-information PDF; the build itself prints no RTP.,True
+gangsterz-b10,96.01,bonus_buy,Buy Bonus (Unlock the Safe),False
+gangsterz-b10,96.3,default,,True
+gates-of-hades-b7,96.47,bonus_buy,Buy Super Free Spins,False
+gates-of-hades-b7,96.5,bonus_buy,Buy Free Spins,False
+gates-of-hades-b7,96.52,default,,True
+gates-of-olympus-1000-b7,96.49,bonus_buy,Buy Free Spins,False
+gates-of-olympus-1000-b7,96.5,default,,True
+gates-of-olympus-1000-b7,96.5,default,Ante Bet (Double Chance 25x),False
+gates-of-olympus-2500-b7,96.49,ante_bet,ANTE BET 1/2/3 active,False
+gates-of-olympus-2500-b7,96.5,bonus_buy,Any BUY FEATURE option (4 options),False
+gates-of-olympus-2500-b7,96.5,player_config,SUPER SPIN 1/2 active,False
+gates-of-olympus-2500-b7,96.52,default,,True
+gates-of-olympus-b7,96.5,default,,True
+gates-of-olympus-b7,96.5,bonus_buy,Buy Free Spins,False
+gates-of-olympus-pop-b7,97.05,default,,True
+gates-of-olympus-super-scatter-b7,96.49,bonus_buy,Buy Super Free Spins,False
+gates-of-olympus-super-scatter-b7,96.5,default,,True
+gates-of-olympus-super-scatter-b7,96.5,bonus_buy,Buy Free Spins,False
+gates-of-olympus-super-scatter-b7,96.55,ante_bet,Ante Bet (30x bet multiplier),False
+gates-of-olympus-xmas-1000-b7,96.49,bonus_buy,Buy Free Spins (100x total bet),False
+gates-of-olympus-xmas-1000-b7,96.5,default,,True
+gates-of-olympus-xmas-1000-b7,96.5,ante_bet,Bet multiplier 25x (Double Chance to Win),False
+gates-of-power-b10,96.03,default,Not printed in-game; from 3 independent external sources (game itself confirms no RTP shown).,True
+gates-of-valhalla-b7,96.46,default,,True
+gates-of-valhalla-b7,96.6,bonus_buy,Buy Free Spins,False
+gears-of-horus-b7,96.02,bonus_buy,With Buy Free Spins (100x bet),False
+gears-of-horus-b7,96.06,default,,True
+geisha-s-revenge-b30,96.78,default,,True
+gem-elevator-b7,96.53,default,,True
+gem-elevator-b7,96.58,bonus_buy,Buy Free Spins,False
+gem-fire-fortune-b7,96.49,bonus_buy,Buy Super Free Spins,False
+gem-fire-fortune-b7,96.5,default,,True
+gem-fire-fortune-b7,96.51,bonus_buy,Buy Free Spins,False
+gem-trio-b7,96.49,bonus_buy,Buy Free Spins with all 3 modifiers (Emerald+Diamond+Ruby) guaranteed,False
+gem-trio-b7,96.5,default,,True
+gem-trio-b7,96.5,bonus_buy,Buy Free Spins with 1 random modifier guaranteed to activate,False
+gem-trio-b7,96.51,bonus_buy,Buy Free Spins with 2 random modifiers guaranteed to activate,False
+gemhalla-b10,97.17,default,"identical for base game, Buy Bonus and the Chance x2 bet",True
+gemhalla-xtreme-b10,97.17,default,Not printed in game; provider page plus two independent reviews,True
+gems-bonanza-b7,96.55,default,,True
+gems-of-serengeti-b7,96.4,default,,True
+gemstones-gold-b30,96.71,default,Provider game page only (no official PDF exists); the build itself prints no RTP.,True
+gemza-b10,97.17,default,"identical for base game, Buy Bonus and the Chance x2 bet",True
+generous-jack-b28,94.36,operator_config,Second RTP configuration published on the provider game page; the demo build serves the 96.23% configuration,False
+generous-jack-b28,96.23,default,,True
+generous-jack-b28,96.45,feature,Push-Up active (identical 96.45% printed for all three tiers: 5x/20x/50x Base Bet),False
+generous-jack-b28,96.55,bonus_buy,Bonus Buy: Random Free Spins for 150x Base Bet,False
+genie-s-3-wishes-b30,96.75,default,From provider's game page and official PDF; the build itself prints no RTP.,True
+genie-s-gem-bonanza-b7,96.5,default,,True
+genie-s-gem-bonanza-b7,96.51,ante_bet,"With DOUBLE CHANCE TO WIN FEATURE (ante bet, 30x multiplier) active",False
+genie-s-gem-bonanza-b7,96.54,bonus_buy,When using BUY FREE SPINS (100x total bet),False
+gift-rush-b10,96.07,default,,True
+gift-x-b10,96.88,default,Lower bound; overall RTP depends on the player's chosen strategy,True
+gift-x-b10,98.92,default,Upper bound; overall RTP depends on the player's chosen strategy,False
+giga-jar-b28,96.47,ante_bet,With Push Bet ON (+80% Base Bet),False
+giga-jar-b28,96.48,default,,True
+gladiator-s-glory-b30,96.75,default,,True
+glam-rock-b29,95.94,default,,True
+glorious-rome-b7,94.11,default,,True
+goat-getter-b28,94.39,operator_config,Alternative build offered by the provider; not reachable in the demo,False
+goat-getter-b28,96.16,default,Push Bet off; Gamble Feature always used,False
+goat-getter-b28,96.18,ante_bet,Push Bet on (+20% cost); Gamble Feature always used,False
+goat-getter-b28,96.24,bonus_buy,3 Scatters buy (100x Base Bet); Gamble Feature always used,False
+goat-getter-b28,96.31,bonus_buy,4 Scatters buy (200x Base Bet); Gamble Feature always used,False
+goat-getter-b28,96.4,default,Push Bet off; Gamble Feature never used (base default),True
+goat-getter-b28,96.41,bonus_buy,3 Scatters buy (100x Base Bet); Gamble Feature never used,False
+goat-getter-b28,96.44,ante_bet,Push Bet on (+20% cost); Gamble Feature never used,False
+goat-getter-b28,96.6,bonus_buy,4 Scatters buy (200x Base Bet); Gamble Feature never used,False
+goat-getter-b28,96.6,bonus_buy,Random Scatters buy (175x Base Bet); Gamble Feature always used,False
+goat-getter-b28,96.78,bonus_buy,Random Scatters buy (175x Base Bet); Gamble Feature never used,False
+goat-getter-b28,96.8,bonus_buy,"5 Scatters buy (400x Base Bet); single RTP, no Gamble split printed",False
+goblin-heist-powernudgetm-b7,96.44,ante_bet,Ante Bet 25x active,False
+goblin-heist-powernudgetm-b7,96.47,default,,True
+goblin-heist-powernudgetm-b7,96.47,bonus_buy,Buy Free Respins,False
+goblin-tower-b22,95.0,default,,True
+god-of-wealth-hold-and-win-b10,95.24,default,,True
+gods-of-giza-b7,96.01,default,,True
+gods-of-giza-b7,96.01,bonus_buy,Buy Free Spins,False
+gold-magnate-b10,96.06,bonus_buy,RTP in the Buy Bonus feature (bonus game only),False
+gold-magnate-b10,96.1,default,,True
+gold-oasis-b7,96.01,bonus_buy,Buy Free Spins,False
+gold-oasis-b7,96.04,bonus_buy,Buy Super Free Spins,False
+gold-oasis-b7,96.06,default,,True
+gold-of-minos-b10,96.0,default,,True
+gold-of-minos-b10,96.0,bonus_buy,"All 3 Buy Bonus variants (reel 1-3/4/5) also 96%, per rules p5/6",False
+gold-party-2-after-hours-b7,96.5,default,,True
+gold-party-2-after-hours-b7,96.5,bonus_buy,Buy Money Respin,False
+gold-party-b7,96.5,default,,True
+gold-party-b7,96.5,bonus_buy,BUY RESPINS,False
+gold-rush-b7,96.5,default,,True
+gold-rush-frog-b10,96.7,default,"Base, Free Spins, Coin Respin, Chance x2 all print identically at 96.7% (rules p9-10).",True
+gold-rush-scratchcard-b7,71.72,default,"Theoretical RTP range 71.72%-79.69% (paytable, verbatim)",True
+gold-strike-b31,94.0,default,"Build BP_GoldStrike94, printed in the in-game rules",True
+gold-strike-b31,94.0,bonus_buy,Bonus Buy RTP printed in the in-game rules (94 build),False
+gold-strike-b31,96.0,operator_config,"Build BP_GoldStrike96 per provider RTP table; not loadable in demo, not observed",False
+gold-strike-express-b31,92.0,operator_config,Alternative build BP_GoldStrikeExpress92 printed on the provider page,False
+gold-strike-express-b31,93.0,operator_config,Alternative build BP_GoldStrikeExpress93 printed on the provider page,False
+gold-strike-express-b31,95.0,default,,True
+gold-strike-express-b31,95.0,ante_bet,"Express Bet (total wager 1.5x base stake, increased Cash Feature chance)",False
+gold-train-b7,97.16,default,,True
+golden-paw-hold-win-b10,97.12,bonus_buy,Genie's Coins,False
+golden-paw-hold-win-b10,97.12,bonus_buy,Genie's Gold,False
+golden-paw-hold-win-b10,97.12,bonus_buy,Mystery Treasure,False
+golden-paw-hold-win-b10,97.12,bonus_buy,Genie's Riches,False
+golden-paw-hold-win-b10,97.13,default,,True
+golden-paw-hold-win-b10,97.13,bonus_buy,Chance x4,False
+golden-pinata-hold-and-win-b10,96.14,default,Provider spec table; game booklet states no RTP,True
+golden-pride-b10,96.0,default,,True
+golden-pride-b10,96.0,bonus_buy,"Buy Bonus: guaranteed Wild on reel 1, 2 or 3 (12x bet)",False
+golden-pride-b10,96.0,bonus_buy,Buy Bonus: guaranteed Wild on reel 4 (50x bet),False
+golden-pride-b10,96.0,bonus_buy,Buy Bonus: guaranteed Wild on reel 5 (200x bet),False
+golden-retriever-b7,96.52,default,"theoretical RTP, standard play",True
+golden-retriever-b7,96.52,bonus_buy,RTP when using BUY FEATURE,False
+golden-retriever-b7,96.52,bonus_buy,RTP when using BUY SUPER FEATURE,False
+golden-retriever-b7,96.53,ante_bet,RTP when using ANTE BET (Double Chance to Win Feature),False
+golden-taj-mahal-b29,96.5,default,,True
+golden-unicorn-b29,96.11,default,,True
+golden-unicorn-deluxe-b29,96.68,bonus_buy,Buy Feature: Chest,False
+golden-unicorn-deluxe-b29,96.72,bonus_buy,Buy Feature: Palace / Free Games,False
+golden-unicorn-deluxe-b29,96.8,default,,True
+good-luck-good-fortune-b7,96.05,default,,True
+good-luck-good-fortune-b7,96.05,bonus_buy,Buy Free Spins (100x total bet),False
+gorilla-mayhem-b7,96.5,default,,True
+gorilla-mayhem-b7,96.5,bonus_buy,Buy Free Spins,False
+graffiti-rush-b30,96.75,default,From the provider's page and official PDF; the build itself prints no RTP (both panels read in full).,True
+grand-hustle-b22,96.0,default,From the provider game card; the game itself never prints an RTP (both panels read in full).,True
+grand-mustang-b10,95.91,feature,RTP in the Gold Respin feature,False
+grand-mustang-b10,96.01,bonus_buy,RTP in the Buy Bonus feature (Free Spins or Gold Respin purchase),False
+grand-mustang-b10,96.14,default,,True
+grand-patron-b10,96.66,default,,True
+gravity-bonanza-b7,95.99,bonus_buy,Buy Free Spins,False
+gravity-bonanza-b7,96.09,default,,True
+great-ghosts-b7,96.5,default,,True
+great-reef-b7,96.64,default,RTP from the official Pragmatic Play game page; not printed in-game,True
+great-rhino-b7,96.53,default,,True
+great-rhino-deluxe-b7,96.54,default,,True
+great-rhino-megaways-b7,96.47,operator_config,Minimum stated RTP variant (rules page 4/7),False
+great-rhino-megaways-b7,96.58,default,Maximum stated RTP; game prints only a min/max range,True
+greedy-fortune-pig-b7,96.5,default,,True
+greedy-fortune-pig-b7,96.52,ante_bet,With Ante Bet (15x),False
+greedy-fortune-pig-b7,96.55,bonus_buy,Buy Free Spins,False
+greedy-wolf-b7,96.48,default,,True
+greedy-wolf-b7,96.51,ante_bet,"Ante Bet active (+25% bet, 5-scatter trigger)",False
+greek-gods-b7,96.5,default,,True
+guardians-of-ice-fire-b30,96.7,default,Not printed in the build (P-S09). 96.70% confirmed by provider page payload and official PG Soft PDF.,True
+halloween-bonanza-b10,96.11,default,,True
+halloween-bonanza-b10,96.19,ante_bet,Chance x2 ante active,False
+halloween-bonanza-b10,96.52,bonus_buy,Buy Bonus feature,False
+hammerstorm-b7,96.5,default,,True
+hammerstorm-b7,96.5,ante_bet,"Ante Bet 1 active (Thor guaranteed reel 1, 25x bet)",False
+hammerstorm-b7,96.5,ante_bet,"Ante Bet 2 active (5+ lightning symbols guaranteed, 50x bet)",False
+hamsta-b27,95.0,default,single RTP printed in the in-game Rules (Game Details -> RTP): 'Hamsta has RTP 95.0%',True
+hamster-run-b22,97.0,default,Not printed in the game; value taken from the provider's game card,True
+hand-of-midas-2-b7,96.04,bonus_buy,Using BUY FREE SPINS,False
+hand-of-midas-2-b7,96.07,default,,True
+happiest-christmas-tree-b29,96.77,default,,True
+happy-ape-b29,96.7,default,,True
+happy-bamboo-b28,96.31,default,,True
+happy-dragon-b7,96.5,default,,True
+happy-hooves-b7,96.29,bonus_buy,BUY RESPIN FEATURE,False
+happy-hooves-b7,96.49,default,,True
+happy-nets-b7,96.5,default,,True
+harvest-moon-grave-profits-b7,96.46,bonus_buy,RTP when using BUY RESPINS (120x total bet). Source: rules_p4.png.,False
+harvest-moon-grave-profits-b7,96.5,default,Base/theoretical RTP of the game. Source: rules_p4.png ('The theoretical RTP of this game is 96.50%').,True
+harvest-moon-grave-profits-b7,96.52,ante_bet,"RTP when using ANTE BET (bet multiplier 30x, 'TRIPLE CHANCE TO WIN FEATURE'). Source: rules_p4.png.",False
+harvest-moon-grave-profits-b7,96.53,bonus_buy,RTP when using BUY SUPER RESPINS (400x total bet). Source: rules_p4.png.,False
+haunted-crypt-b7,96.5,bonus_buy,Buy Super Free Spins,False
+haunted-crypt-b7,96.51,default,VALUE profile (base mode),True
+haunted-crypt-b7,96.51,default,SPEED profile,False
+haunted-crypt-b7,96.52,bonus_buy,Buy Free Spins,False
+hawaiian-tiki-b30,96.76,default,,True
+heads-and-tails-xy-b10,99.0,default,"printed in game: rules page 1, RTP is 99%",True
+heart-of-cleopatra-b7,96.48,default,,True
+heart-of-cleopatra-b7,96.5,bonus_buy,Buy Free Spins,False
+heart-of-rio-b7,96.5,default,,True
+heart-of-venus-b7,96.5,default,,True
+heartbreakers-b7,96.5,bonus_buy,Buy Respins,False
+heartbreakers-b7,96.5,default,Ante Bet,False
+heartbreakers-b7,96.51,bonus_buy,Buy Super Respins,False
+heartbreakers-b7,96.51,default,Super Spins,False
+heartbreakers-b7,96.53,default,,True
+hearts-highway-b28,96.43,default,,True
+hearts-highway-b28,96.69,bonus_buy,"Random Bonus buy (Free Spins, 75x Base Bet)",False
+hearts-highway-b28,96.95,ante_bet,With Push Bet active (+20% bet),False
+heist-for-the-golden-nuggetstm-b7,95.97,bonus_buy,BUY FREE SPINS,False
+heist-for-the-golden-nuggetstm-b7,96.0,default,,True
+heist-stakes-b30,96.72,default,Provider game page and official PDF agree; the build itself prints no RTP.,True
+hell-butcher-b7,96.49,bonus_buy,Madness Free Spins (300x bet),False
+hell-butcher-b7,96.49,bonus_buy,No Miss Madness Free Spins (750x bet),False
+hell-butcher-b7,96.52,bonus_buy,Standard Free Spins (100x bet),False
+hell-butcher-b7,96.52,bonus_buy,No Miss Free Spins (300x bet),False
+hell-butcher-b7,96.55,default,,True
+hellvis-wild-b7,96.01,default,,True
+hellvis-wild-b7,96.01,bonus_buy,Buy Free Spins (100x current total bet),False
+hellvis-wild-b7,96.05,ante_bet,"Ante Bet / Double Chance to Win Feature, 30x bet mode (higher scatter frequency, disables Buy Free Spins)",False
+henry-the-ape-b28,96.22,bonus_buy,"Bonus Buy: Super Free Spins, 425x Base Bet",False
+henry-the-ape-b28,96.3,bonus_buy,"Bonus Buy: Random Free Spins, 179x Base Bet",False
+henry-the-ape-b28,96.32,ante_bet,"Push Bet active, 2x Base Bet",False
+henry-the-ape-b28,96.44,default,,True
+hercules-and-pegasus-b7,96.5,default,,True
+hercules-son-of-zeus-b7,95.19,default,,True
+heroic-spins-b7,96.0,default,,True
+heroic-spins-b7,96.07,bonus_buy,Buy Free Spins,False
+hey-sushi-b29,96.75,default,,True
+hi-lo-b27,95.0,default,"Rules -> Game Details -> RTP, the sole figure in the booklet: 'Hi-Lo has RTP 95.0%'",True
+hilo-joker-b22,99.0,default,Not printed in-game; from the provider's official game page,True
+himalayan-wild-b7,96.5,bonus_buy,Buy Free Spins / Buy Super Free Spins (both 96.50%),False
+himalayan-wild-b7,96.51,default,,True
+hockey-league-b7,91.93,default,Source: pragmaticplay.com official (not shown in demo UI),True
+hockey-league-wild-match-b7,96.52,default,,True
+honey-honey-honey-b7,96.5,default,,True
+hot-chilli-b7,96.52,default,,True
+hot-fiesta-b7,96.49,bonus_buy,BUY FREE SPINS (100x),False
+hot-fiesta-b7,96.53,ante_bet,ANTE BET mode (35x bet multiplier),False
+hot-fiesta-b7,96.56,default,,True
+hot-hot-halloween-b29,96.66,default,,True
+hot-mines-b22,97.0,default,Not printed in-game; confirmed by the game's own multiplier formula,True
+hot-pepper-b7,96.45,default,,True
+hot-pepper-b7,96.79,bonus_buy,Buy Free Spins,False
+hot-rocket-5x-3x-2x-b10,96.0,default,In-game rules print 96.00%; BGaming game card publishes 96.10%.,True
+hot-safari-b7,96.17,default,,True
+hot-safari-scratchcard-b7,80.82,default,RTP range 80.82%-89.8% by pack,True
+hot-to-burn-7-deadly-free-spins-b7,96.54,default,,True
+hot-to-burn-7-deadly-free-spins-b7,96.54,bonus_buy,Buy Free Spins (100x),False
+hot-to-burn-7-deadly-free-spins-b7,96.54,default,Ante Bet (10x bet multiplier — more scatters on reels; BUY FREE SPINS disabled),False
+hot-to-burn-b7,96.71,default,,True
+hot-to-burn-extreme-b7,96.65,default,,True
+hot-to-burn-extreme-b7,96.65,bonus_buy,Buy Free Spins,False
+hot-to-burn-hold-and-spin-b7,96.7,default,,True
+hot-to-burn-multiplier-b7,96.51,default,,True
+hot-tuna-b7,96.53,default,,True
+hot-tuna-b7,96.53,bonus_buy,Buy Free Spins,False
+hottest-666-b10,96.0,default,,True
+hottest-666-b10,96.0,bonus_buy,RTP in the Buy Bonus feature (printed separately in rules p10/12),False
+house-of-the-dragon-b31,90.0,operator_config,Alternative build BP_HouseOfTheDragon90 printed on the provider page,False
+house-of-the-dragon-b31,92.0,operator_config,Alternative build BP_HouseOfTheDragon92 printed on the provider page,False
+house-of-the-dragon-b31,93.0,operator_config,Alternative build BP_HouseOfTheDragon93 printed on the provider page,False
+house-of-the-dragon-b31,94.0,default,,True
+house-of-the-dragon-b31,94.0,ante_bet,"Express Bet (additional 0.2x of base stake, increased bonus chance)",False
+hundreds-and-thousands-b7,96.51,bonus_buy,Buy Free Spins,False
+hundreds-and-thousands-b7,96.52,default,,True
+ice-fish-b22,95.5,default,Not printed in-game; from the provider's official game page,True
+ice-lobster-b7,96.53,default,,True
+ice-lobster-b7,96.56,bonus_buy,Buy Free Spins,False
+ice-mints-b7,96.5,default,,True
+ice-mints-b7,96.55,bonus_buy,Buy Free Spins,False
+ice-scratch-bronze-b10,90.0,default,"Single flat value printed in the rules panel, no range",True
+ice-scratch-gold-b10,90.0,default,Printed in game rules page 12 of 12,True
+ice-scratch-silver-b10,90.0,default,printed in game: the overall theoretical RTP is 90%,True
+idol-pop-fever-b7,96.49,bonus_buy,Buy Super Free Spins (500x total bet),False
+idol-pop-fever-b7,96.5,default,,True
+idol-pop-fever-b7,96.5,feature,"Super Spin, 400x bet multiplier: at least 1 symbol guaranteed marked/WILD per spin",False
+idol-pop-fever-b7,96.51,ante_bet,"Ante Bet, 60x bet multiplier: higher chance to trigger Free Spins",False
+idol-pop-fever-b7,96.52,bonus_buy,Buy Free Spins (100x total bet),False
+inca-queen-b7,96.55,default,,True
+inca-queen-b7,96.57,ante_bet,Ante Bet active,False
+inca-queen-b7,96.57,bonus_buy,Buy Respins,False
+incan-wonders-b30,96.74,default,Provider game page and official PDF agree; the build prints no RTP.,True
+indian-cash-catcher-b29,95.8,default,,True
+indiana-mines-b23,98.4,default,,True
+indiana-wolf-b29,96.39,default,,True
+indiana-wolf-b29,96.76,bonus_buy,Buy Feature: 3-5 Scatter symbols land immediately and play out per the Free Games Feature rules,False
+indiana-wolf-b29,97.13,ante_bet,Super Bet active (doubles spin cost; raises odds of Free Games Feature and Splitting Symbol Feature),False
+infective-wild-b7,96.06,bonus_buy,Buy Free Spins,False
+infective-wild-b7,96.09,default,,True
+inferno-mayhem-b30,96.76,default,From the provider's page and official PDF; the build itself prints no RTP (both panels read in full).,True
+infinity-pull-b10,97.02,default,Overall theoretical RTP printed in the in-game rules,True
+inside-the-hat-b23,94.33,default,,True
+irish-charms-b7,96.96,default,,True
+irish-crown-b7,96.52,default,,True
+irish-crown-b7,96.53,ante_bet,With Ante Bet toggled on (25x multiplier),False
+irish-crown-b7,96.53,bonus_buy,With Buy Free Spins purchased (100x bet),False
+iron-phoenix-b28,94.01,operator_config,Alternative operator build; not available in this demo,False
+iron-phoenix-b28,96.24,default,,True
+iron-phoenix-b28,96.38,bonus_buy,Bonus Buy: Random Bonus Symbols (65x Base Bet),False
+jack-frost-s-winter-b30,96.7,default,,True
+jackpot-blaze-b7,96.56,default,,True
+jackpot-blaze-b7,96.56,ante_bet,Double Chance to Win Feature active,False
+jackpot-blaze-b7,96.56,bonus_buy,Buy Free Spins / Buy Super Free Spins,False
+jackpot-hunter-b7,96.0,default,,True
+jackpot-hunter-b7,96.0,bonus_buy,RTP when buying BONUS MAP,False
+jackpot-hunter-b7,96.0,bonus_buy,RTP when buying FREE SPINS,False
+jade-butterfly-b7,96.47,default,,True
+jade-legends-b7,96.5,default,"Same 96.50% in all 8 modes: base, Ante, Super Spin 1-2, four Buy Free Spins variants (rules p6/8)",True
+jaguar-drop-b28,94.39,operator_config,Alternative RTP configuration published by the provider; the demo serves the default build,False
+jaguar-drop-b28,96.31,default,,True
+jaguar-drop-b28,96.33,ante_bet,With Push Bet enabled (+20% total bet),False
+jammin-jars-2-b28,94.4,operator_config,"Provider showcase page's second RTP figure, absent from the build booklet",False
+jammin-jars-2-b28,96.1,feature,Giga Jar meter Level 1 (20 vinyls to next level),False
+jammin-jars-2-b28,96.2,feature,Giga Jar meter Level 2 (25 vinyls to next level),False
+jammin-jars-2-b28,96.3,feature,Giga Jar meter Level 3 (30 vinyls to next level),False
+jammin-jars-2-b28,96.4,default,Booklet's single headline theoretical average RTP,True
+jammin-jars-2-b28,96.4,feature,Giga Jar meter Level 4 (35 vinyls to next level),False
+jammin-jars-2-b28,96.6,feature,Giga Jar meter MAX Level (5 of 5),False
+jammin-jars-b28,96.49,bonus_buy,Buy Free Games Feature at 84x base bet,False
+jammin-jars-b28,96.83,default,,True
+jane-hunter-and-the-mask-of-montezuma-b7,96.02,default,,True
+jane-hunter-and-the-mask-of-montezuma-b7,96.02,bonus_buy,Buy Free Spins,False
+jasmine-dreams-b7,96.48,default,,True
+jelly-candy-b7,96.52,default,,True
+jelly-express-b7,96.5,default,Same for base/ante/super spin 1/2/buy FS/buy super FS,True
+jewel-clicker-b27,96.0,default,"Rules booklet, rules_p4.png verbatim: ""The RTP in Jewel Clicker is 96%."" Flat figure, no range.",True
+jewel-rush-b7,96.47,default,,True
+jewel-rush-b7,96.47,bonus_buy,Buy Free Spins,False
+jewels-of-ra-b7,96.49,bonus_buy,Buy Respin Feature,False
+jewels-of-ra-b7,96.49,feature,Super Spin,False
+jewels-of-ra-b7,96.52,ante_bet,Ante Bet,False
+jewels-of-ra-b7,96.53,default,,True
+jiggy-s-pot-o-gold-b28,96.28,default,,True
+jogo-do-bicho-b10,94.0,default,"Single flat value printed in the rules panel, no range",True
+jogo-do-bicho-b22,93.0,default,,True
+john-hunter-and-galileo-s-secrets-b7,96.5,default,,True
+john-hunter-and-galileo-s-secrets-b7,96.5,bonus_buy,RTP when using BUY FREE SPINS,False
+john-hunter-and-galileo-s-secrets-b7,96.5,bonus_buy,RTP when using BUY SUPER FREE SPINS,False
+john-hunter-and-the-aztec-treasure-b7,96.5,default,,True
+john-hunter-and-the-book-of-tut-b7,96.5,default,,True
+john-hunter-and-the-book-of-tut-respin-b7,96.48,bonus_buy,Buy Free Spins,False
+john-hunter-and-the-book-of-tut-respin-b7,96.5,default,,True
+john-hunter-and-the-mayan-gods-b7,96.46,default,,True
+john-hunter-and-the-quest-for-bermuda-riches-b7,96.39,default,,True
+john-hunter-and-the-quest-for-bermuda-riches-b7,96.4,bonus_buy,Buy Free Spins,False
+john-hunter-and-the-secrets-of-da-vinci-s-treasure-b7,96.53,default,,True
+john-hunter-and-the-tomb-of-the-scarab-queen-b7,96.5,default,,True
+johnny-cash-b10,95.98,default,Source: live BGaming provider game page (RTP not printed in-game); cross-verified via matching max_win 2077x,True
+joker-king-b7,96.5,default,,True
+joker-poker-b22,97.95,default,Not printed in-game; from the provider's official game page,True
+joker-pyre-b22,96.0,default,,True
+joker-s-clash-b22,96.0,default,Not printed in-game; from the provider's official game page,True
+joker-s-jewels-b7,96.5,default,,True
+joker-s-jewels-cash-b7,96.51,default,,True
+joker-s-jewels-hold-spin-b7,96.52,default,,True
+joker-s-jewels-hot-b7,96.5,default,,True
+joker-s-jewels-wild-b7,96.58,default,,True
+joker-s-million-b10,97.34,default,,True
+joker-s-revenge-b7,96.51,default,,True
+joker-s-revenge-b7,96.51,bonus_buy,Buy Free Spins,False
+joker-s-revenge-b7,96.51,bonus_buy,Buy Super Free Spins 1,False
+joker-s-revenge-b7,96.53,bonus_buy,Buy Super Free Spins 2,False
+joker-troupe-b28,96.26,bonus_buy,Blue Joker Feature bonus buy (42.5x Base Bet),False
+joker-troupe-b28,96.29,bonus_buy,Green Joker Wheel bonus buy (41.6x Base Bet),False
+joker-troupe-b28,96.31,bonus_buy,Red Joker Freespins bonus buy (114x Base Bet),False
+joker-troupe-b28,96.34,bonus_buy,"Random Free Spins bonus buy (66x Base Bet, picks 1 of 3 features)",False
+joker-troupe-b28,96.68,default,,True
+journey-to-the-west-b7,96.47,default,,True
+juicy-fruits-b7,96.51,default,,True
+juicy-fruits-b7,96.51,ante_bet,Ante Bet 30x multiplier,False
+juicy-fruits-b7,96.51,bonus_buy,Buy Free Spins,False
+juicy-fruits-multihold-b7,96.02,bonus_buy,RTP when using BUY FREE SPINS,False
+juicy-fruits-multihold-b7,96.04,default,,True
+jumbo-safari-b7,96.52,default,,True
+jumbo-safari-b7,96.52,ante_bet,With ANTE BET active (bet multiplier 10x vs 5x normal),False
+jumbo-safari-b7,96.52,bonus_buy,With BUY FREE SPINS (100x total bet),False
+jumper-b22,96.0,default,Not printed in game; 96 percent from provider catalogue card,True
+jungle-delight-b30,96.03,default,Provider game page and official game-information PDF; the build itself prints no RTP.,True
+jungle-gorilla-b7,96.57,default,,True
+jungle-queen-b10,96.15,default,,True
+jurassic-giants-b7,96.01,default,,True
+kane-s-inferno-b29,96.06,default,,True
+keepers-of-the-secret-b10,97.01,default,,True
+killer-night-b7,96.44,ante_bet,Ante Bet,False
+killer-night-b7,96.44,bonus_buy,Buy Super Free Spins,False
+killer-night-b7,96.44,feature,Super Spin 1,False
+killer-night-b7,96.45,bonus_buy,Buy Free Spins,False
+killer-night-b7,96.52,default,,True
+killer-night-b7,96.52,feature,Super Spin 2,False
+king-frog-feast-b29,96.7,default,,True
+king-kong-cash-b31,95.79,default,,True
+king-kong-splash-power-play-b31,92.0,operator_config,Operator build BP_KingKongSplashPP92,False
+king-kong-splash-power-play-b31,93.0,operator_config,Operator build BP_KingKongSplashPP93,False
+king-kong-splash-power-play-b31,94.0,default,,True
+king-kong-splash-power-play-b31,94.0,ante_bet,"Power Play: stake x5 of base, RTP printed 94%",False
+king-kong-splash-power-play-b31,94.0,ante_bet,"Super Power Play: stake x10 of base, RTP printed 94%",False
+king-kong-splash-power-play-b31,94.0,ante_bet,"Ultra Power Play: stake x20 of base, RTP printed 94%",False
+king-of-cash-b10,95.99,bonus_buy,Buy Bonus Game,False
+king-of-cash-b10,96.23,default,,True
+kingdom-of-the-dead-b7,96.07,default,,True
+kingdom-of-the-dead-b7,96.07,ante_bet,Ante Bet (15x bet multiplier),False
+kingdom-of-the-dead-b7,96.07,bonus_buy,Buy Free Spins (120x total bet),False
+knight-hot-spotz-b7,96.5,default,,True
+knights-vs-barbarians-b7,96.45,bonus_buy,Buy Super Free Spins,False
+knights-vs-barbarians-b7,96.49,bonus_buy,Buy Free Spins,False
+knights-vs-barbarians-b7,96.51,default,,True
+knockout-football-rush-b29,96.88,default,,True
+knockout-riches-b30,96.75,default,From the provider's own game page; the build itself prints no RTP (both panels read in full).,True
+kong-even-more-money-b31,90.0,operator_config,Operator build BP_KongEvenMoreMoney90,False
+kong-even-more-money-b31,92.0,operator_config,Operator build BP_KongEvenMoreMoney92,False
+kong-even-more-money-b31,93.0,operator_config,Operator build BP_KongEvenMoreMoney93,False
+kong-even-more-money-b31,94.0,default,,True
+kong-even-more-money-b31,94.0,ante_bet,Express Bet,False
+kong-miami-city-b31,92.0,operator_config,Operator build BP_KongMiamiCity92 listed on the provider page,False
+kong-miami-city-b31,93.0,operator_config,Operator build BP_KongMiamiCity93 listed on the provider page,False
+kong-miami-city-b31,94.0,default,,True
+kraken-gold-rush-b30,96.75,default,,True
+labu-run-b23,95.0,default,,True
+lady-godiva-b7,96.54,default,,True
+lady-lucky-gun-b10,96.13,default,,True
+lady-of-the-moon-b7,96.52,default,,True
+lady-wolf-moon-b10,97.09,default,,True
+lady-wolf-moon-megawaystm-b10,96.75,default,,True
+lady-wolf-moon-megawaystm-b10,96.75,ante_bet,RTP in the Chance x2 feature (info_p13),False
+lady-wolf-moon-megawaystm-b10,96.75,bonus_buy,RTP in the Buy Bonus feature (info_p13),False
+lamp-of-infinity-b7,96.04,bonus_buy,Buy Free Spins,False
+lamp-of-infinity-b7,96.07,default,,True
+lamp-of-infinity-b7,96.08,ante_bet,Ante Bet,False
+launch-to-riches-b7,96.49,bonus_buy,Buy Free Spins,False
+launch-to-riches-b7,96.52,default,,True
+launch-to-riches-b7,96.53,bonus_buy,Buy Super Free Spins,False
+lava-balls-b7,96.5,default,,True
+lava-balls-b7,96.5,bonus_buy,Buy Free Spins,False
+legend-of-perseus-b30,96.77,default,,True
+legendary-beasts-b29,96.81,default,,True
+legendary-monkey-king-b30,96.71,default,From the provider's own game page and official game-information PDF; the build itself prints no RTP.,True
+leprechaun-carol-b7,96.53,default,,True
+leprechaun-riches-b30,97.35,default,From the provider's own game page; the build itself prints no RTP (both panels read in full).,True
+leprechaun-song-b7,96.46,default,,True
+limbo-b22,96.0,default,,True
+limbo-b7,97.5,default,RTP based on using the Max TARGET MULTIPLIER choice,True
+limbo-rider-b27,95.0,default,,True
+limbo-xy-b10,96.99,player_config,lowest of the range printed in game; set by the target multiplier,True
+limbo-xy-b10,98.57,player_config,"highest of the range printed in game, same player choice",False
+little-gem-b7,96.7,default,,True
+little-green-money-b29,96.0,default,,True
+lobster-bob-s-crazy-crab-shack-b7,96.02,ante_bet,RTP with Ante Bet active (30x bet multiplier vs default 20x).,False
+lobster-bob-s-crazy-crab-shack-b7,96.03,default,,True
+lobster-bob-s-crazy-crab-shack-b7,96.04,bonus_buy,RTP when Buy Free Spins is purchased (100x bet).,False
+lobster-bob-s-sea-food-and-win-it-b7,96.02,bonus_buy,Buy Free Spins (50x total bet),False
+lobster-bob-s-sea-food-and-win-it-b7,96.02,bonus_buy,Buy Hold & Spinner (50x total bet),False
+lobster-bob-s-sea-food-and-win-it-b7,96.04,default,,True
+lobster-house-b7,96.51,default,,True
+lobster-house-b7,96.51,bonus_buy,Buy Free Spins,False
+lobster-house-b7,96.51,bonus_buy,Buy Super Free Spins,False
+loki-loot-b10,97.2,default,,True
+loki-s-riches-b7,96.01,bonus_buy,"RTP when using BUY FREE SPINS, printed separately on rules_p3",False
+loki-s-riches-b7,96.04,default,,True
+luck-magic-scratch-b10,90.0,default,,True
+lucky-8-merge-uptm-b10,97.25,default,,True
+lucky-8-merge-uptm-b10,97.25,ante_bet,Chance x2 feature (+25% bet),False
+lucky-8-merge-uptm-b10,97.25,bonus_buy,Buy Bonus feature (100x),False
+lucky-birds-b10,96.0,default,Overall theoretical RTP; actual return depends on player's chosen bird/risk strategy,True
+lucky-captain-b23,94.37,default,,True
+lucky-clover-riches-b30,96.77,default,,True
+lucky-crew-b10,95.94,bonus_buy,RTP for the Buy Bonus (Buy Free Spins) feature,False
+lucky-crew-b10,95.98,default,,True
+lucky-dice-b7,96.53,default,,True
+lucky-dog-b7,96.5,default,,True
+lucky-dragon-multidice-x-b10,97.0,default,,True
+lucky-dragons-b7,95.19,default,,True
+lucky-ducky-x-mas-b10,97.25,default,,True
+lucky-ducky-x-mas-b10,97.25,bonus_buy,Buy Bonus feature (100x bet),False
+lucky-ducky-x-mas-b10,97.25,bonus_buy,"Chance x2 toggle (+25% bet, better FS odds)",False
+lucky-farm-bonanza-b10,95.97,default,,True
+lucky-farm-bonanza-b10,96.0,ante_bet,Chance x2 feature (+25% bet surcharge),False
+lucky-farm-bonanza-b10,96.03,bonus_buy,Buy Bonus (Free Spins purchase),False
+lucky-farm-bonanza-easter-b10,95.97,default,,True
+lucky-farm-bonanza-easter-b10,96.0,ante_bet,Chance x2 (+25% bet toggle),False
+lucky-farm-bonanza-easter-b10,96.03,bonus_buy,"Buy Bonus (20 Free Spins, 100x bet)",False
+lucky-fortune-tree-b7,96.5,default,,True
+lucky-grace-and-charm-b7,96.71,default,,True
+lucky-lady-s-clover-b10,97.31,default,,True
+lucky-lightning-b7,96.45,default,,True
+lucky-lightning-b7,96.48,bonus_buy,Buy Free Spins,False
+lucky-mines-b22,96.0,default,,True
+lucky-mischief-b30,96.75,default,From the provider's own page and official game PDF; the build itself prints no RTP.,True
+lucky-monkey-b7,96.5,default,,True
+lucky-mouse-b7,96.57,default,,True
+lucky-new-year-b7,96.0,default,,True
+lucky-oak-b10,96.06,bonus_buy,Buy Bonus feature,False
+lucky-oak-b10,96.13,default,,True
+lucky-ox-b7,96.55,default,,True
+lucky-pack-2026-cup-b10,96.1,default,,True
+lucky-panda-b7,96.5,default,,True
+lucky-phoenix-b7,96.5,default,,True
+lucky-piggy-b30,96.79,default,Not printed in the build (P-S09); provider page payload and official PG Soft PDF agree.,True
+lucky-s-wild-pub-2-b7,96.5,default,,True
+lucky-s-wild-pub-2-b7,96.5,bonus_buy,BUY ZONE POT (100x total bet),False
+lucky-s-wild-pub-2-b7,96.5,bonus_buy,BUY X100 ZONE POT (500x total bet),False
+lucky-s-wild-pub-b7,96.46,bonus_buy,BUY POT RESPIN FEATURE,False
+lucky-s-wild-pub-b7,96.48,bonus_buy,BUY TRIPLE POT RESPIN FEATURE,False
+lucky-s-wild-pub-b7,96.5,default,,True
+lucky-tiger-1000-b7,96.5,default,,True
+lucky-tiger-b7,96.5,default,,True
+lucky-turkey-b10,97.17,default,,True
+lucky-turkey-b10,97.17,ante_bet,"Chance x2 feature active, +25% bet (RTP printed identical to base)",False
+lucky-turkey-b10,97.17,bonus_buy,Buy Bonus feature (RTP printed identical to base),False
+luxor-of-cleopatra-b7,96.51,default,,True
+luxor-of-cleopatra-b7,96.56,bonus_buy,BUY FREE SPINS,False
+mad-blast-b28,96.29,ante_bet,"Push Bet: 2x Base Bet, increases Free Spins trigger chance",False
+mad-blast-b28,96.34,default,,True
+mad-blast-b28,96.34,bonus_buy,"Bonus Buy: Initial Multiplier x8, 12 Free Spins (750x Base Bet)",False
+mad-blast-b28,96.35,bonus_buy,"Bonus Buy: Initial Multiplier x2, 8 Free Spins (150x Base Bet)",False
+mad-cars-b28,96.39,default,,True
+mad-cars-b28,96.4,bonus_buy,Bonus Buy: Mad Bonus (115.7x base bet),False
+mad-cars-b28,96.45,bonus_buy,Bonus Buy: Collector Bonus (456x base bet),False
+mad-cars-b28,96.46,bonus_buy,Bonus Buy: Payer Bonus (301x base bet),False
+mad-cars-b28,96.55,bonus_buy,Bonus Buy: Mystery Mad Bonus (624x base bet),False
+madame-destiny-b7,96.49,default,,True
+madame-destiny-megawaystm-b7,96.56,default,,True
+madame-destiny-megawaystm-b7,96.67,ante_bet,Double Chance to Win (25x ante bet) enabled,False
+madame-destiny-megawaystm-b7,96.67,bonus_buy,Buy Free Spins (100x bet),False
+magic-crystals-b7,96.36,default,,True
+magic-journey-b7,96.54,default,,True
+magic-money-maze-b7,96.61,default,,True
+magic-money-maze-b7,96.61,bonus_buy,"RTP when using BUY FREE SPINS (= Buy Magic Money Maze Bonus, 120x)",False
+magic-mummy-megawaystm-b10,97.0,default,,True
+magic-mummy-megawaystm-b10,97.0,ante_bet,"RTP with Chance x2 active (+50% bet, next spin only)",False
+magic-mummy-megawaystm-b10,97.0,bonus_buy,RTP in the Buy Bonus (Free Spins purchase) feature,False
+magic-oak-b29,96.71,default,,True
+magician-s-secrets-b7,96.5,bonus_buy,Buy Free Spins,False
+magician-s-secrets-b7,96.51,default,,True
+mahjong-ways-2-b30,96.95,default,,True
+mahjong-ways-b30,96.92,default,"Provider game page, confirmed by their official game-information PDF; the build itself prints no RTP.",True
+mahjong-wins-super-scatter-b7,96.5,default,,True
+mahjong-wins-super-scatter-b7,96.5,bonus_buy,Buy Free Spins,False
+mahjong-wins-triple-pot-b7,97.0,default,,True
+majestic-empire-b30,96.74,default,Provider game page and official PDF agree; the build prints no RTP.,True
+majestic-express-gold-run-b7,96.49,bonus_buy,Buy Feature 100x (Money Symbol Collection round),False
+majestic-express-gold-run-b7,96.5,default,,True
+majestic-treasures-b30,96.68,default,From the provider's own game page only; no official PDF exists for this title and the build prints no RTP.,True
+mammoth-gold-megaways-b7,96.0,bonus_buy,Buy Free Spins,False
+mammoth-gold-megaways-b7,96.03,default,,True
+maneki-88-gold-b10,96.75,default,Base game RTP: 1 Golden Symbol chosen,True
+maneki-88-gold-b10,96.9,bonus_buy,Buy Bonus RTP: 1 Golden Symbol chosen,False
+maneki-88-gold-b10,96.93,bonus_buy,Buy Bonus RTP: 5 Golden Symbols chosen,False
+maneki-88-gold-b10,96.97,default,Base game RTP: 3 Golden Symbols chosen,False
+maneki-88-gold-b10,97.07,default,Base game RTP: 5 Golden Symbols chosen,False
+maneki-88-gold-b10,97.08,bonus_buy,Buy Bonus RTP: 4 Golden Symbols chosen,False
+maneki-88-gold-b10,97.14,default,Base game RTP: 4 Golden Symbols chosen,False
+maneki-88-gold-b10,97.19,bonus_buy,Buy Bonus RTP: 3 Golden Symbols chosen,False
+maneki-88-gold-b10,97.37,bonus_buy,Buy Bonus RTP: 2 Golden Symbols chosen,False
+maneki-88-gold-b10,97.45,default,Base game RTP: 2 Golden Symbols chosen,False
+mask-carnival-b30,96.7,default,,True
+masked-mayhem-b28,94.31,operator_config,Alternative RTP configuration published by the provider; the demo serves the default build,False
+masked-mayhem-b28,96.29,default,,True
+masked-mayhem-b28,96.33,bonus_buy,"Random Bonus Symbols bonus buy, 60x Base Bet",False
+master-chen-s-fortune-b7,96.48,default,,True
+master-joker-b7,96.46,default,,True
+mayan-destiny-b30,96.74,default,,True
+mechanical-clover-b10,95.42,default,,True
+medusa-s-stone-b7,96.46,default,,True
+medusa-s-stone-b7,96.5,bonus_buy,Buy Free Spins,False
+medusa-s-stone-b7,96.53,bonus_buy,Buy Super Free Spins,False
+megablock-b22,95.5,default,Not printed in-game; from the provider's official game page,True
+megablock-empire-b22,95.5,default,From the provider game card; RTP is not printed anywhere inside the build.,True
+mermaid-riches-b30,96.71,default,From the provider's game page and official PDF; the build itself prints no RTP.,True
+mermaid-s-treasure-trove-b7,96.52,bonus_buy,Buy Free Spins,False
+mermaid-s-treasure-trove-b7,96.54,default,Same with Ante Bet and Buy Super Free Spins active,True
+midas-fortune-b30,96.73,default,From the provider's game page and PDF; the build itself prints no RTP.,True
+might-of-freya-megaways-b7,96.5,default,"Replay path, base game (no ante/buy). Collect-path variant = 95.97%.",True
+might-of-freya-megaways-b7,96.52,ante_bet,Replay path with Ante Bet 25x (disables buy). Collect-path variant = 95.83%.,False
+might-of-freya-megaways-b7,96.6,bonus_buy,Replay path with Buy Free Spins. Collect-path variant = 94.90%.,False
+mighty-kong-b7,96.64,default,,True
+mighty-mania-b30,96.76,default,,True
+mighty-munching-melons-b7,96.05,default,,True
+mine-b22,96.0,default,,True
+mine-gems-b10,98.4,default,single flat figure printed in the Help section,True
+mine-slot-2-b22,96.0,default,,True
+mines-b22,95.0,default,"Derived from the printed ladder (6 points fit 95%); provider card claims 96%, not confirmed in game",True
+mines-b23,98.0,default,,True
+mines-b27,94.71,default,minimum RTP printed in the in-game Rules (Game Details -> RTP),True
+mines-b27,95.3,player_config,"maximum RTP, achieved by cashing out at a multiplier of x1.03",False
+mines-b7,97.5,default,"9 mines, round played to completion without cashout",True
+minesweeper-xy-b10,97.88,default,97.88%-98.4% depending on the field size chosen by the player,True
+mining-rush-b7,96.51,bonus_buy,Buy Free Spins,False
+mining-rush-b7,96.56,default,,True
+miss-cherry-fruits-jackpot-party-b10,94.65,default,,True
+miss-cherry-fruits-jackpot-party-b10,94.77,ante_bet,Chance x2.5 side bet: Free Spins,False
+miss-cherry-fruits-jackpot-party-b10,94.77,ante_bet,Chance x2.5 side bet: Free Spins + Disco Ball Respins together,False
+miss-cherry-fruits-jackpot-party-b10,94.83,ante_bet,Chance x2.5 side bet: Disco Ball Respins,False
+miss-cherry-fruits-jackpot-party-b10,96.9,bonus_buy,Buy Bonus feature: Disco Ball Respins,False
+miss-cherry-fruits-jackpot-party-b10,97.13,bonus_buy,Buy Bonus feature: Free Spins,False
+miss-cherry-fruits-st-valentines-b10,96.13,default,,True
+miss-cherry-fruits-x-mas-b10,96.13,default,,True
+miss-cherry-wild-frames-b10,97.0,default,,True
+miss-cherry-wild-frames-b10,97.15,bonus_buy,when the plain Juicy Spin round of 10 free spins is bought for 50x the bet,False
+miss-cherry-wild-frames-b10,97.16,ante_bet,"with the Chance x2 toggle on, which adds 25 percent to the total bet",False
+miss-cherry-wild-frames-b10,97.24,bonus_buy,when the free spins round with 3x3 wilds is bought for 400x the bet,False
+miss-cherry-wild-frames-b10,97.3,bonus_buy,when the free spins round with 2x2 wilds is bought for 120x the bet,False
+mochimon-b7,96.5,default,,True
+mochimon-b7,96.5,bonus_buy,RTP when purchasing the Buy Free Spins feature (100x bet),False
+moleionaire-b7,96.08,default,,True
+moleionaire-b7,96.08,bonus_buy,Buy Free Spins,False
+money-maker-b10,97.03,default,,True
+money-mouse-b7,96.01,default,,True
+money-stacks-megawaystm-b7,96.5,default,,True
+money-stacks-megawaystm-b7,96.5,bonus_buy,"Buy Feature (3-6 SCATTER variants, all cluster at ~96.50%)",False
+monkey-madness-b7,96.53,default,,True
+monkey-warrior-b7,96.5,default,,True
+monkeys-wild-party-b30,96.75,default,"Provider game page only; no official PDF exists for this title, build does not print RTP",True
+monster-mash-cash-b29,96.0,default,,True
+monster-superlanche-b7,96.02,bonus_buy,Buy Free Spins,False
+monster-superlanche-b7,96.03,default,,True
+mount-mazuma-b29,96.73,default,,True
+mr-null-s-wicked-wares-b7,96.48,bonus_buy,Buy Free Spins (100x) / Buy Super Free Spins (300x) -- both purchases share the same stated RTP,False
+mr-null-s-wicked-wares-b7,96.49,default,,True
+mr-null-s-wicked-wares-b7,96.5,ante_bet,"Ante Bet special bet (60x internal multiplier, 5x higher chance to trigger Free Spins)",False
+mr-null-s-wicked-wares-b7,96.5,feature,"Super Spin 1 special bet (400x, guaranteed 2+ Mystery symbols at 2-10x; Free Spins cannot trigger while active)",False
+mr-null-s-wicked-wares-b7,96.5,feature,"Super Spin 2 special bet (5000x, guaranteed 3+ Mystery symbols at 5-10x; Free Spins cannot trigger while active)",False
+mr-treasure-s-fortune-b30,96.71,default,"Provider game page, confirmed by their official game-information PDF; the build itself prints no RTP.",True
+muertos-multiplier-megaways-b7,96.0,bonus_buy,Buy Free Spins,False
+muertos-multiplier-megaways-b7,96.03,default,,True
+multi-rush-b10,96.15,default,,True
+multihand-blackjack-b10,99.33,default,Printed in the in-game rules panel,True
+multihand-blackjack-b7,99.62,default,,True
+multihand-blackjack-pro-b10,99.4,default,"printed in game: rules page 1, RTP is 99.4%",True
+mummy-money-b29,95.97,default,,True
+mummy-s-gold-b10,96.96,default,,True
+mummy-s-jewels-100-b7,96.49,bonus_buy,Buy Respins,False
+mummy-s-jewels-100-b7,96.5,default,,True
+mummy-s-jewels-100-b7,96.5,bonus_buy,Buy Super Bonus,False
+mummy-s-jewels-b7,96.5,default,,True
+mummy-s-jewels-b7,96.5,bonus_buy,Buy Respins,False
+mummy-s-jewels-b7,96.51,bonus_buy,Buy Combo Bonus,False
+museum-wonders-b30,96.71,default,From the provider's own game page; the build itself prints no RTP (both panels read in full).,True
+mustang-gold-b7,96.53,default,,True
+mustang-gold-megaways-b7,96.46,default,,True
+mustang-gold-megaways-b7,96.47,ante_bet,"Ante Bet 30x (doubles natural Free Spins chance, more scatters, disables Buy Free Spins)",False
+mustang-gold-megaways-b7,96.51,bonus_buy,Buy Free Spins (120x total bet),False
+mustang-trail-b7,96.04,default,,True
+mustang-trail-b7,96.05,bonus_buy,RTP when using Buy Free Spins,False
+mysteco-b27,96.0,default,,True
+mysterious-b7,96.5,default,,True
+mysterious-egypt-b7,96.5,default,,True
+mysterious-egypt-b7,96.5,bonus_buy,Buy Free Spins,False
+mystery-mice-b7,96.49,default,,True
+mystery-mice-b7,96.5,bonus_buy,Buy Free Spins,False
+mystery-mission-to-the-moon-b28,96.21,ante_bet,"With Push Bet active (+20% bet, higher Free Games chance)",False
+mystery-mission-to-the-moon-b28,96.25,default,,True
+mystery-mission-to-the-moon-b28,96.3,bonus_buy,"Buy Three Scatters (102x base bet, 8 free spins)",False
+mystery-mission-to-the-moon-b28,96.47,bonus_buy,"Buy Four Scatters (161x base bet, 10 free spins)",False
+mystery-mission-to-the-moon-b28,96.54,bonus_buy,"Buy Five Scatters (237x base bet, 12 free spins)",False
+mystery-mission-to-the-moon-b28,96.61,bonus_buy,"Buy Six Scatters (332x base bet, 14 free spins)",False
+mystery-mission-to-the-moon-b28,96.65,bonus_buy,"Buy Random Free Spins (200x base bet, random tier)",False
+mystery-museum-b28,94.01,operator_config,"Alternative operator/build RTP configuration, not available in this demo",False
+mystery-museum-b28,96.04,bonus_buy,Bonus Buy: Four Scatters (guaranteed 4 Wild Samurai),False
+mystery-museum-b28,96.21,bonus_buy,Bonus Buy: Three Scatters (guaranteed 3 Wild Samurai),False
+mystery-museum-b28,96.26,bonus_buy,Bonus Buy: Five Scatters (guaranteed 5 Wild Samurai),False
+mystery-museum-b28,96.32,bonus_buy,Bonus Buy: Random Scatters (random count of Wild Samurai),False
+mystery-museum-b28,96.58,default,,True
+mystery-museum-b28,97.04,feature,"With Power Gamble Feature, using the documented best strategy (always 3-in-4 odds, always collect)",False
+mystery-of-the-nile-b28,96.26,bonus_buy,"3 Bonus Symbols, 8 Free Spins, 92.7x Base Bet",False
+mystery-of-the-nile-b28,96.33,bonus_buy,"4 Bonus Symbols, 10 Free Spins, 149.7x Base Bet",False
+mystery-of-the-nile-b28,96.35,default,Without Push Bet,True
+mystery-of-the-nile-b28,96.36,ante_bet,With Push Bet enabled (+20% of Base Bet),False
+mystery-of-the-nile-b28,96.36,bonus_buy,"Random Free Spins, 125x Base Bet",False
+mystery-of-the-nile-b28,96.37,bonus_buy,"5 Bonus Symbols, 12 Free Spins, 229.3x Base Bet",False
+mystery-of-the-nile-b28,96.43,bonus_buy,"Full-Screen Golden Pharaoh Symbols, 250x Base Bet",False
+mystery-of-the-orient-b7,96.0,default,,True
+mystery-of-the-orient-b7,96.0,bonus_buy,Buy Free Spins,False
+mystic-chief-b7,96.55,default,,True
+mystic-potion-b30,96.7,default,From provider's game page and its official PDF (they agree); the build itself prints no RTP.,True
+mystic-reels-b10,96.0,default,,True
+mystic-rings-b29,96.42,ante_bet,Super Bet active (2.0x total bet),False
+mystic-rings-b29,96.54,default,,True
+mystic-rings-b29,96.71,bonus_buy,"Buy Feature (3-5 Scatter, 39.96x total bet)",False
+mystic-shaman-b29,96.0,ante_bet,Super Bet (ante) enabled,False
+mystic-shaman-b29,96.54,bonus_buy,Feature Buy (bonus buy) enabled,False
+mystic-shaman-b29,96.89,default,,True
+mystic-wishes-b7,96.5,default,,True
+mystical-spirits-b30,96.75,default,Provider game page and official PDF agree; the build prints no RTP.,True
+mythical-guardians-b30,96.76,default,From provider's game page and its official PDF (they agree); the build itself prints no RTP.,True
+naughty-santa-b29,96.78,default,,True
+neon-cash-city-b28,94.37,operator_config,Alternative RTP configuration published by the provider; the demo serves the default build,False
+neon-cash-city-b28,96.24,ante_bet,"Push Bet active (1.2x Base Bet stake, increases Free Spins trigger chance)",False
+neon-cash-city-b28,96.33,bonus_buy,Random Bonus Symbols buy (65x Base Bet),False
+neon-cash-city-b28,96.35,default,,True
+nile-fortune-b7,96.01,bonus_buy,RTP when using BUY FREE SPINS,False
+nile-fortune-b7,96.03,default,,True
+nile-fortune-b7,96.06,ante_bet,RTP with the 25x ante bet multiplier,False
+ninja-raccoon-frenzy-b30,96.81,default,Provider game page and official game-information PDF; the build itself prints no RTP.,True
+ninja-vs-samurai-b30,97.44,default,,True
+north-guardians-b7,96.29,bonus_buy,Buy Free Spins,False
+north-guardians-b7,96.38,default,,True
+nuwa-deluxe-b29,96.6,default,,True
+nuwa-deluxe-b29,96.63,ante_bet,,False
+nuwa-deluxe-b29,96.67,bonus_buy,,False
+octobeer-fortunes-b7,96.53,default,,True
+octobeer-fortunes-b7,96.53,bonus_buy,Buy Free Spins,False
+odds-on-winner-b7,96.51,default,,True
+oishi-delights-b30,96.75,default,From the provider's own game page and official PDF; the build prints no RTP.,True
+olympus-unleashed-b28,96.32,default,,True
+olympus-wins-b7,96.5,default,,True
+oodles-of-noodles-b7,96.58,default,,True
+oodles-of-noodles-b7,96.58,ante_bet,"ANTE BET / TIP active, 15x bet multiplier vs 10x normal",False
+oodles-of-noodles-b7,96.58,bonus_buy,"BUY FREE SPINS (Order Noodles), 100x total bet",False
+oof-the-goldmine-planet-b10,97.0,default,,True
+oof-the-goldmine-planet-b10,97.0,bonus_buy,"RTP in the Buy Bonus feature, per rules_p10/p11.png",False
+oracle-of-gold-b7,96.55,default,,True
+oracle-of-gold-b7,96.55,ante_bet,Ante Bet active (40x = 2x total bet),False
+oracle-of-gold-b7,96.55,bonus_buy,Buy Free Spins (100x) or Buy Super Free Spins (400x),False
+orbs-of-atlantis-b29,96.57,bonus_buy,"Buy Feature option '5': exactly 5 Scatters land, fixed 50 initial Free Games",False
+orbs-of-atlantis-b29,96.58,default,,True
+orbs-of-atlantis-b29,96.67,bonus_buy,"Buy Feature option '3-8': 3-8 Scatters land at random, 10-500 initial Free Games",False
+orbs-of-atlantis-b29,96.77,bonus_buy,"Buy Feature option '4': exactly 4 Scatters land, fixed 25 initial Free Games",False
+out-of-the-woods-b7,96.49,bonus_buy,BUY SUPER FREE SPINS,False
+out-of-the-woods-b7,96.5,ante_bet,ANTE BET (5x total bet),False
+out-of-the-woods-b7,96.5,bonus_buy,BUY FREE SPINS,False
+out-of-the-woods-b7,96.5,feature,"SUPER SPIN (10x total bet, guaranteed Wild stack, disables Free Spins)",False
+out-of-the-woods-b7,96.52,default,,True
+pamper-me-b29,95.98,default,,True
+panda-fortune-rush-b10,96.03,default,,True
+panda-gold-scratchcard-b7,85.59,default,Theoretical RTP range 85.59%-95.1%,True
+panda-luck-b10,97.0,default,,True
+panda-luck-b10,97.0,bonus_buy,Buy Bonus,False
+panda-s-fortune-2-b7,96.51,default,,True
+panda-s-fortune-b7,96.17,default,,True
+panda-s-wealth-b10,96.06,bonus_buy,Printed RTP for the Buy Bonus feature,False
+panda-s-wealth-b10,96.1,default,,True
+pandemic-rising-b7,96.48,bonus_buy,"Buy Free Spins, 100x total bet, standard trigger",False
+pandemic-rising-b7,96.51,default,,True
+pandemic-rising-b7,96.53,ante_bet,Ante Bet: 80x bet multiplier (4x base bet); higher free spins chance,False
+pandemic-rising-b7,96.53,ante_bet,Super Spin: 200x bet multiplier (10x base bet); guarantees 1 WILD per spin,False
+pandemic-rising-b7,96.54,bonus_buy,"Buy Super Free Spins, 500x total bet, 2 guaranteed WILDs",False
+panther-queen-b7,96.5,default,,True
+peak-power-b7,95.98,bonus_buy,Buy Super FS,False
+peak-power-b7,96.02,default,,True
+peak-power-b7,96.05,bonus_buy,Buy Standard FS,False
+peking-luck-b7,96.5,default,,True
+pelican-payday-b7,96.59,default,,True
+penalty-cup-b23,96.0,default,,True
+penalty-duel-b10,96.1,ante_bet,RTP with the Chance x5 wager active,False
+penalty-duel-b10,96.1,bonus_buy,RTP in the Buy Bonus feature,False
+penalty-duel-b10,96.14,default,Overall theoretical RTP stated in the game rules,True
+penalty-duel-with-j-lio-c-sar-b10,96.1,ante_bet,Chance x5 toggle active (0.5x bet surcharge per shot),False
+penalty-duel-with-j-lio-c-sar-b10,96.1,bonus_buy,"Buy Bonus (5-shot series, 100x bet)",False
+penalty-duel-with-j-lio-c-sar-b10,96.14,default,,True
+penalty-nations-cup-b22,95.0,default,From the provider game card; RTP is not printed anywhere inside the build.,True
+penalty-unlimited-b22,96.0,default,From the provider game card; RTP is not printed in the build.,True
+pengu-sport-b22,96.5,default,Not printed in the build; from the provider game card inout.games/game/pengu-sport,True
+penguins-christmas-party-time-b7,96.52,bonus_buy,Buy Free Spins,False
+penguins-christmas-party-time-b7,96.52,default,Ante Bet,False
+penguins-christmas-party-time-b7,96.54,default,,True
+penny-pelican-b10,95.94,bonus_buy,"Buy Bonus RTP, printed in the rules booklet next to the overall RTP.",False
+penny-pelican-b10,95.98,default,,True
+peppe-s-pepperoni-pizza-plaza-b7,96.55,default,,True
+peppe-s-pepperoni-pizza-plaza-b7,96.55,ante_bet,Ante Bet 15x,False
+peppe-s-pepperoni-pizza-plaza-b7,96.55,bonus_buy,Buy Free Spins,False
+pharaoh-royals-b30,96.76,default,From the provider's own game page and official PDF; the build prints no RTP.,True
+phoenix-forge-b7,96.51,default,,True
+phoenix-rises-b30,96.7,default,Provider game page and official PDF; the build prints no RTP.,True
+pig-farm-b7,96.0,default,,True
+piggy-bank-bills-b7,96.5,default,,True
+piggy-bank-hold-win-b10,96.98,default,,True
+piggy-bank-hold-win-b10,96.98,bonus_buy,Buy Bonus: Piggy Surprise,False
+piggy-bank-hold-win-b10,96.99,bonus_buy,Buy Bonus: Piggy Frenzy,False
+piggy-bank-hold-win-b10,97.02,bonus_buy,Buy Bonus: Piggy Trio,False
+piggy-bankers-b7,96.03,bonus_buy,Buy Free Spins,False
+piggy-bankers-b7,96.05,default,,True
+pinata-wins-b30,96.76,default,Provider game page and official PDF agree; the build itself prints no RTP.,True
+pink-beard-b23,94.5,default,,True
+pinup-girls-b7,96.33,bonus_buy,Buy Free Spins,False
+pinup-girls-b7,96.44,default,,True
+pirate-gold-b7,96.5,default,,True
+pirate-gold-deluxe-b7,96.45,bonus_buy,RTP when using BUY MONEY RESPIN (instant-trigger purchase),False
+pirate-gold-deluxe-b7,96.48,default,,True
+pirate-golden-age-b7,96.49,default,,True
+pirates-pub-b7,96.0,bonus_buy,Buy Free Spins,False
+pirates-pub-b7,96.03,default,,True
+pixie-wings-b7,96.67,default,,True
+pizza-pizza-pizza-b7,96.04,default,,True
+pizza-pizza-pizza-b7,96.04,ante_bet,Ante Bet 25x,False
+pizza-pizza-pizza-b7,96.04,bonus_buy,Buy Free Spins,False
+platinum-lightning-b10,96.29,default,,True
+platinum-lightning-deluxe-b10,96.29,default,,True
+plinko-1000-b22,96.0,default,Not printed in-game; from the provider's official game page,True
+plinko-2-b10,98.6,default,Lower bound of the range stated in the game rules,True
+plinko-2-b10,99.0,default,Upper bound; depends on chosen risk level and number of lines,False
+plinko-2-halloween-b10,98.6,default,Official RTP range 98.6%-99% depending on chosen risk level/lines strategy; lower bound,True
+plinko-2-halloween-b10,99.0,default,"Upper bound of the stated RTP range (98.6%-99%), depending on chosen strategy",False
+plinko-aztec-b22,98.0,default,Not printed in-game; from the provider's official game page,True
+plinko-b10,98.91,default,Lower bound of the range printed in the game rules,True
+plinko-b10,99.16,player_config,Upper bound; RTP depends on chosen risk level and row count,False
+plushie-wins-b7,96.84,default,,True
+poker-kingdom-win-b30,96.74,default,Not printed in the build (P-S09); provider page payload and official PG Soft PDF agree.,True
+pompeii-megareels-megawaystm-b7,96.0,default,,True
+pompeii-megareels-megawaystm-b7,96.02,bonus_buy,Buy Double Multiplier Free Spins,False
+pompeii-megareels-megawaystm-b7,96.06,bonus_buy,Buy Free Spins,False
+pop-zen-b10,96.3,default,,True
+pot-of-fortune-b7,96.0,default,,True
+potion-spells-b10,96.01,bonus_buy,Buy Bonus purchase directly triggers THE POT feature,False
+potion-spells-b10,96.3,default,,True
+power-of-merlin-megaways-b7,96.08,bonus_buy,RTP when using BUY FREE SPINS,False
+power-of-merlin-megaways-b7,96.09,default,,True
+power-of-thor-megaways-b7,96.55,default,,True
+power-of-thor-megaways-b7,96.97,bonus_buy,Buy Free Spins,False
+power-vault-b28,96.41,default,,True
+prosperity-fortune-tree-b30,96.77,default,Provider game page and official PDF agree; the build itself prints no RTP.,True
+prosperity-horse-b29,96.59,ante_bet,Super Bet enabled,False
+prosperity-horse-b29,96.62,bonus_buy,Feature Buy enabled,False
+prosperity-horse-b29,96.66,default,,True
+pub-kings-b7,96.05,bonus_buy,Buy Free Spins,False
+pub-kings-b7,96.08,default,,True
+pumpedx-b27,95.0,default,Provider's curated site page claims 96% RTP; in-build booklet reads 95.0% (P-T02); booklet used.,True
+pumpkin-patch-b29,96.74,default,,True
+pumpkin-potion-b23,94.4,default,printed in-game summary table as 94.397%,True
+purple-fox-b23,94.88,default,,True
+pyramid-king-b7,96.5,default,,True
+queen-of-atlantis-b7,96.42,default,,True
+queen-of-bounty-b30,96.74,default,Provider game page and official PDF agree; the build itself prints no RTP.,True
+queen-of-gods-b7,96.38,default,"official min/max RTP range 96.36%-96.38%; no single default figure shown in-game, upper bound used as default",True
+queen-of-gold-scratchcard-b7,76.5,default,Theoretical RTP range 76.5%-85% (paytable); 76.5% = lower-bound default,True
+queen-of-queens-ii-b29,96.03,default,,True
+queenie-b7,96.51,default,,True
+queenie-b7,96.55,bonus_buy,Buy Free Spins,False
+ra-vs-osiris-b7,96.51,ante_bet,"RA Super Spin 3, cost 1000x bet, min WILD mult 100x",False
+ra-vs-osiris-b7,96.51,bonus_buy,"RA Buy Super Free Spins, cost 250x bet, min mult 8x",False
+ra-vs-osiris-b7,96.52,ante_bet,"OSIRIS Super Spin 3, cost 2000x bet, min WILD mult 100x",False
+ra-vs-osiris-b7,96.52,bonus_buy,"OSIRIS Buy Super Free Spins, cost 500x bet, min mult 8x",False
+ra-vs-osiris-b7,96.53,player_config,RA mode (in-game volatility choice),True
+ra-vs-osiris-b7,96.54,ante_bet,"OSIRIS Super Spin 2, cost 200x bet, min WILD mult 8x",False
+ra-vs-osiris-b7,96.54,bonus_buy,"OSIRIS Buy Free Spins, cost 200x bet",False
+ra-vs-osiris-b7,96.54,player_config,OSIRIS mode (in-game volatility choice),False
+ra-vs-osiris-b7,96.55,ante_bet,"RA Super Spin 1, cost 20x bet, guaranteed WILD",False
+ra-vs-osiris-b7,96.55,ante_bet,"RA Super Spin 2, cost 100x bet, min WILD mult 8x",False
+ra-vs-osiris-b7,96.55,bonus_buy,"RA Buy Free Spins, cost 100x bet",False
+ra-vs-osiris-b7,96.58,ante_bet,"OSIRIS Super Spin 1, cost 40x bet, guaranteed WILD",False
+rabbit-garden-b7,96.05,default,,True
+rabbit-garden-b7,96.08,bonus_buy,RTP of the game when using BUY FREE SPINS,False
+rabbit-road-b22,95.5,default,Not printed in the build; from the provider card inout.games/game/rabbit-road-inout,True
+raging-waterfall-megaways-b7,96.48,ante_bet,Ante Bet (25x bet multiplier / Double Chance),False
+raging-waterfall-megaways-b7,96.5,default,,True
+raging-waterfall-megaways-b7,96.51,bonus_buy,Buy Free Spins,False
+raiden-shogun-b29,96.62,default,,True
+raiden-shogun-b29,96.64,bonus_buy,Feature Buy enabled,False
+raiden-shogun-b29,96.67,ante_bet,Super Bet enabled,False
+raider-jane-s-crypt-of-fortune-b30,96.75,default,From the provider's own game page; the build itself prints no RTP (both panels read in full).,True
+rainbow-gold-b7,96.45,default,,True
+rainbow-reels-b7,96.05,bonus_buy,Buy Free Spins,False
+rainbow-reels-b7,96.07,default,,True
+rat-king-b28,96.3,default,,True
+rat-king-b28,96.34,ante_bet,"With Push Bet active (raises Base Bet by 20%, per rules_p8.png)",False
+rat-king-b28,96.58,bonus_buy,Buy Free Spins: 3 Scatters trigger (10 base Free Spins),False
+rat-king-b28,96.63,bonus_buy,Buy Free Spins: 4 Scatters trigger (15 base Free Spins),False
+rat-king-b28,96.93,bonus_buy,Buy Free Spins: 5 Scatters trigger (20 base Free Spins),False
+rat-royale-b7,96.48,ante_bet,ANTE BET 2,False
+rat-royale-b7,96.52,default,,True
+rat-royale-b7,96.52,bonus_buy,Buy Super Free Spins,False
+rat-royale-b7,96.54,ante_bet,ANTE BET 1,False
+rat-royale-b7,96.54,bonus_buy,Buy Free Spins,False
+ratinho-sortudo-b7,97.57,default,,True
+rave-party-fever-b30,96.73,default,Provider page payload and official PG Soft PDF agree; not printed in the build itself,True
+razor-returns-b28,96.16,ante_bet,"Push Bet on (+10% base bet), always uses Gamble Feature",False
+razor-returns-b28,96.24,feature,"Push Bet off, always uses Gamble Feature",False
+razor-returns-b28,96.55,default,"Push Bet off, never uses Gamble Feature (base configuration)",True
+razor-returns-b28,96.55,ante_bet,"Push Bet on (+10% base bet), never uses Gamble Feature",False
+razor-shark-b28,96.7,default,,True
+razor-shark-jackpots-b28,96.18,ante_bet,"Push Bet ON, 1.5x Base Bet",False
+razor-shark-jackpots-b28,96.38,default,,True
+razor-ways-b28,96.06,bonus_buy,Bonus Buy: Grand Razor Reveal (150x base bet),False
+razor-ways-b28,96.23,bonus_buy,Bonus Buy: Razor Reveal (50x base bet),False
+razor-ways-b28,96.29,bonus_buy,Bonus Buy: Free Spins x3 Multiplier (81.5x base bet),False
+razor-ways-b28,96.34,bonus_buy,Bonus Buy: Converter into Wild (67x base bet),False
+razor-ways-b28,96.35,bonus_buy,Bonus Buy: Free Spins Random Multiplier (150x base bet),False
+razor-ways-b28,96.36,default,,True
+razor-ways-b28,96.4,ante_bet,Push Bet: Mystery and Scatter tile (+400% total bet),False
+razor-ways-b28,96.42,bonus_buy,Bonus Buy: Free Spins x5 Multiplier (164x base bet),False
+razor-ways-b28,96.44,ante_bet,"Push Bet: Scatters tile (+140% total bet, higher Scatter chance)",False
+razor-ways-b28,96.48,ante_bet,"Push Bet: Mystery Symbols tile (+300% total bet, guarantees 2 Mystery Symbols)",False
+razor-ways-b28,96.52,bonus_buy,Bonus Buy: Free Spins x10 Multiplier (466x base bet),False
+razor-ways-b28,96.6,bonus_buy,Bonus Buy: Free Spins x1 Multiplier (73x base bet),False
+red-hot-catch-b31,90.0,operator_config,"Build BP_RedHotCatch90, provider page only",False
+red-hot-catch-b31,92.0,operator_config,"Build BP_RedHotCatch92, provider page only",False
+red-hot-catch-b31,93.0,operator_config,"Build BP_RedHotCatch93, provider page only",False
+red-hot-catch-b31,94.0,default,"Build BP_RedHotCatch94, printed in-game",True
+red-hot-catch-b31,94.0,ante_bet,"Express Bet ON (extra 0.2x stake), printed in-game",False
+red-hot-luck-b7,96.08,default,,True
+red-hot-luck-b7,96.08,bonus_buy,Buy Free Spins,False
+red-hot-multipliers-b28,96.22,default,,True
+reel-banks-b7,96.04,default,,True
+reel-banks-b7,96.04,bonus_buy,RTP when using BUY FREE SPINS (printed value identical to base),False
+reel-of-ra-b10,97.0,bonus_buy,Buy Free Spins bonus purchase,False
+reel-of-ra-b10,97.02,default,,True
+reel-of-ra-b10,97.02,ante_bet,"Chance x2 ante active (doubles bet, raises FS trigger odds)",False
+reel-royale-showdown-b30,96.75,default,Provider game page and official PDF agree; the build itself prints no RTP.,True
+regal-knights-b28,94.25,operator_config,"Alternate RTP on Push Gaming storefront page, not present anywhere in this demo build",False
+regal-knights-b28,96.22,default,,True
+regal-knights-b28,96.33,ante_bet,"With Push Bet active (1.5x Base Bet), higher chance of triggering Free Spins",False
+regal-knights-b28,96.38,bonus_buy,"Bonus Buy: Random Scatters / Mystery Free Spins, 60x Base Bet",False
+release-the-kraken-2-b7,96.01,ante_bet,Ante Bet / Higher Chance to Win Feature active,False
+release-the-kraken-2-b7,96.03,default,,True
+release-the-kraken-2-b7,96.03,bonus_buy,Standard Buy Free Spins (100x total bet),False
+release-the-kraken-2-b7,96.05,bonus_buy,VIP / King Kraken Buy Free Spins (250x total bet),False
+release-the-kraken-b7,96.5,default,,True
+release-the-kraken-megaways-b7,96.4,default,,True
+release-the-kraken-megaways-b7,96.51,bonus_buy,Buy Free Spins - 3 BONUS symbols guaranteed,False
+release-the-kraken-megaways-b7,96.52,bonus_buy,"Buy Free Spins - 4, 5 or 6 BONUS symbols randomly",False
+release-the-kraken-megaways-b7,96.53,ante_bet,Ante Bet ON (25x bet multiplier),False
+resurrecting-riches-b7,96.5,default,,True
+resurrecting-riches-b7,96.58,bonus_buy,Buy Free Spins,False
+retro-sweets-b28,96.05,ante_bet,Push Bet: 1 Scatter guaranteed (+100% bet),False
+retro-sweets-b28,96.25,bonus_buy,Buy Super Free Spins Feature,False
+retro-sweets-b28,96.3,bonus_buy,Buy Normal Free Spins Feature,False
+retro-sweets-b28,96.31,ante_bet,Push Bet: 2 Scatters guaranteed (+300% bet),False
+retro-sweets-b28,96.49,default,,True
+retro-tapes-b28,96.47,default,,True
+retro-tapes-b28,96.71,bonus_buy,Buy Free Spins / Singles Feature (100x base bet),False
+retro-tapes-b28,96.71,bonus_buy,Buy Super Free Spins / Hits Feature (400x base bet),False
+retro-trader-b10,99.06,default,,True
+retroverse-b28,96.24,default,,True
+retroverse-b28,96.3,ante_bet,Push Bet - Mega Boost (2.5x Base Bet),False
+retroverse-b28,96.32,bonus_buy,Bonus Buy - Free Spins (120x Base Bet),False
+retroverse-b28,96.41,bonus_buy,Bonus Buy - Super Free Spins (280x Base Bet),False
+retroverse-b28,96.42,ante_bet,Push Bet - Boost (1.5x Base Bet),False
+return-of-the-dead-b7,96.71,default,,True
+rick-and-morty-wubba-lubba-dub-dub-b31,93.0,operator_config,operator build BP_RickAndMortyWubba93,False
+rick-and-morty-wubba-lubba-dub-dub-b31,96.14,default,,True
+ride-em-cowboy-b29,96.0,default,,True
+ride-the-lightning-b7,96.48,bonus_buy,BUY FREE SPINS,False
+ride-the-lightning-b7,96.5,default,,True
+rings-of-olympus-b27,93.56,default,Lower bound of the printed RTP range 93.56%-97.16% (rules p.4).,True
+rings-of-olympus-b27,97.16,player_config,"Upper bound, reached via cash-out on the first sector after a ring symbol.",False
+ripe-rewards-b7,96.02,default,,True
+ripe-rewards-b7,96.04,bonus_buy,Buy Free Spins,False
+ripe-rewards-b7,96.07,ante_bet,Ante Bet / Double Chance (30x),False
+rise-of-giza-powernudge-b7,96.49,default,,True
+rise-of-giza-powernudge-b7,96.49,bonus_buy,Buy Free Spins,False
+rise-of-pyramids-b7,95.96,bonus_buy,Buy Free Spins,False
+rise-of-pyramids-b7,95.97,default,,True
+rise-of-pyramids-b7,96.0,bonus_buy,Buy Bonus Respins,False
+road-2-riches-b10,96.27,default,Not printed in-game; official BGaming page. SlotCatalog gives 96.24 (0.03pp lower).,True
+road-2-riches-x-mas-b10,96.27,default,overall theoretical RTP printed in the Help section,True
+robo-dice-b22,97.0,default,Derived: COEF x chance = 97 at 7 printed points; RTP word not printed,True
+robospin-b10,98.0,default,"Live RTP varies by player config (Traits To Win); 98% is the ceiling at TTW=6, e.g. 97.78% at TTW=3.",True
+rock-paper-scissors-b22,98.0,default,,True
+rock-vegas-b7,96.64,default,,True
+rocket-blast-megaways-b7,96.01,default,,True
+rocket-blast-megaways-b7,96.09,bonus_buy,Buy Free Spins,False
+rocket-dice-xy-b10,97.92,default,Lower bound of the range printed in the rules panel,True
+rocket-dice-xy-b10,98.33,player_config,Upper bound: RTP is 97.92%-98.33% depending on the threshold the player picks,False
+rocket-eruption-triple-blast-b10,96.57,default,,True
+rodeo-drive-b29,96.04,default,,True
+rolling-in-treasures-b7,96.5,default,,True
+rolling-in-treasures-b7,96.5,bonus_buy,BUY FREE SPINS (100x total bet),False
+rolling-in-treasures-b7,96.5,bonus_buy,BUY SUPER FREE SPINS 1 (250x total bet),False
+rolling-in-treasures-b7,96.5,feature,SUPER SPIN special bet active (200x total bet vs 20x normal play),False
+rolling-in-treasures-b7,96.55,bonus_buy,BUY SUPER FREE SPINS 2 (1000x total bet),False
+rolling-in-treasures-b7,96.59,ante_bet,ANTE BET special bet active (100x total bet vs 20x normal play),False
+roman-coin-b23,96.47,default,printed in-game summary table as 96.467%,True
+roman-empire-b29,96.05,default,,True
+romeo-and-juliet-b7,96.18,default,"RTP not disclosed in-game (6/6 booklet pages read); value from Pragmatic Play official game page, not in-demo.",True
+ronny-vs-donny-b23,96.29,default,printed in-game summary table as 96.292%,True
+rooster-rumble-b30,96.75,default,From the provider's game page and official PDF; the build itself prints no RTP.,True
+rotating-element-b10,97.19,default,,True
+roulette-b22,97.3,default,Not printed in game; derived by us as 36/37 from 37 pockets and measured payouts; provider card says 98.5,True
+royal-drop-b22,96.0,default,Not printed in-game; from the provider's official game page,True
+royal-fruits-multilines-b10,97.15,default,When 80 or 100 win lines are selected (80 is the default),True
+royal-fruits-multilines-b10,97.16,default,"When 20, 40 or 60 win lines are selected",False
+royal-high-road-b10,95.91,bonus_buy,Buy Gold Respin at 40x the bet,False
+royal-high-road-b10,96.01,bonus_buy,Buy Free Spins at 50x the bet,False
+royal-high-road-b10,96.14,default,,True
+royal-roulette-500x-b10,97.3,default,Stated in the game rules and on the provider game page,True
+rump-and-friends-b22,96.0,default,Not printed in game; taken from provider card,True
+running-sushi-b7,96.0,default,,True
+safari-king-b7,96.49,default,,True
+safari-rumble-b29,96.7,bonus_buy,"Buy Feature purchased: guarantees 3-5 Scatters, plays as a normal Free Games trigger",False
+safari-rumble-b29,96.81,ante_bet,"Super Bet enabled (stake 0.30->0.50): boosts odds of Free Games, Rumble Re-Spin, splits",False
+safari-rumble-b29,97.38,default,,True
+safari-wilds-b30,96.75,default,,True
+saint-nicked-3-present-tense-b31,92.0,operator_config,Lower operator-configured build BP_SaintNicked392,False
+saint-nicked-3-present-tense-b31,93.0,default,,True
+saint-nicked-4-b31,92.0,default,,True
+saint-nicked-4-b31,92.0,ante_bet,Express Bet,False
+sakura-riches-60-b10,97.16,default,"Single figure printed in the rules booklet, Return to Player section; no per-mode breakdown",True
+samurai-code-b7,96.07,bonus_buy,Buy Free Spins,False
+samurai-code-b7,96.08,default,,True
+samurai-s-katana-b28,95.99,default,Strategy: always use the Gamble Feature,False
+samurai-s-katana-b28,96.32,default,Strategy: never use the Gamble Feature,True
+sanatorium-secrets-b7,96.42,bonus_buy,Buy Free Spins (75x bet),False
+sanatorium-secrets-b7,96.47,default,,True
+sanatorium-secrets-b7,96.49,bonus_buy,Buy Super Free Spins (150x bet),False
+santa-b7,95.92,default,,True
+santa-hopper-b28,96.26,bonus_buy,Bonus Buy: Jingle Drop Feature (20x base bet),False
+santa-hopper-b28,96.28,ante_bet,Push Bet: Wild Santa Symbol tier (+100% base bet),False
+santa-hopper-b28,96.35,default,,True
+santa-hopper-b28,96.35,ante_bet,Push Bet: Wild Santa and Scatter tier (+150% base bet),False
+santa-hopper-b28,96.36,bonus_buy,Bonus Buy: Random Bonus Symbol with Chimney (350x base bet),False
+santa-hopper-b28,96.37,ante_bet,Push Bet: Scatter Symbol tier (+40% base bet),False
+santa-hopper-b28,96.38,bonus_buy,Bonus Buy: Jingle Drop with Instant Prizes (75x base bet),False
+santa-hopper-b28,96.4,bonus_buy,Bonus Buy: Random Bonus Symbol (100x base bet),False
+santa-s-great-gifts-b7,96.23,default,"Ante Bet (Double Chance) active, 25x bet multiplier",False
+santa-s-great-gifts-b7,96.25,default,,True
+santa-s-great-gifts-b7,96.32,bonus_buy,Buy Free Spins Level 3 (400x bet),False
+santa-s-great-gifts-b7,96.32,bonus_buy,Buy Free Spins Level 4 (500x bet),False
+santa-s-great-gifts-b7,96.42,bonus_buy,Buy Free Spins Level 1 (100x bet),False
+santa-s-great-gifts-b7,96.7,bonus_buy,Buy Free Spins Level 2 (200x bet),False
+santa-s-inn-b29,96.8,default,,True
+santa-s-inn-b29,96.82,ante_bet,Super Bet enabled,False
+santa-s-slay-b7,96.51,bonus_buy,Buy Free Spins,False
+santa-s-slay-b7,96.52,ante_bet,EXTRA CHANCE OF SCATTERS (10x bet multiplier),False
+santa-s-slay-b7,96.53,default,,True
+santa-s-vault-b28,96.37,default,,True
+santa-s-wonderland-b7,96.23,default,,True
+santa-s-wonderland-b7,96.38,bonus_buy,Buy Midnight Riches,False
+santa-s-xmas-rush-b7,96.5,ante_bet,Ante Bet 30x multiplier (1.5x bet); 3x chance of Free Spins,False
+santa-s-xmas-rush-b7,96.51,default,,True
+santa-s-xmas-rush-b7,96.52,ante_bet,Ante Bet 60x multiplier (3x bet); 8x chance of Free Spins,False
+santa-s-xmas-rush-b7,96.55,bonus_buy,Buy Free Spins purchased at 120x total bet,False
+savage-buffalo-spirit-b10,97.1,default,,True
+savage-buffalo-spirit-b10,97.26,bonus_buy,"RTP for Buy Bonus feature (rules booklet, RTP section)",False
+savage-buffalo-spirit-megawaystm-b10,96.75,default,"Provider game page (current); not printed in-game, see uncertain",True
+savannah-legend-b7,96.5,default,,True
+savannah-legend-b7,96.5,bonus_buy,Buy Free Spins,False
+scooter-biker-b23,95.13,default,,True
+scopa-b29,96.67,default,,True
+scratch-alpaca-bronze-b10,90.0,default,"Single flat RTP printed in the in-game rules booklet, Return to Player section.",True
+scratch-alpaca-gold-b10,90.0,default,"Printed in game rules, Return to Player section",True
+scratch-dice-b10,97.2,default,Stated in the in-game rules; provider marketing page says 96.2%,True
+scruffy-scallywags-b29,95.92,default,,True
+sea-of-spirits-b28,94.28,operator_config,Alternate operator-configured build per provider page; not reachable in this demo,False
+sea-of-spirits-b28,96.23,ante_bet,"Bonus Boost Push Bet toggle: +50% Base Bet, raises Bonus/Super Bonus odds",False
+sea-of-spirits-b28,96.26,bonus_buy,"Bonus Buy: Bonus Feature (100x Base Bet, 5 Free Spins)",False
+sea-of-spirits-b28,96.32,bonus_buy,"Bonus Buy: Bonus Chance Wheel (150x Base Bet, random outcome)",False
+sea-of-spirits-b28,96.34,bonus_buy,"Bonus Buy: Super Bonus Feature (500x Base Bet, 8 Free Spins)",False
+sea-of-spirits-b28,96.35,bonus_buy,"Bonus Buy: Coin Reveal Feature (500x Base Bet, guaranteed 24-position reveal)",False
+sea-of-spirits-b28,96.36,default,,True
+sea-of-spirits-b28,96.41,ante_bet,"Mega Bonus Boost Push Bet toggle: +400% Base Bet, raises Bonus/Super Bonus odds",False
+secret-city-gold-b7,96.06,default,,True
+secret-city-gold-b7,96.22,bonus_buy,Buy Free Spins,False
+secrets-of-cleopatra-b30,96.74,default,From the provider's own game page; the build itself prints no RTP (both panels read in full).,True
+sexy-joker-b23,96.25,default,,True
+sexy-joker-fortune-wheel-b23,96.06,default,printed in-game summary table as 96.06% (provider card says 96.6),True
+shamrock-saints-b28,96.27,bonus_buy,"Buy Random Scatters, 100x Base Bet, random 1x/5x/10x Initial Multiplier",False
+shamrock-saints-b28,96.37,bonus_buy,"Buy 4 Scatters, 111x Base Bet, 5x Initial Multiplier",False
+shamrock-saints-b28,96.41,bonus_buy,"Buy 5 Scatters, 180x Base Bet, 10x Initial Multiplier",False
+shamrock-saints-b28,96.66,default,,True
+shamrock-saints-b28,96.81,bonus_buy,"Buy 3 Scatters, 56x Base Bet, 1x Initial Multiplier",False
+shamrock-saints-b28,96.9,bonus_buy,"Buy Leprechaun Reveal Bonus, 300x Base Bet, guaranteed 20 Leprechaun positions",False
+shaolin-fortunes-100-b29,96.3,default,,True
+shaolin-soccer-b30,96.93,default,From the provider's page and official PDF; the build itself prints no RTP (both panels read in full).,True
+shark-spark-hold-win-b10,97.0,default,,True
+shark-spark-hold-win-b10,97.0,bonus_buy,Buy Bonus - Shark & Ladders,False
+shark-spark-hold-win-b10,97.0,bonus_buy,Buy Bonus - Coin Spin,False
+shield-of-sparta-b7,96.5,default,,True
+shining-hot-100-b7,96.32,default,,True
+shining-hot-20-b7,96.33,default,,True
+shining-hot-40-b7,96.36,default,,True
+shining-hot-5-b7,96.33,default,,True
+shogun-s-land-b29,94.4,default,,True
+sky-bounty-b7,96.05,default,,True
+sky-bounty-b7,96.06,ante_bet,Ante Bet active,False
+sky-bounty-b7,96.07,bonus_buy,Buy Free Spins,False
+skylight-wonders-b30,96.74,default,,True
+sleeping-dragon-b7,96.5,default,,True
+sleeping-dragon-b7,96.5,bonus_buy,Buy Free Spins (100x total bet),False
+sleeping-dragon-b7,96.5,bonus_buy,Buy Respins (100x total bet),False
+sleeping-dragon-ultra-dark-b7,96.5,default,,True
+slime-party-b29,96.64,ante_bet,Super Bet enabled,False
+slime-party-b29,96.81,default,,True
+slime-party-b29,96.88,bonus_buy,Feature Buy enabled,False
+slot-machine-b10,97.0,default,,True
+slot-machine-b10,97.0,bonus_buy,"RTP in the Buy Bonus feature is 97% (same as default, no separate/lower RTP for the purchase path)",False
+smugglers-cove-b7,96.5,default,,True
+snakes-and-ladders-megadicetm-b7,96.68,default,,True
+snakes-ladders-snake-eyes-b7,96.08,default,,True
+snow-party-b7,96.49,bonus_buy,Buy Random Free Spins (gamble),False
+snow-party-b7,96.5,default,,True
+snow-party-b7,96.5,ante_bet,Ante Bet / Super Spin special bets active,False
+snow-party-b7,96.5,bonus_buy,Buy Free Spins / Super Free Spins,False
+soccermania-b10,95.99,bonus_buy,RTP in the buy bonus feature,False
+soccermania-b10,96.23,default,,True
+soju-bomb-b29,96.64,default,,True
+space-collector-b23,96.02,default,,True
+space-xy-b10,96.88,default,Lower bound of the range printed in the game rules,True
+space-xy-b10,98.92,player_config,Upper bound; game states RTP 96.88-98.92% by chosen strategy,False
+spartan-king-b7,96.6,default,,True
+speed-winner-b30,96.72,default,,True
+spellbinding-mystery-b7,96.04,default,,True
+spellbinding-mystery-b7,96.1,bonus_buy,Buy Free Spins,False
+spellmaster-b7,96.5,default,,True
+spellmaster-b7,96.5,bonus_buy,Buy Respins,False
+spin-and-spell-b10,95.9,default,,True
+spin-score-megawaystm-b7,96.55,default,,True
+spin-score-megawaystm-b7,96.97,bonus_buy,Buy Free Spins,False
+spin-strike-b27,93.5,default,,True
+spire-b7,98.0,default,"Expert/Master difficulty, round played to completion without cashout",True
+spirit-of-adventure-b7,96.6,default,,True
+spirit-of-adventure-b7,96.6,bonus_buy,Buy Free Spins,False
+spirit-wolf-wins-b31,92.06,operator_config,"Operator build BP_SpiritWolfWins92, base game",False
+spirit-wolf-wins-b31,92.11,operator_config,"Operator build BP_SpiritWolfWins92, Bonus Buy",False
+spirit-wolf-wins-b31,93.04,operator_config,"Operator build BP_SpiritWolfWins93, base game",False
+spirit-wolf-wins-b31,93.14,operator_config,"Operator build BP_SpiritWolfWins93, Bonus Buy",False
+spirit-wolf-wins-b31,95.04,default,Build BP_SpiritWolfWins95 (played in demo),True
+spirit-wolf-wins-b31,95.14,bonus_buy,"Bonus Buy RTP, build BP_SpiritWolfWins95",False
+spirited-wonders-b30,96.7,default,From provider's game page and its official PDF (they agree); the build itself prints no RTP.,True
+squid-gamebler-b22,94.0,default,,True
+st-patrick-s-pots-hold-and-win-b10,97.24,bonus_buy,Buy Bonus: 1-3 Features,False
+st-patrick-s-pots-hold-and-win-b10,97.38,bonus_buy,Buy Bonus: 1 Feature,False
+st-patrick-s-pots-hold-and-win-b10,97.75,default,,True
+st-patrick-s-pots-hold-and-win-b10,97.76,bonus_buy,Buy Bonus: 3 Features,False
+st-patrick-s-pots-hold-and-win-b10,97.91,bonus_buy,Buy Bonus: Chance x2,False
+stairs-b22,97.0,default,Not printed in the build; from the provider card inout.games/game/stairs,True
+star-bounty-b7,96.6,default,,True
+star-pirates-code-b7,96.7,default,,True
+starlight-christmas-b7,96.5,default,,True
+starlight-christmas-b7,96.5,ante_bet,RTP with ANTE BET (Double Chance / 25x mode) active,False
+starlight-christmas-b7,96.5,bonus_buy,RTP when using BUY FREE SPINS,False
+starlight-princess-1000-b7,96.49,bonus_buy,Buy Free Spins,False
+starlight-princess-1000-b7,96.5,default,,True
+starlight-princess-b7,96.5,default,,True
+starlight-princess-b7,96.5,ante_bet,RTP with Ante Bet (Double Chance) active,False
+starlight-princess-b7,96.5,bonus_buy,RTP when using Buy Free Spins,False
+starlight-princess-pachi-b7,96.04,default,,True
+starlight-princess-pachi-b7,96.04,bonus_buy,Buy Free Spins feature purchased,False
+starlight-princess-pachi-b7,96.04,bonus_buy,Buy Super Free Spins feature purchased,False
+starlight-princess-super-scatter-b7,96.49,bonus_buy,Buy Super Free Spins (500x bet),False
+starlight-princess-super-scatter-b7,96.5,default,,True
+starlight-princess-super-scatter-b7,96.5,bonus_buy,Buy Free Spins (100x bet),False
+starlight-wins-b7,96.5,default,,True
+stars-stripes-hold-and-win-b10,92.66,feature,"Hold & Win feature RTP excl. Jackpot; 96.7% incl. Jackpot, per rules",False
+stars-stripes-hold-and-win-b10,96.7,default,"Overall RTP incl. Jackpot contribution; 96.23% excl. Jackpot, per in-game rules",True
+stars-stripes-hold-and-win-b10,96.7,feature,Free Spins feature RTP,False
+starz-megaways-b7,96.48,default,,True
+steamin-reels-b7,96.52,bonus_buy,Buy Free Spins,False
+steamin-reels-b7,96.52,default,Ante Bet 1 (4x bet multiplier),False
+steamin-reels-b7,96.52,default,Ante Bet 2 (1000x bet multiplier),False
+steamin-reels-b7,96.53,default,,True
+steampunk-plinko-b29,96.55,ante_bet,Super Bet enabled (2.0x cost),False
+steampunk-plinko-b29,96.62,bonus_buy,Feature Buy enabled,False
+steampunk-plinko-b29,96.75,default,,True
+sticky-bees-b7,95.99,bonus_buy,Buy Free Spins,False
+sticky-bees-b7,96.06,default,,True
+strawberry-cocktail-b7,96.0,default,,True
+strawberry-cocktail-b7,96.0,bonus_buy,"Buy Bonus Respins (all 3 tiers, identical RTP)",False
+street-power-b10,97.15,default,,True
+street-racer-b7,96.52,default,,True
+striking-hot-5-b7,96.29,default,,True
+sugar-daddy-b22,95.0,default,Not printed in the build; from the provider card inout.games/game/sugar-daddy,True
+sugar-rush-1000-b7,96.44,bonus_buy,Buy Super Free Spins,False
+sugar-rush-1000-b7,96.52,bonus_buy,Buy Free Spins,False
+sugar-rush-1000-b7,96.53,default,,True
+sugar-rush-b7,96.5,default,,True
+sugar-rush-b7,96.5,bonus_buy,Buy Free Spins,False
+sugar-rush-super-scatter-b7,96.5,bonus_buy,Buy Free Spins,False
+sugar-rush-super-scatter-b7,96.5,feature,Super Spin 1,False
+sugar-rush-super-scatter-b7,96.52,feature,Super Spin 2,False
+sugar-rush-super-scatter-b7,96.55,bonus_buy,Buy Super Free Spins (x2 starting multipliers),False
+sugar-rush-super-scatter-b7,96.56,ante_bet,Ante Bet (10x chance of feature),False
+sugar-rush-super-scatter-b7,96.58,default,,True
+sugar-rush-xmas-b7,96.5,default,,True
+sugar-rush-xmas-b7,96.5,bonus_buy,Buy Free Spins,False
+sultan-s-diamond-b23,94.52,default,,True
+sumo-supreme-megaways-b7,96.53,bonus_buy,Buy Free Spins (75x bet),False
+sumo-supreme-megaways-b7,96.55,default,,True
+sumo-supreme-megaways-b7,96.56,ante_bet,"Ante Bet (Double Chance, 25x multiplier)",False
+sunnydaze-asylum-b7,96.48,ante_bet,"Ante Bet 1, bet multiplier 30x, 2x higher free spins chance",False
+sunnydaze-asylum-b7,96.49,bonus_buy,"Buy Super Free Spins 1, 200x total bet",False
+sunnydaze-asylum-b7,96.51,bonus_buy,Buy Free Spins 100x total bet,False
+sunnydaze-asylum-b7,96.51,bonus_buy,"Buy Super Free Spins 2, 400x total bet",False
+sunnydaze-asylum-b7,96.53,default,,True
+sunnydaze-asylum-b7,96.53,ante_bet,"Ante Bet 2, bet multiplier 60x, 5x higher free spins chance",False
+super-7s-b7,96.5,default,,True
+super-golden-spins-b7,96.55,default,,True
+super-gummy-strike-b7,96.48,bonus_buy,Buy Respins (200x),False
+super-gummy-strike-b7,96.48,bonus_buy,Buy Super Respins (400x),False
+super-gummy-strike-b7,96.5,default,,True
+super-joker-b7,96.52,default,,True
+super-serge-b7,96.48,bonus_buy,"Buy 6 Bonuses, Cash Collect Spins chosen",False
+super-serge-b7,96.49,bonus_buy,"Buy 6 Bonuses, Free Spins chosen",False
+super-serge-b7,96.5,default,,True
+super-serge-b7,96.5,bonus_buy,"Buy 4 Bonuses, Cash Collect Spins chosen",False
+super-serge-b7,96.5,bonus_buy,"Buy 4 Bonuses, Free Spins chosen",False
+super-serge-b7,96.5,bonus_buy,"Buy 5 Bonuses, Cash Collect Spins chosen",False
+super-serge-b7,96.5,bonus_buy,"Buy 5 Bonuses, Free Spins chosen",False
+super-tiki-strike-b7,96.5,default,,True
+super-tiki-strike-b7,96.5,bonus_buy,Buy Respins,False
+super-twister-b29,96.0,default,,True
+super-wildrix-b30,96.75,default,,True
+super-x-b7,96.48,ante_bet,RTP when the SUPER SPIN ANTE BET (10x) toggle is active,False
+super-x-b7,96.56,default,,True
+supermarket-spree-b30,96.71,default,Provider game page and official PDF; the build itself prints no RTP.,True
+sweet-bonanza-1000-b7,96.5,ante_bet,"RTP with Ante Bet enabled (bet multiplier 25x, Double Chance to Win)",False
+sweet-bonanza-1000-b7,96.52,bonus_buy,Buy Free Spins 100x total bet,False
+sweet-bonanza-1000-b7,96.53,default,,True
+sweet-bonanza-1000-b7,96.55,bonus_buy,Buy Super Free Spins 500x total bet,False
+sweet-bonanza-2500-b7,96.49,ante_bet,Ante Bet 1,False
+sweet-bonanza-2500-b7,96.49,ante_bet,Ante Bet 2,False
+sweet-bonanza-2500-b7,96.5,bonus_buy,Buy Free Spins,False
+sweet-bonanza-2500-b7,96.5,player_config,Super Spin 1,False
+sweet-bonanza-2500-b7,96.5,player_config,Super Spin 2,False
+sweet-bonanza-2500-b7,96.51,bonus_buy,Buy Super Free Spins 1,False
+sweet-bonanza-2500-b7,96.51,bonus_buy,Buy Super Free Spins 2,False
+sweet-bonanza-2500-b7,96.52,default,,True
+sweet-bonanza-b7,96.49,operator_config,Minimum RTP configuration printed in game rules (multiple configs exist),False
+sweet-bonanza-b7,96.6,default,Maximum RTP configuration printed in game rules (multiple configs exist),True
+sweet-bonanza-pop-b7,97.05,default,,True
+sweet-bonanza-super-scatter-b7,96.51,default,,True
+sweet-bonanza-super-scatter-b7,96.51,bonus_buy,Buy Free Spins,False
+sweet-bonanza-super-scatter-b7,96.51,bonus_buy,Buy Super Free Spins,False
+sweet-bonanza-super-scatter-b7,96.53,default,Ante Double Chance,False
+sweet-bonanza-xmas-b7,96.49,default,,True
+sweet-bonanza-xmas-b7,96.6,bonus_buy,Buy Feature (10 Free Spins),False
+sweet-burst-b7,96.52,default,,True
+sweet-craze-b7,96.54,default,,True
+sweet-craze-b7,96.54,bonus_buy,Buy Super Free Spins (500x),False
+sweet-craze-b7,96.54,feature,"Super Spin (10x bet per spin, guaranteed Chest each spin; Free Spins disabled)",False
+sweet-craze-b7,96.55,ante_bet,"Ante Bet (2x bet per spin, 5x Free Spins chance)",False
+sweet-craze-b7,96.55,bonus_buy,Buy Free Spins (100x),False
+sweet-keno-b22,98.0,default,Not printed in-game; from the provider's official game page,True
+sweet-kingdom-b7,96.48,bonus_buy,Buy Bonus (100x total bet),False
+sweet-kingdom-b7,96.52,default,,True
+sweet-loot-b7,96.5,bonus_buy,Buy Super Free Spins,False
+sweet-loot-b7,96.51,feature,SUPER SPIN 1,False
+sweet-loot-b7,96.52,ante_bet,ANTE BET 1,False
+sweet-loot-b7,96.52,feature,SUPER SPIN 2,False
+sweet-loot-b7,96.53,default,,True
+sweet-loot-b7,96.57,bonus_buy,Buy Free Spins,False
+sweet-loot-b7,96.58,ante_bet,ANTE BET 2,False
+sweet-powernudge-b7,96.08,default,,True
+sweet-powernudge-b7,96.08,ante_bet,ANTE BET (25x bet multiplier),False
+sweet-powernudge-b7,96.08,bonus_buy,BUY FREE SPINS,False
+sweet-rush-bonanza-b7,96.5,default,,True
+sweet-rush-bonanza-b7,96.5,bonus_buy,"Ante Bet, Super Spin 1/2, Buy Free Spins, Buy Super Free Spins - all identical RTP",False
+sweet-samurai-b10,97.6,default,,True
+sword-of-ares-b7,96.39,bonus_buy,RTP when using Buy Free Spins,False
+sword-of-ares-b7,96.4,default,,True
+tales-of-egypt-b7,91.93,default,Official PP page; some aggregators list 94.11,True
+tapinata-b27,95.0,default,"Minimum RTP, at zero/base Heat Scale level (in-game Rules, RTP section)",True
+tapinata-b27,96.0,player_config,"Maximum RTP at maximum Heat Scale level, reached by the player tapping (before any Free Spins purchase)",False
+tapinata-b27,96.4,bonus_buy,RTP specific to purchasing Free Spins via the BUY $50 dialog,False
+tarot-treasures-b28,96.26,ante_bet,"Push Bet: 2x Base Bet, raises Free Spins trigger chance",False
+tarot-treasures-b28,96.36,bonus_buy,"Random Bonus Symbols buy, 70x Base Bet",False
+tarot-treasures-b28,96.39,default,,True
+ted-b31,95.8,default,,True
+teen-patti-20-20-b27,89.76,default,Lower bound of the RTP range printed in the Rules (rules p6); depends on which field is staked,True
+teen-patti-20-20-b27,97.39,player_config,"Upper bound, called the maximum RTP in the same Rules sentence (rules p6)",False
+temple-guardians-b7,96.53,default,,True
+temple-guardians-b7,96.56,bonus_buy,Buy Respins,False
+temujin-treasures-b7,96.49,bonus_buy,RTP when using BUY BONUS (Wheel with Free Games Bonus),False
+temujin-treasures-b7,96.55,default,,True
+tens-or-better-b29,99.14,default,With optimal strategy,True
+thai-flower-power-play-b31,90.0,operator_config,Alternative build BP_ThaiFlowerPowerPlay90 printed on the provider page,False
+thai-flower-power-play-b31,92.0,operator_config,Alternative build BP_ThaiFlowerPowerPlay92 printed on the provider page,False
+thai-flower-power-play-b31,93.0,operator_config,Alternative build BP_ThaiFlowerPowerPlay93 printed on the provider page,False
+thai-flower-power-play-b31,94.0,default,,True
+thai-flower-power-play-b31,94.0,ante_bet,"Power Play modes (Power x2, Super x3, Ultra x5 of base stake)",False
+the-alter-ego-b7,96.01,bonus_buy,Buy Free Spins 150x,False
+the-alter-ego-b7,96.01,bonus_buy,Buy Free Spins 200x,False
+the-alter-ego-b7,96.05,bonus_buy,Buy Free Spins 100x,False
+the-alter-ego-b7,96.07,default,,True
+the-amazing-money-machine-b7,96.42,default,,True
+the-big-dawgs-b7,95.95,bonus_buy,"Buy Double Dawgs Free Spins (250x, 10 free spins)",False
+the-big-dawgs-b7,95.97,default,,True
+the-big-dawgs-b7,96.0,bonus_buy,"Buy Dirty Dawgs Free Spins (80x, 5 free spins)",False
+the-big-deal-b29,96.0,default,,True
+the-big-dog-house-b7,96.43,bonus_buy,Buy Ghost Out Free Spins (200x total bet),False
+the-big-dog-house-b7,96.47,feature,SUPER SPIN 3 (2000x total bet) - 50% chance of Colossal Wild,False
+the-big-dog-house-b7,96.5,bonus_buy,Buy Biggie Free Spins (200x total bet),False
+the-big-dog-house-b7,96.51,ante_bet,ANTE BET 1 (40x total bet) - higher chance of Biggie Free Spins,False
+the-big-dog-house-b7,96.53,default,,True
+the-big-dog-house-b7,96.53,ante_bet,ANTE BET 3 (80x total bet) - higher chance of any Free Spins,False
+the-big-dog-house-b7,96.54,ante_bet,ANTE BET 4 (120x total bet) - higher chance of Biggie Ghost Out Free Spins,False
+the-big-dog-house-b7,96.54,bonus_buy,Buy Free Spins (100x total bet),False
+the-big-dog-house-b7,96.54,feature,SUPER SPIN 2 (1000x total bet) - guaranteed random Wild each spin,False
+the-big-dog-house-b7,96.54,feature,SUPER SPIN 4 (4000x total bet) - guaranteed Colossal Wild each spin,False
+the-big-dog-house-b7,96.55,ante_bet,ANTE BET 2 (40x total bet) - higher chance of Ghost Out Free Spins,False
+the-big-dog-house-b7,96.55,feature,SUPER SPIN 1 (100x total bet) - guaranteed Expanded Wild each spin,False
+the-big-dog-house-b7,96.56,bonus_buy,Buy Biggie Ghost Out Free Spins (500x total bet),False
+the-catfather-b7,96.52,operator_config,,False
+the-catfather-b7,98.1,default,,True
+the-catfather-part-ii-b7,96.07,default,,True
+the-dog-house-b7,96.51,default,,True
+the-dog-house-dog-or-alive-b7,96.52,default,,True
+the-dog-house-dog-or-alive-b7,96.54,bonus_buy,Buy Free Spins,False
+the-dog-house-megaways-1000-b7,96.5,default,,True
+the-dog-house-megawaystm-b7,96.55,default,,True
+the-dog-house-multihold-b7,96.06,default,,True
+the-dog-house-multihold-b7,96.08,bonus_buy,Buy Free Spins,False
+the-dog-house-muttley-crew-b7,96.5,default,,True
+the-dog-house-muttley-crew-b7,96.54,bonus_buy,Buy Free Spins (all three options: 3/4/5 scatters — all yield 96.54%),False
+the-dog-house-royal-hunt-b7,96.51,bonus_buy,Buy Free Spins,False
+the-dog-house-royal-hunt-b7,96.51,bonus_buy,Buy Royal Free Spins,False
+the-dog-house-royal-hunt-b7,96.53,default,,True
+the-flintstones-b31,92.0,operator_config,operator build BP_TheFlintstones92,False
+the-flintstones-b31,93.0,operator_config,operator build BP_TheFlintstones93,False
+the-flintstones-b31,95.0,default,,True
+the-godfather-3-pillars-of-power-b10,96.57,default,,True
+the-goonies-b31,92.0,operator_config,operator build BP_TheGoonies92,False
+the-goonies-b31,93.0,operator_config,operator build BP_TheGoonies93,False
+the-goonies-b31,96.0,default,,True
+the-goonies-hey-you-guys-b31,92.0,operator_config,operator build BP_TheGooniesHeyYouGuys92,False
+the-goonies-hey-you-guys-b31,93.0,operator_config,operator build BP_TheGooniesHeyYouGuys93,False
+the-goonies-hey-you-guys-b31,95.0,default,,True
+the-grand-show-b28,94.35,operator_config,Alternate operator-configured build per provider page; not available in this demo,False
+the-grand-show-b28,96.2,bonus_buy,Bonus Buy: Minimum x1 Instant Prizes (46.4x Base Bet),False
+the-grand-show-b28,96.24,bonus_buy,Bonus Buy: Bonus Game (58.6x Base Bet),False
+the-grand-show-b28,96.28,default,,True
+the-grand-show-b28,96.35,ante_bet,Free Spins Push Bet toggle (+40% total bet); raises Free Spins Feature odds,False
+the-grand-show-b28,96.35,bonus_buy,Bonus Buy: Super Bonus Game (450x Base Bet),False
+the-grand-show-b28,96.37,bonus_buy,Bonus Buy: Minimum x10 Instant Prizes (147x Base Bet),False
+the-grand-show-b28,96.38,ante_bet,Bonus Feature Push Bet toggle (+60% total bet); raises Bonus Feature odds,False
+the-grand-show-b28,96.38,bonus_buy,Bonus Buy: Minimum x5 Instant Prizes (86.6x Base Bet),False
+the-grand-show-b28,96.42,bonus_buy,Bonus Buy: Random Scatter Symbols (75x Base Bet),False
+the-great-banker-b28,96.31,default,,True
+the-great-chicken-escape-b7,96.5,default,,True
+the-great-stick-up-b7,96.3,default,,True
+the-hand-of-midas-b7,96.54,default,,True
+the-knight-king-b7,95.97,bonus_buy,Buy Free Spins feature purchased,False
+the-knight-king-b7,96.05,default,,True
+the-magic-cauldron-enchanted-brew-b7,96.44,default,,True
+the-money-men-megawaystm-b7,96.01,bonus_buy,Buy Free Spins (100x total bet),False
+the-money-men-megawaystm-b7,96.02,default,,True
+the-money-men-megawaystm-b7,96.03,ante_bet,Ante Bet / Double Chance to Win Feature ON (30x bet multiplier),False
+the-red-queen-b7,96.06,default,,True
+the-ultimate-5-b7,96.5,default,,True
+the-wild-gang-b7,96.02,default,,True
+the-wild-gang-b7,96.04,bonus_buy,Buy Wanted Free Spins,False
+the-wild-gang-b7,96.04,bonus_buy,Buy Dead or Alive Free Spins,False
+the-wild-machine-b7,96.52,default,,True
+three-card-poker-b29,97.68,player_config,Pair Plus side bet only,False
+three-card-poker-b29,97.99,default,Ante/Bet play (main wager),True
+three-crazy-piggies-b30,96.72,default,Provider game page and official PDF agree; the build prints no RTP.,True
+three-star-fortune-b7,96.27,default,,True
+tic-tac-take-b7,96.63,default,,True
+tic-tac-take-b7,96.63,bonus_buy,Buy Respin Feature,False
+tiki-tumble-b28,96.49,default,,True
+tiki-tumble-b28,96.81,bonus_buy,Buy: random number of Scatter Symbols (100x base bet),False
+tiki-tumble-b28,96.89,bonus_buy,Buy: 5 Scatter Symbols (152x base bet),False
+tiki-tumble-b28,96.9,bonus_buy,Buy: 4 Scatter Symbols (123.5x base bet),False
+tiki-tumble-b28,96.91,bonus_buy,Buy: 3 Scatter Symbols (95x base bet),False
+tile-master-b10,97.36,default,,True
+timber-stacks-b7,96.05,default,,True
+timber-stacks-b7,96.05,ante_bet,RTP when using Ante Bet (25x multiplier / Double Chance to Win),False
+timber-stacks-b7,96.05,bonus_buy,RTP when using Buy Free Spins (120x total bet),False
+tiny-toads-b7,96.45,bonus_buy,Buy Free Spins (Random: 1-2-3 modifiers randomly),False
+tiny-toads-b7,96.46,bonus_buy,Buy Free Spins (Guaranteed: all 3 modifiers guaranteed),False
+tiny-toads-b7,96.51,default,,True
+tooty-fruity-fruits-b29,96.67,default,,True
+tooty-fruity-fruits-b29,96.75,bonus_buy,with Feature Buy enabled,False
+tooty-fruity-fruits-b29,96.91,ante_bet,with Super Bet enabled,False
+top-eagle-b10,96.88,default,RTP range 96.88%-98.92% depends on cashout strategy (rules_p13); lower bound stored as default,True
+topo-mole-b22,95.0,default,Not printed in the build; from the provider game card inout.games/game/topo-mole,True
+tornado-rampage-b30,96.75,default,Not printed in-game; pgsoft.com game page + official PDF agree (P-S09).,True
+totally-hot-b10,97.21,default,,True
+totally-hot-x-mas-b10,97.21,default,Single RTP stated in the game rules,True
+totem-towers-b29,96.63,default,,True
+totem-wonders-b30,96.73,default,Provider game page and official PDF agree; the build itself prints no RTP.,True
+touchdown-wins-b30,96.74,default,,True
+touro-sortudo-b7,97.55,default,,True
+tower-b22,95.0,default,,True
+towering-fortunes-b7,96.5,default,,True
+towers-b27,95.0,default,single RTP printed in the in-game Rules (Game Details -> RTP),True
+train-heist-johnny-cash-b10,97.0,default,"Overall theoretical RTP, rules_p9/p10",True
+train-heist-johnny-cash-b10,97.0,ante_bet,Buy Bonus: Booster ante modifier (guarantees TNT),False
+train-heist-johnny-cash-b10,97.0,ante_bet,Buy Bonus: Chance x5 ante modifier (raises FS odds),False
+train-heist-johnny-cash-b10,97.0,bonus_buy,"Buy Bonus: Free Spins (8 spins, 100x bet)",False
+train-heist-johnny-cash-b10,97.0,bonus_buy,"Buy Bonus: Super Free Spins (12 spins, 250x bet)",False
+train-to-rio-grande-b10,96.06,feature,Bonus Game (safe with three number reels),False
+train-to-rio-grande-b10,96.1,default,,True
+tramp-day-truewaystm-b10,96.7,default,,True
+treasure-horse-b7,96.52,default,,True
+treasure-of-anubis-b10,97.13,default,,True
+treasure-wild-b7,96.53,default,,True
+treasure-wild-b7,96.53,bonus_buy,Buy Free Spins,False
+treasures-of-osiris-b7,96.45,bonus_buy,"Buy Super Free Spins 1 (75x total bet, guaranteed 2 modifiers)",False
+treasures-of-osiris-b7,96.5,bonus_buy,"Buy Super Free Spins 2 (150x total bet, all 3 modifiers guaranteed)",False
+treasures-of-osiris-b7,96.52,default,Normal play (25x bet multiplier),True
+treasures-of-osiris-b7,96.54,bonus_buy,"Buy Free Spins (60x total bet, 1-3 random modifiers)",False
+tree-of-riches-b7,96.45,default,,True
+trees-of-treasure-b7,96.1,default,,True
+tricky-treats-b28,94.38,operator_config,Provider showcase second RTP figure; not observed in demo build,False
+tricky-treats-b28,96.31,ante_bet,"Push Bet, 2 Wild Symbols Guaranteed tier",False
+tricky-treats-b28,96.32,default,,True
+tricky-treats-b28,96.34,bonus_buy,Bonus Buy: Super Free Spins (400x base bet),False
+tricky-treats-b28,96.37,bonus_buy,Bonus Buy: Normal Free Spins (120x base bet),False
+tricky-treats-b28,96.38,ante_bet,"Push Bet, 1 Wild Symbol Guaranteed tier",False
+triple-b22,99.0,default,Not printed in the build; provider card only. An affiliate claims 90 percent,True
+triple-dragons-b7,96.51,default,,True
+triple-jokers-b7,96.47,default,,True
+triple-nipple-b10,97.0,default,,True
+triple-pot-gold-b7,96.01,ante_bet,Ante Bet mode (25x multiplier),False
+triple-pot-gold-b7,96.02,default,,True
+triple-pot-gold-b7,96.02,bonus_buy,Buy Free Spins (80x total bet),False
+triple-pot-plinko-hercules-b7,96.53,bonus_buy,"Buy Bonus, 100x total bet, minimum 2 of 3 modifiers active",False
+triple-pot-plinko-hercules-b7,96.55,default,,True
+triple-pot-plinko-hercules-b7,96.57,ante_bet,"PLINKO PLAY special bet mode: reels replaced by Plinko board, 100x bet multiplier",False
+triple-pot-plinko-hercules-b7,96.57,bonus_buy,"Buy Super Bonus, 300x total bet, all 3 modifiers active",False
+triple-rampage-b28,96.23,default,,True
+triple-tigers-b7,97.52,default,,True
+tropical-tiki-b7,96.2,bonus_buy,Buy Free Spins,False
+tropical-tiki-b7,96.43,default,,True
+tsar-treasures-b30,96.75,default,From the provider's own game page; the build itself prints no RTP (both panels read in full).,True
+tundra-s-fortune-b7,96.04,default,,True
+tundra-s-fortune-b7,96.06,default,Ante Bet ON (bet multiplier 25x vs 20x normal play),False
+turbo-keno-b27,96.02,default,Base game average; booklet range 95.81%-96.37% (rules_p4_rtp.png).,True
+turbo-keno-b27,97.06,bonus_buy,"Extra Balls purchase average; booklet range 90.91%-98.00%, wider variance.",False
+turbo-mines-b27,94.54,player_config,Minimum RTP printed for the 9x9 grid size (in-game Rules -> RTP table),False
+turbo-mines-b27,94.59,player_config,Minimum RTP printed for the 7x7 grid size (in-game Rules -> RTP table),False
+turbo-mines-b27,94.71,default,Minimum RTP for the default 5x5 grid size (in-game Rules -> RTP table),True
+turbo-mines-b27,94.89,player_config,Minimum RTP printed for the 3x3 grid size (in-game Rules -> RTP table),False
+turbo-plinko-b27,96.73,default,Minimum stated by the game; no upper RTP bound is printed in the build,True
+tut-s-treasure-tower-b7,96.51,default,,True
+twilight-princess-b7,96.01,bonus_buy,Buy Free Spins,False
+twilight-princess-b7,96.08,default,,True
+twist-b22,97.0,default,Not printed in the game; value taken from the provider's game card,True
+twist-san-quentin-b22,95.5,default,,True
+twist-x-mas-b22,97.0,default,Not printed in-game; from the provider's official game page,True
+ufo-pyramids-b10,97.17,default,,True
+ufo-pyramids-b10,97.17,bonus_buy,Buy Bonus (Buy Free Spins),False
+ultra-burn-b7,96.62,default,,True
+ultra-hold-and-spin-b7,96.7,default,,True
+vampire-s-charm-b30,96.75,default,Provider page payload and official PG Soft PDF agree; not printed in the build itself,True
+vampires-vs-wolves-b7,96.38,default,"Game minimum RTP; rules state range 96.38-96.49% — likely Wolf Free Spins mode (low volatility, 14 spins)",False
+vampires-vs-wolves-b7,96.49,default,,True
+vampy-party-b7,96.0,default,,True
+vampy-party-b7,96.0,bonus_buy,Buy Free Spins (3/4/5/? scatter — all variants),False
+vegas-magic-b7,96.08,default,,True
+vegas-nights-b7,96.05,default,,True
+vegas-vault-b28,96.36,default,,True
+viking-forge-b7,96.0,ante_bet,Ante Bet on (25x bet multiplier),False
+viking-forge-b7,96.05,default,,True
+viking-forge-b7,96.06,bonus_buy,Buy Free Spins,False
+viking-s-plunder-b29,96.13,default,,True
+vip-crown-b23,94.52,default,,True
+viva-lock-vegas-b28,96.35,default,,True
+volcano-goddess-b7,96.49,default,,True
+volcano-goddess-b7,96.49,bonus_buy,"RTP when using BUY BONUS FEATURES, printed separately on rules_p4",False
+voodoo-magic-b7,96.49,bonus_buy,Buy Free Spins,False
+voodoo-magic-b7,96.5,default,,True
+vortex-2-b27,96.0,default,,True
+vortex-aero-b27,95.88,default,"Lower bound of the printed 95.88-96.21% RTP range (rules booklet, RTP section).",True
+vortex-aero-b27,96.21,player_config,Upper bound of the range; booklet does not state what reaches it (checked rendered page and raw DOM).,False
+vortex-b27,93.56,default,lower bound of the RTP range printed in the in-game Rules (RTP section),True
+vortex-b27,97.16,player_config,"upper bound, reached by cashing out on the first segment after any symbol",False
+vortex-halloween-b27,93.56,default,Lower bound of the printed RTP range; storefront's single 96% figure is not in the build (P-T01),True
+vortex-halloween-b27,97.16,player_config,"Achieved by cashing out on the first segment after landing any of Jack, Potion or Ghost",False
+vortex-power-kick-b27,95.0,default,"Highest RTP is reached by cashing out on the first segment after landing Fire, Lightning or Water.",True
+vortex-powerplay-b27,95.0,default,Booklet states flat 95% RTP; describes condition for the highest RTP but prints no numeric upper bound for it.,True
+vortex-safari-b27,93.56,default,"Lower bound of the printed 93.56-97.16% RTP range (rules booklet, RTP section).",True
+vortex-safari-b27,97.16,player_config,"Upper bound; achieved by cashing out on the first segment after landing Lion, Snake or Rhino (booklet).",False
+wealth-inn-b29,96.67,default,,True
+wealthy-frog-b7,96.5,default,,True
+weird-science-b29,95.87,default,,True
+werewolf-s-hunt-b30,96.75,default,From the provider's own game page and official game-information PDF; the build itself prints no RTP.,True
+west-town-b10,96.95,default,,True
+wheel-b22,95.0,default,"Not printed in game; provider card says 95. Sector count: 92.6-96.3 by zone, avg 94.96",True
+wheel-o-gold-b7,95.94,bonus_buy,Buy Free Spins,False
+wheel-o-gold-b7,96.02,default,,True
+wheel-o-gold-b7,96.02,ante_bet,Ante Bet toggle on,False
+wheel-of-happiness-b7,96.47,default,,True
+wheel-of-happiness-b7,96.49,bonus_buy,Buy Free Spins (70x total bet),False
+wheel-of-happiness-b7,96.5,ante_bet,Ante Bet / Double Chance to Win (30x bet multiplier),False
+wheel-out-b22,96.5,default,Not printed in-game; from the provider's official game page,True
+wicket-blast-b27,95.0,default,,True
+wild-bandito-b30,96.73,default,From the provider's own game page; the build itself prints no RTP (both panels read in full).,True
+wild-beach-party-b7,96.45,bonus_buy,Buy Free Spins,False
+wild-beach-party-b7,96.53,default,,True
+wild-booster-b7,96.47,default,,True
+wild-booster-b7,96.47,bonus_buy,Buy Free Spins - identical to base RTP per rules text,False
+wild-bounty-showdown-b30,96.75,default,,True
+wild-card-gang-b10,97.25,default,,True
+wild-card-gang-b10,97.25,ante_bet,"Chance x2 toggle (+25% bet, better FS odds)",False
+wild-card-gang-b10,97.25,bonus_buy,Buy Bonus feature (100x bet),False
+wild-cash-b10,95.99,bonus_buy,,False
+wild-cash-b10,96.23,default,,True
+wild-cash-dice-b10,96.06,bonus_buy,Buy Bonus,False
+wild-cash-dice-b10,96.1,default,,True
+wild-celebrity-bus-megawaystm-b7,96.01,default,,True
+wild-celebrity-bus-megawaystm-b7,96.05,bonus_buy,Buy Free Spins,False
+wild-celebrity-bus-megawaystm-b7,96.05,bonus_buy,Buy Respins,False
+wild-chicago-b10,97.1,default,,True
+wild-chicago-b10,97.26,bonus_buy,RTP when Free Spins are purchased via the Buy Bonus feature,False
+wild-clusters-b10,96.68,bonus_buy,Wild Boost X5 feature buy,False
+wild-clusters-b10,96.79,bonus_buy,Drop Dead Spin feature buy,False
+wild-clusters-b10,96.82,default,,True
+wild-clusters-b10,96.82,bonus_buy,Wild Boost X3 feature buy,False
+wild-clusters-b10,96.85,bonus_buy,Wild Blast feature buy,False
+wild-coaster-b30,96.71,default,Provider page payload and official PG Soft PDF agree; not printed in the build itself,True
+wild-fireworks-b30,96.75,default,,True
+wild-flow-b29,96.73,default,,True
+wild-gladiators-b7,96.17,default,,True
+wild-heart-b10,96.92,default,,True
+wild-heart-b10,96.98,bonus_buy,"Buy Bonus, WITH 3x3 WILDS tier (400x bet)",False
+wild-heart-b10,97.02,bonus_buy,"Buy Bonus, REGULAR tier (50x bet)",False
+wild-heart-b10,97.03,bonus_buy,"Buy Bonus, WITH 2x2 WILDS tier (120x bet)",False
+wild-heist-cashout-b30,96.77,default,,True
+wild-hop-drop-b7,96.46,default,,True
+wild-hop-drop-b7,96.47,bonus_buy,RTP when using BUY FREE SPINS,False
+wild-pixies-b7,96.48,default,,True
+wild-skullz-b7,96.44,default,,True
+wild-skullz-b7,96.47,bonus_buy,"Buy Super Free Spins (600x total bet), starting wild multiplier 32x",False
+wild-skullz-b7,96.5,ante_bet,"Ante Bet (100x bet multiplier, 10x higher chance to trigger Free Spins)",False
+wild-skullz-b7,96.52,bonus_buy,Buy Free Spins (100x total bet),False
+wild-skullz-b7,96.52,feature,"Super Spin (200x bet multiplier, guaranteed Expanded Wild each spin, no Free Spins trigger)",False
+wild-spells-b7,96.4,default,,True
+wild-swarm-2-b28,96.67,default,,True
+wild-swarm-3-chocolate-eggs-b28,94.33,operator_config,Alternate RTP configuration on provider's game page; not selectable in this demo build.,False
+wild-swarm-3-chocolate-eggs-b28,96.48,default,,True
+wild-swarm-b28,97.03,default,,True
+wild-swarm-triple-hive-b28,96.48,default,,True
+wild-tiger-2-b10,97.0,default,,True
+wild-tiger-2-b10,97.0,bonus_buy,Buy Hold and Win bonus (60x total bet),False
+wild-trucks-b29,96.65,default,,True
+wild-walker-b7,96.55,default,,True
+wild-west-duels-b7,96.0,default,,True
+wild-west-duels-b7,96.0,bonus_buy,Buy Beer Game,False
+wild-west-gold-b7,96.51,default,,True
+wild-west-gold-blazing-bounty-b7,96.47,bonus_buy,BUY SUPER FREE SPINS,False
+wild-west-gold-blazing-bounty-b7,96.48,default,,True
+wild-west-gold-blazing-bounty-b7,96.48,ante_bet,Ante Bet ON (bet multiplier 40x vs 20x normal),False
+wild-west-gold-blazing-bounty-b7,96.51,bonus_buy,BUY FREE SPINS,False
+wild-wild-bananas-b7,96.1,default,,True
+wild-wild-bananas-b7,96.15,ante_bet,Ante Bet active,False
+wild-wild-joker-b7,96.49,default,,True
+wild-wild-joker-b7,96.5,ante_bet,Ante Bet ON (stake multiplier x1.5),False
+wild-wild-joker-b7,96.52,bonus_buy,Buy Super Free Spins feature purchased,False
+wild-wild-joker-b7,96.55,bonus_buy,Buy Free Spins feature purchased,False
+wild-wild-pearls-b7,96.46,default,,True
+wild-wild-pearls-b7,96.49,ante_bet,Ante Bet / Double Chance to Win Feature ON (30x vs 20x bet multiplier),False
+wild-wild-pearls-b7,96.5,bonus_buy,Buy Super Free Spins (150x total bet),False
+wild-wild-pearls-b7,96.52,bonus_buy,Buy Free Spins (75x total bet),False
+wild-wild-riches-b7,96.77,default,RTP range 96.00%-96.77%,True
+wild-wild-riches-megaways-b7,96.02,default,,True
+wild-wild-riches-megaways-b7,96.02,bonus_buy,Buy Free Spins,False
+wild-wild-riches-returns-b7,96.5,default,,True
+wild-wild-riches-returns-b7,96.53,ante_bet,Irish Spins mode (bet multiplier 250x vs normal 25x),False
+wild-wild-riches-returns-b7,96.58,bonus_buy,Buy Free Spins (100x total bet),False
+wild-wildebeest-wins-b7,96.46,bonus_buy,Buy Free Spins,False
+wild-wildebeest-wins-b7,96.51,default,,True
+wildies-b7,96.0,bonus_buy,Buy Free Spins,False
+wildies-b7,96.01,default,,True
+win-win-fish-prawn-crab-b30,96.72,default,Not printed in the build (P-S09). 96.72% confirmed by provider page payload and official PG Soft PDF.,True
+wings-of-iguazu-b30,96.78,default,,True
+wisdom-of-athena-1000-b7,96.0,default,,True
+wisdom-of-athena-1000-xmas-b7,96.0,default,,True
+wisdom-of-athena-1000-xmas-b7,96.0,ante_bet,Ante Bet,False
+wisdom-of-athena-1000-xmas-b7,96.0,bonus_buy,Buy Free Spins,False
+wisdom-of-athena-1000-xmas-b7,96.49,bonus_buy,Buy Super Free Spins,False
+wisdom-of-athena-1000-xmas-b7,96.53,feature,Super Spin,False
+wisdom-of-athena-b7,96.07,default,,True
+wisdom-of-athena-b7,96.08,ante_bet,With Ante Bet (25x multiplier) active,False
+wisdom-of-athena-b7,96.08,bonus_buy,With Buy Free Spins purchased,False
+witch-heart-megaways-b7,96.49,default,,True
+witch-heart-megaways-b7,96.49,bonus_buy,Buy Free Spins 150x,False
+wolf-fury-fire-blitz-b31,92.0,operator_config,Alternative build BP_WolfFuryFireBlitz92 printed on the provider page,False
+wolf-fury-fire-blitz-b31,94.0,default,,True
+wolf-fury-fire-blitz-b31,94.0,ante_bet,"Power Play modes (x5, x10, x20 of base stake)",False
+wolf-gold-4-pack-b7,96.51,default,,True
+wolf-gold-4-pack-b7,96.55,bonus_buy,Buy Bonus Wheel,False
+wolf-gold-b7,96.0,default,,True
+wolf-gold-scratchcard-b7,67.03,default,Theoretical RTP range 67.03%-74.48%,True
+wolf-gold-ultimate-b7,96.56,bonus_buy,Buy Feature (Buy Money Respin),False
+wolf-gold-ultimate-b7,96.57,default,,True
+wonders-of-aztec-b7,96.49,bonus_buy,Buy Super Free Spins,False
+wonders-of-aztec-b7,96.51,ante_bet,ANTE BET active,False
+wonders-of-aztec-b7,96.51,feature,SUPER SPIN 2 active,False
+wonders-of-aztec-b7,96.52,feature,SUPER SPIN 1 active,False
+wonders-of-aztec-b7,96.55,default,,True
+wonders-of-aztec-b7,96.55,bonus_buy,Buy Free Spins,False
+yakuza-honor-b30,96.75,default,From the provider's own game page; the build itself prints no RTP (both panels read in full).,True
+year-of-the-dragon-king-b7,96.08,default,,True
+yeti-quest-b7,96.06,default,,True
+yeti-quest-b7,96.07,bonus_buy,Buy Free Spins,False
+yokai-b10,97.0,default,,True
+yokai-b10,97.0,ante_bet,Buy Bonus with Chance x2,False
+yokai-b10,97.0,bonus_buy,Buy Bonus with Free Spins,False
+yommi-rush-b10,96.0,default,,True
+you-can-piggy-bank-on-it-b7,96.52,ante_bet,RTP with the 15x ante bet multiplier,False
+you-can-piggy-bank-on-it-b7,96.53,default,,True
+you-can-piggy-bank-on-it-b7,96.53,bonus_buy,RTP when using BUY FREE SPINS,False
+yum-yum-powerways-b7,96.43,default,,True
+yum-yum-powerways-b7,96.67,bonus_buy,Buy Free Spins,False
+zeus-deluxe-b29,96.61,default,,True
+zeus-deluxe-b29,96.74,bonus_buy,if Feature Buy is enabled,False
+zeus-vs-hades-gods-of-war-250-b7,96.56,default,Same in Olympus and Hades modes; also matches Super Spin 1 and 5 of 6 buy-feature variants.,True
+zeus-vs-hades-gods-of-war-250-b7,96.56,bonus_buy,All 6 Buy Feature options (3 per mode: Free Spins/Super FS1/Super FS2) read the same RTP.,False
+zeus-vs-hades-gods-of-war-250-b7,96.6,ante_bet,"Super Spin 2 special bet (guaranteed 250x wild, 300x normal stake); same in both modes.",False
+zeus-vs-hades-gods-of-war-b7,96.01,bonus_buy,"Olympus mode, Buy Super Free Spins ($600 / 300x)",False
+zeus-vs-hades-gods-of-war-b7,96.04,bonus_buy,"Olympus mode, Buy Free Spins ($150 / 75x)",False
+zeus-vs-hades-gods-of-war-b7,96.05,default,"Olympus mode (default profile, HIGH volatility)",True
+zeus-vs-hades-gods-of-war-b7,96.07,default,Hades mode (VERY HIGH volatility),False
+zeus-vs-hades-gods-of-war-b7,96.08,bonus_buy,"Hades mode, Buy Super Free Spins ($600 / 300x)",False
+zeus-vs-hades-gods-of-war-b7,96.14,bonus_buy,"Hades mode, Buy Free Spins ($300 / 150x)",False
+zeus-vs-typhon-b7,96.42,bonus_buy,Buy Super Free Spins,False
+zeus-vs-typhon-b7,96.45,default,Super Spin active,False
+zeus-vs-typhon-b7,96.49,default,,True
+zeus-vs-typhon-b7,96.5,bonus_buy,Buy Free Spins,False
+zeus-vs-typhon-b7,96.52,default,Ante Bet active,False
+zeus-x-machina-b23,96.0,default,,True
+zombie-blasters-b30,96.75,default,Not printed in the build (P-S09); provider page payload and official PG Soft PDF agree.,True
+zombie-carnival-b7,96.5,default,,True
+zombie-carnival-b7,96.5,bonus_buy,Buy Free Spins,False
+zombie-school-megaways-b7,96.55,default,,True
+zombie-school-megaways-b7,96.55,ante_bet,Ante Bet (40x bet multiplier),False
+zombie-school-megaways-b7,96.55,bonus_buy,Buy Free Spins / Buy Persistent Multiplier Free Spins,False
